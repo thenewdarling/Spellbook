@@ -24,7 +24,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 **Flesh Rot.** The creature’s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
-**Mindfire.** The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *[Confusion](confusion)* spell during combat.
+**Mindfire.** The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *[[Confusion]]* spell during combat.
 
 **Seizure.** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
