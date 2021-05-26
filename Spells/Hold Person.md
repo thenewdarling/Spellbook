@@ -1,6 +1,6 @@
 # Hold Person
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 154
-tags: [[Bard]], [[Cleric]], druid, monk (four elements), paladin (conquest), paladin (redemption), paladin (vengeance), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], enchantment
+tags: [[Bard]], [[Cleric]], druid, monk (four elements), paladin (conquest), paladin (redemption), paladin (vengeance), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

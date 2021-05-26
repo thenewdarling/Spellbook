@@ -1,6 +1,6 @@
 # Power Word Heal
 sources: [[Player's Handbook]] pg 266
-tags: [[Bard]], [[9th level]], evocation
+tags: [[Bard]], [[9th level]], [[Evocation Spells]]
 
 **9th-level evocation**
 

@@ -1,6 +1,6 @@
 # Demiplane
 sources: [[Player's Handbook]] pg 231, [[SRD]] pg 134
-tags: warlock, [[Wizard]], [[8th level]], conjuration
+tags: warlock, [[Wizard]], [[8th level]], [[Conjuration Spells]]
 
 **8th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Simulacrum
 sources: [[Player's Handbook]] pg 276, [[SRD]] pg 180
-tags: [[Wizard]], [[7th level]], illusion
+tags: [[Wizard]], [[7th level]], [[Illusion Spells]]
 
 **7th-level illusion**
 

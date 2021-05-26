@@ -1,6 +1,6 @@
 # Leomund’s Tiny Hut
 sources: [[Player's Handbook]] pg 255
-tags: [[Bard]], [[Wizard]], [[3rd level]], ritual, evocation
+tags: [[Bard]], [[Wizard]], [[3rd level]], ritual, [[Evocation Spells]]
 
 **3rd-level evocation (ritual)**
 

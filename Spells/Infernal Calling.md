@@ -1,6 +1,6 @@
 # Infernal Calling
 sources: [[Xanathar's Guide to Everything]] pg 158
-tags: warlock, [[Wizard]], [[5th level]], conjuration
+tags: warlock, [[Wizard]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Snilloc’s Snowball Swarm
 sources: [[Elemental Evil Player's Companion]] pg 22, [[Xanathar's Guide to Everything]] pg 165
-tags: [[Sorceror]], [[Wizard]], [[2nd level]], evocation
+tags: [[Sorceror]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

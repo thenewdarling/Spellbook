@@ -1,6 +1,6 @@
 # Aid
 sources: [[Player's Handbook]] pg 211, [[SRD]] pg 114
-tags: artificer, [[Cleric]], paladin, [[2nd level]], abjuration
+tags: artificer, [[Cleric]], paladin, [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 

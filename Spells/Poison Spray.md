@@ -1,6 +1,6 @@
 # Poison Spray
 sources: [[Player's Handbook]] pg 266, [[SRD]] pg 169
-tags: artificer, druid, [[Sorceror]], warlock, [[Wizard]], [[cantrip]], conjuration
+tags: artificer, druid, [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

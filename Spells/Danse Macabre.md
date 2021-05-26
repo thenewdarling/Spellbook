@@ -1,6 +1,6 @@
 # Danse Macabre
 sources: [[Xanathar's Guide to Everything]] pg 153
-tags: warlock, [[Wizard]], [[5th level]], necromancy
+tags: warlock, [[Wizard]], [[5th level]], [[Necromancy Spells]]
 
 **5th-level necromancy**
 

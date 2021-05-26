@@ -1,6 +1,6 @@
 # Toll the Dead
 sources: [[Xanathar's Guide to Everything]] pg 169
-tags: [[Cleric]], warlock, [[Wizard]], [[cantrip]], necromancy
+tags: [[Cleric]], warlock, [[Wizard]], [[cantrip]], [[Necromancy Spells]]
 
 **Necromancy cantrip**
 

@@ -1,6 +1,6 @@
 # Zone of Truth
 sources: [[Player's Handbook]] pg 289, [[SRD]] pg 193
-tags: [[Bard]], [[Cleric]], paladin, [[2nd level]], enchantment
+tags: [[Bard]], [[Cleric]], paladin, [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

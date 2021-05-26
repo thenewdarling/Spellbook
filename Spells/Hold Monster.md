@@ -1,6 +1,6 @@
 # Hold Monster
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 154
-tags: [[Bard]], [[Cleric#War]], paladin (redemption), paladin (vengeance), [[Sorceror]], warlock, [[Wizard]], [[5th level]], enchantment
+tags: [[Bard]], [[Cleric#War]], paladin (redemption), paladin (vengeance), [[Sorceror]], warlock, [[Wizard]], [[5th level]], [[Enchantment Spells]]
 
 **5th-level enchantment**
 

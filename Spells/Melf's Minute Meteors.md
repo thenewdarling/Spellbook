@@ -1,6 +1,6 @@
 # Melf’s Minute Meteors
 sources: [[Elemental Evil Player's Companion]] pg 20, [[Xanathar's Guide to Everything]] pg 161
-tags: [[Sorceror]], [[Wizard]], [[3rd level]], evocation
+tags: [[Sorceror]], [[Wizard]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Maddening Darkness
 sources: [[Xanathar's Guide to Everything]] pg 160
-tags: warlock, [[Wizard]], [[8th level]], evocation
+tags: warlock, [[Wizard]], [[8th level]], [[Evocation Spells]]
 
 **8th-level evocation**
 

@@ -1,6 +1,6 @@
 # Compulsion
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 126
-tags: [[Bard]], [[4th level]], enchantment
+tags: [[Bard]], [[4th level]], [[Enchantment Spells]]
 
 **4th-level enchantment**
 

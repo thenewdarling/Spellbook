@@ -1,6 +1,6 @@
 # Tasha’s Mind Whip
 sources: [[Tasha's Cauldron of Everything]] pg 115
-tags: [[Sorceror]], [[Wizard]], [[2nd level]], enchantment
+tags: [[Sorceror]], [[Wizard]], [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

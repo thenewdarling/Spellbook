@@ -1,6 +1,6 @@
 # Transport via Plants
 sources: [[Player's Handbook]] pg 283, [[SRD]] pg 188
-tags: druid, [[6th level]], conjuration
+tags: druid, [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

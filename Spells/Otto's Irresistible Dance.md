@@ -1,6 +1,6 @@
 # Otto’s Irresistible Dance
 sources: [[Player's Handbook]] pg 264
-tags: [[Bard]], [[Wizard]], [[6th level]], enchantment
+tags: [[Bard]], [[Wizard]], [[6th level]], [[Enchantment Spells]]
 
 **6th-level enchantment**
 

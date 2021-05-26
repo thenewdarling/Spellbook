@@ -1,6 +1,6 @@
 # Illusory Dragon
 sources: [[Xanathar's Guide to Everything]] pg 157
-tags: [[Wizard]], [[8th level]], illusion
+tags: [[Wizard]], [[8th level]], [[Illusion Spells]]
 
 **8th-level illusion**
 

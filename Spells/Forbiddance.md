@@ -1,6 +1,6 @@
 # Forbiddance
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 146
-tags: [[Cleric]], [[6th level]], ritual, abjuration
+tags: [[Cleric]], [[6th level]], ritual, [[Abjuration Spells]]
 
 **6th-level abjuration (ritual)**
 

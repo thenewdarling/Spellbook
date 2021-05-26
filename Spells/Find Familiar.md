@@ -1,6 +1,6 @@
 # Find Familiar
 sources: [[Player's Handbook]] pg 240, [[SRD]] pg 143
-tags: [[Wizard]], [[1st level]], ritual, conjuration
+tags: [[Wizard]], [[1st level]], ritual, [[Conjuration Spells]]
 
 **1st-level conjuration (ritual)**
 

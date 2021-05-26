@@ -1,6 +1,6 @@
 # Phantasmal Force
 sources: [[Player's Handbook]] pg 264
-tags: [[Bard]], [[Sorceror]], warlock (fae), warlock (great old one), [[Wizard]], [[2nd level]], illusion
+tags: [[Bard]], [[Sorceror]], warlock (fae), warlock (great old one), [[Wizard]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

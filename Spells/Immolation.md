@@ -1,6 +1,6 @@
 # Immolation
 sources: [[Elemental Evil Player's Companion]] pg 19, [[Xanathar's Guide to Everything]] pg 158
-tags: [[Sorceror]], [[Wizard]], [[5th level]], evocation
+tags: [[Sorceror]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

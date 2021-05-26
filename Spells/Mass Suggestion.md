@@ -1,6 +1,6 @@
 # Mass Suggestion
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 163
-tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[6th level]], enchantment
+tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Enchantment Spells]]
 
 **6th-level enchantment**
 

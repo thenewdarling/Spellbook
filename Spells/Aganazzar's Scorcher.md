@@ -1,6 +1,6 @@
 # Aganazzar’s Scorcher
 sources:  [[Elemental Evil Player's Companion]] pg 15, [[Xanathar's Guide to Everything]] pg 150
-tags: [[Sorceror]], [[Wizard]], [[2nd level]], evocation
+tags: [[Sorceror]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

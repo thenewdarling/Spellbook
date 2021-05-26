@@ -1,6 +1,6 @@
 # Aura Of Vitality
 sources: [[Player's Handbook]] pg 216
-tags: artificer (battle smith), paladin, [[3rd level]], evocation
+tags: artificer (battle smith), paladin, [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Speak with Plants
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 181
-tags: [[Bard]], druid, ranger, [[3rd level]], transmutation
+tags: [[Bard]], druid, ranger, [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

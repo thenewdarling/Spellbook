@@ -1,6 +1,6 @@
 # Mind Blank
 sources: [[Player's Handbook]] pg 259, [[SRD]] pg 164
-tags: [[Bard]], [[Wizard]], [[8th level]], abjuration
+tags: [[Bard]], [[Wizard]], [[8th level]], [[Abjuration Spells]]
 
 **8th-level abjuration**
 

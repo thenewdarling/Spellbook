@@ -1,6 +1,6 @@
 # Fire Shield
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: artificer (battle smith), warlock (fiend), [[Wizard]], [[4th level]], evocation
+tags: artificer (battle smith), warlock (fiend), [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

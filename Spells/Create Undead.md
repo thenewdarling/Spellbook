@@ -1,6 +1,6 @@
 # Create Undead
 sources: [[Player's Handbook]] pg 229, [[SRD]] pg 132
-tags: [[Cleric]], warlock, [[Wizard]], [[6th level]], necromancy
+tags: [[Cleric]], warlock, [[Wizard]], [[6th level]], [[Necromancy Spells]]
 
 **6th-level necromancy**
 

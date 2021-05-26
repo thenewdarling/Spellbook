@@ -1,6 +1,6 @@
 # Aura of Life
 sources: [[Player's Handbook]] pg 216
-tags: paladin, warlock (undying), [[4th level]], abjuration
+tags: paladin, warlock (undying), [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

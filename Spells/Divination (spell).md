@@ -1,6 +1,6 @@
 # Divination
 sources: [[Player's Handbook]] pg 234, [[SRD]] pg 136
-tags: [[Cleric]], druid (forest), druid (grassland), [[4th level]], ritual, divination
+tags: [[Cleric]], druid (forest), druid (grassland), [[4th level]], ritual, [[Divination Spells]]
 
 **4th-level divination (ritual)**
 

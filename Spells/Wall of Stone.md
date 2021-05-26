@@ -1,6 +1,6 @@
 # Wall of Stone
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 190
-tags: artificer, druid, monk (four elements), [[Sorceror]], [[Wizard]], [[5th level]], evocation
+tags: artificer, druid, monk (four elements), [[Sorceror]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

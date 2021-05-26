@@ -1,6 +1,6 @@
 # Summon Undead
 sources: [[Tasha's Cauldron of Everything]] pg 114
-tags: warlock, [[Wizard]], [[3rd level]], necromancy
+tags: warlock, [[Wizard]], [[3rd level]], [[Necromancy Spells]]
 
 **3rd-level necromancy**
 

@@ -1,6 +1,6 @@
 # Ice Storm
 sources: [[Player's Handbook]] pg 252, [[SRD]] pg 155
-tags: artificer (artillerist), [[Cleric#Tempest]], druid, paladin (ancients), [[Sorceror]], [[Wizard]], [[4th level]], evocation
+tags: artificer (artillerist), [[Cleric#Tempest]], druid, paladin (ancients), [[Sorceror]], [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

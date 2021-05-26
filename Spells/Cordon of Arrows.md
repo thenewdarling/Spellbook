@@ -1,6 +1,6 @@
 # Cordon Of Arrows
 sources: [[Player's Handbook]] pg 228
-tags: ranger, [[2nd level]], transmutation
+tags: ranger, [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

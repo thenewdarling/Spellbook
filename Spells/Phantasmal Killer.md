@@ -1,6 +1,6 @@
 # Phantasmal Killer
 sources: [[Player's Handbook]] pg 265, [[SRD]] pg 167
-tags: [[Wizard]], [[4th level]], illusion
+tags: [[Wizard]], [[4th level]], [[Illusion Spells]]
 
 **4th-level illusion**
 

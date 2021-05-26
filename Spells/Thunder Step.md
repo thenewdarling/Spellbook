@@ -1,6 +1,6 @@
 # Thunder Step
 sources: [[Xanathar's Guide to Everything]] pg 168
-tags: [[Sorceror]], warlock, [[Wizard]], [[3rd level]], conjuration
+tags: [[Sorceror]], warlock, [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

@@ -1,6 +1,6 @@
 # True Strike
 sources: [[Player's Handbook]] pg 284, [[SRD]] pg 189
-tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[cantrip]], divination
+tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Divination Spells]]
 
 **Divination cantrip**
 

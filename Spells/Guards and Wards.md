@@ -1,6 +1,6 @@
 # Guards and Wards
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 151
-tags: [[Bard]], [[Wizard]], [[6th level]], abjuration
+tags: [[Bard]], [[Wizard]], [[6th level]], [[Abjuration Spells]]
 
 **6th-level abjuration**
 

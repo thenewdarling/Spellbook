@@ -1,6 +1,6 @@
 # Weird
 sources: [[Player's Handbook]] pg 288, [[SRD]] pg 192
-tags: [[Wizard]], [[9th level]], illusion
+tags: [[Wizard]], [[9th level]], [[Illusion Spells]]
 
 **9th-level illusion**
 

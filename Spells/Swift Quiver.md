@@ -1,6 +1,6 @@
 # Swift Quiver
 sources: [[Player's Handbook]] pg 279
-tags: ranger, [[5th level]], transmutation
+tags: ranger, [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

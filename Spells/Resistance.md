@@ -1,6 +1,6 @@
 # Resistance
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 175
-tags: artificer, [[Cleric]], druid, [[cantrip]], abjuration
+tags: artificer, [[Cleric]], druid, [[cantrip]], [[Abjuration Spells]]
 
 **Abjuration cantrip**
 

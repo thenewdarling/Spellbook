@@ -1,6 +1,6 @@
 # Find Steed
 sources: [[Player's Handbook]] pg 240, [[SRD]] pg 143
-tags: paladin, [[2nd level]], conjuration
+tags: paladin, [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

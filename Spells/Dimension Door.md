@@ -1,6 +1,6 @@
 # Dimension Door
 sources: [[Player's Handbook]] pg 233, [[SRD]] pg 135
-tags: [[Bard]], [[Cleric#Trickery]], paladin (vengeance), [[Sorceror]], warlock, [[Wizard]], [[4th level]], conjuration
+tags: [[Bard]], [[Cleric#Trickery]], paladin (vengeance), [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

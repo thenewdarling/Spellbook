@@ -1,6 +1,6 @@
 # Thunderous Smite
 sources: [[Player's Handbook]] pg 282
-tags: paladin, [[1st level]], evocation
+tags: paladin, [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

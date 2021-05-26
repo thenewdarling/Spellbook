@@ -1,6 +1,6 @@
 # Skywrite
 sources: [[Elemental Evil Player's Companion]] pg 22, [[Xanathar's Guide to Everything]] pg 165
-tags: artificer, [[Bard]], druid, [[Wizard]], [[2nd level]], ritual, transmutation
+tags: artificer, [[Bard]], druid, [[Wizard]], [[2nd level]], ritual, [[Transmutation Spells]]
 
 **2nd-level transmutation (ritual)**
 

@@ -1,6 +1,6 @@
 # Primal Savagery
 sources: [[Xanathar's Guide to Everything]] pg 163
-tags: druid, [[cantrip]], transmutation
+tags: druid, [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

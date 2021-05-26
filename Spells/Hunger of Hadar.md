@@ -1,6 +1,6 @@
 # Hunger of Hadar
 sources: [[Player's Handbook]] pg 251
-tags: warlock, [[3rd level]], conjuration
+tags: warlock, [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

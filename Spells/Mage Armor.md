@@ -1,6 +1,6 @@
 # Mage Armor
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 160
-tags: [[Sorceror]], [[Wizard]], [[1st level]], abjuration
+tags: [[Sorceror]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

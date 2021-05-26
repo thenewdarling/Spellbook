@@ -1,6 +1,6 @@
 # Chill Touch
 sources: [[Player's Handbook]] pg 221, [[SRD]] pg 124
-tags: elf (mul daya), [[Sorceror]], warlock, [[Wizard]], [[cantrip]], necromancy
+tags: elf (mul daya), [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Necromancy Spells]]
 
 **Necromancy cantrip**
 

@@ -1,6 +1,6 @@
 # Earth Tremor
 sources: [[Elemental Evil Player's Companion]] pg 17, [[Xanathar's Guide to Everything]] pg 155
-tags: [[Bard]], druid, [[Sorceror]], [[Wizard]], [[1st level]], evocation
+tags: [[Bard]], druid, [[Sorceror]], [[Wizard]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

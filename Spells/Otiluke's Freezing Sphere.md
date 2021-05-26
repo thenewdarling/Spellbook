@@ -1,6 +1,6 @@
 # Otiluke’s Freezing Sphere
 sources: [[Player's Handbook]] pg 263
-tags: [[Wizard]], [[6th level]], evocation
+tags: [[Wizard]], [[6th level]], [[Evocation Spells]]
 
 **6th-level evocation**
 

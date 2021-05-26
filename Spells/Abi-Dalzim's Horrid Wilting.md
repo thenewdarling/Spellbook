@@ -1,6 +1,6 @@
 # Abi-Dalzim’s Horrid Wilting
 sources: [[Elemental Evil Player's Companion]] pg 15, [[Xanathar's Guide to Everything]] pg 150
-tags: [[Sorceror]], [[Wizard]], [[8th level]], necromancy
+tags: [[Sorceror]], [[Wizard]], [[8th level]], [[Necromancy Spells]]
 
 **8th-level necromancy**
 

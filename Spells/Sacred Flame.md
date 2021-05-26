@@ -1,6 +1,6 @@
 # Sacred Flame
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 176
-tags: [[Cleric]], [[cantrip]], evocation
+tags: [[Cleric]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

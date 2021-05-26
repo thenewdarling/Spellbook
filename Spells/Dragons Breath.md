@@ -1,6 +1,6 @@
 # Dragon’s Breath
 sources: [[Xanathar's Guide to Everything]] pg 154
-tags: [[Sorceror]], [[Wizard]], [[2nd level]], transmutation
+tags: [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

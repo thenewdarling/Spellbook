@@ -1,6 +1,6 @@
 # Shadow Blade
 sources: [[Xanathar's Guide to Everything]] pg 164
-tags: [[Sorceror]], warlock, [[Wizard]], [[2nd level]], illusion
+tags: [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

@@ -1,6 +1,6 @@
 # Rary’s Telepathic Bond
 sources: [[Player's Handbook]] pg 270
-tags: [[Wizard]], [[5th level]], ritual, divination
+tags: [[Wizard]], [[5th level]], ritual, [[Divination Spells]]
 
 **5th-level divination (ritual)**
 

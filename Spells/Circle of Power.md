@@ -1,6 +1,6 @@
 # Circle of Power
 sources: [[Player's Handbook]] pg 221
-tags: paladin, [[5th level]], abjuration
+tags: paladin, [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 

@@ -1,6 +1,6 @@
 # Branding Smite
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 123
-tags: artificer (battle smith), paladin, [[2nd level]], evocation
+tags: artificer (battle smith), paladin, [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

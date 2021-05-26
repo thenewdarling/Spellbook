@@ -1,6 +1,6 @@
 # Flame Strike
 sources: [[Player's Handbook]] pg 242, [[SRD]] pg 145
-tags: [[Cleric]], paladin (devotion), warlock (fiend), [[5th level]], evocation
+tags: [[Cleric]], paladin (devotion), warlock (fiend), [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

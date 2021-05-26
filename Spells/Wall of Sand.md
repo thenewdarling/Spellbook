@@ -1,6 +1,6 @@
 # Wall of Sand
 sources: [[Elemental Evil Player's Companion]] pg 23, [[Xanathar's Guide to Everything]] pg 170
-tags: [[Wizard]], [[3rd level]], evocation
+tags: [[Wizard]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

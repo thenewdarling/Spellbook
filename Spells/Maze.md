@@ -1,6 +1,6 @@
 # Maze
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 163
-tags: [[Wizard]], [[8th level]], conjuration
+tags: [[Wizard]], [[8th level]], [[Conjuration Spells]]
 
 **8th-level conjuration**
 

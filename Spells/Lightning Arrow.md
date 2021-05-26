@@ -1,6 +1,6 @@
 # Lightning Arrow
 sources: [[Player's Handbook]] pg 255
-tags: ranger, [[3rd level]], transmutation
+tags: ranger, [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

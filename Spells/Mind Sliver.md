@@ -1,6 +1,6 @@
 # Mind Sliver
 sources: [[Tasha's Cauldron of Everything]] pg 108
-tags: [[Sorceror]], warlock, [[Wizard]], [[cantrip]], enchantment
+tags: [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Enchantment Spells]]
 
 **Enchantment cantrip**
 

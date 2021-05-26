@@ -1,6 +1,6 @@
 # Mighty Fortress
 sources: [[Xanathar's Guide to Everything]] pg 161
-tags: [[Wizard]], [[8th level]], conjuration
+tags: [[Wizard]], [[8th level]], [[Conjuration Spells]]
 
 **8th-level conjuration**
 

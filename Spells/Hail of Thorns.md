@@ -1,6 +1,6 @@
 # Hail of Thorns
 sources: [[Player's Handbook]] pg 249
-tags: ranger, [[1st level]], conjuration
+tags: ranger, [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

@@ -1,6 +1,6 @@
 # Conjure Elemental
 sources: [[Player's Handbook]] pg 225, [[SRD]] pg 128
-tags: druid, [[Wizard]], [[5th level]], conjuration
+tags: druid, [[Wizard]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

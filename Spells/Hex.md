@@ -1,6 +1,6 @@
 # Hex
 sources: [[Player's Handbook]] pg 251
-tags: elf (mul daya), warlock, [[1st level]], enchantment
+tags: elf (mul daya), warlock, [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

@@ -1,6 +1,6 @@
 # Calm Emotions
 sources: [[Player's Handbook]] pg 221, [[SRD]] pg 123
-tags: [[Bard]], [[Cleric]], paladin (redemption), warlock (fae), [[2nd level]], enchantment
+tags: [[Bard]], [[Cleric]], paladin (redemption), warlock (fae), [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

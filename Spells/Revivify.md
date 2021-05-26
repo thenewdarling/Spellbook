@@ -1,6 +1,6 @@
 # Revivify
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 175
-tags: artificer, [[Cleric]], paladin, [[3rd level]], necromancy
+tags: artificer, [[Cleric]], paladin, [[3rd level]], [[Necromancy Spells]]
 
 **3rd-level necromancy**
 

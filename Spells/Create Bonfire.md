@@ -1,6 +1,6 @@
 # Create Bonfire
 sources: [[Elemental Evil Player's Companion]] pg 16, [[Xanathar's Guide to Everything]] pg 152
-tags: artificer, druid, [[Sorceror]], warlock, [[Wizard]], [[cantrip]], conjuration
+tags: artificer, druid, [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

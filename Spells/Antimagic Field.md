@@ -1,6 +1,6 @@
 # Antimagic Field
 sources: [[Player's Handbook]] pg 213, [[SRD]] pg 117
-tags: [[Cleric]], [[Wizard]], [[8th level]], abjuration
+tags: [[Cleric]], [[Wizard]], [[8th level]], [[Abjuration Spells]]
 
 **8th-level abjuration**
 

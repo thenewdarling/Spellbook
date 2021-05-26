@@ -1,6 +1,6 @@
 # Phantom Steed
 sources: [[Player's Handbook]] pg 265, [[SRD]] pg 167
-tags: [[Wizard]], [[3rd level]], ritual, illusion
+tags: [[Wizard]], [[3rd level]], ritual, [[Illusion Spells]]
 
 **3rd-level illusion (ritual)**
 

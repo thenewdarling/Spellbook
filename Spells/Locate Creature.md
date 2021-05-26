@@ -1,6 +1,6 @@
 # Locate Creature
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 159
-tags: [[Bard]], [[Cleric]], druid, paladin, ranger, [[Wizard]], [[4th level]], divination
+tags: [[Bard]], [[Cleric]], druid, paladin, ranger, [[Wizard]], [[4th level]], [[Divination Spells]]
 
 **4th-level divination**
 

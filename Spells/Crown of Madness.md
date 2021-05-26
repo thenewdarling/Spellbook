@@ -1,6 +1,6 @@
 # Crown of Madness
 sources: [[Player's Handbook]] pg 229
-tags: [[Bard]], paladin (oathbreaker), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], enchantment
+tags: [[Bard]], paladin (oathbreaker), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

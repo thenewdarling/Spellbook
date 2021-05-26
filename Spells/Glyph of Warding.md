@@ -1,6 +1,6 @@
 # Glyph of Warding
 sources: [[Player's Handbook]] pg 245, [[SRD]] pg 149
-tags: artificer, [[Bard]], [[Cleric]], [[Wizard]], [[3rd level]], abjuration
+tags: artificer, [[Bard]], [[Cleric]], [[Wizard]], [[3rd level]], [[Abjuration Spells]]
 
 **3rd-level abjuration**
 

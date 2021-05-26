@@ -1,6 +1,6 @@
 # Giant Insect
 sources: [[Player's Handbook]] pg 245, [[SRD]] pg 149
-tags: druid, [[4th level]], transmutation
+tags: druid, [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

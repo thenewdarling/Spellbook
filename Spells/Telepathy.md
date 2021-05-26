@@ -1,6 +1,6 @@
 # Telepathy
 sources: [[Player's Handbook]] pg 281
-tags: [[Wizard]], [[8th level]], evocation
+tags: [[Wizard]], [[8th level]], [[Evocation Spells]]
 
 **8th-level evocation**
 

@@ -1,6 +1,6 @@
 # Conjure Animals
 sources: [[Player's Handbook]] pg 225, [[SRD]] pg 127
-tags: druid, ranger, [[3rd level]], conjuration
+tags: druid, ranger, [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

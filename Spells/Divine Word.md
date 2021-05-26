@@ -1,6 +1,6 @@
 # Divine Word
 sources: [[Player's Handbook]] pg 234, [[SRD]] pg 137
-tags: [[Cleric]], [[7th level]], evocation
+tags: [[Cleric]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

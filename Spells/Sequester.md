@@ -1,6 +1,6 @@
 # Sequester
 sources: [[Player's Handbook]] pg 274, [[SRD]] pg 178
-tags: [[Wizard]], [[7th level]], transmutation
+tags: [[Wizard]], [[7th level]], [[Transmutation Spells]]
 
 **7th-level transmutation**
 

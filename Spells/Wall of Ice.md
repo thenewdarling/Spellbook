@@ -1,6 +1,6 @@
 # Wall of Ice
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 190
-tags: [[Wizard]], [[6th level]], evocation
+tags: [[Wizard]], [[6th level]], [[Evocation Spells]]
 
 **6th-level evocation**
 

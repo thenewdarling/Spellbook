@@ -1,6 +1,6 @@
 # Tasha’s Otherworldly Guise
 sources: [[Tasha's Cauldron of Everything]] pg 116
-tags: [[Sorceror]], warlock, [[Wizard]], [[6th level]], conjuration
+tags: [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Hallucinatory Terrain
 sources: [[Player's Handbook]] pg 249, [[SRD]] pg 152
-tags: [[Bard]], druid, warlock, [[Wizard]], [[4th level]], illusion
+tags: [[Bard]], druid, warlock, [[Wizard]], [[4th level]], [[Illusion Spells]]
 
 **4th-level illusion**
 

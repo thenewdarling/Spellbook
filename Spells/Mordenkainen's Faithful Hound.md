@@ -1,6 +1,6 @@
 # Mordenkainen’s Faithful Hound
 sources: [[Player's Handbook]] pg 261
-tags: artificer, [[Wizard]], [[4th level]], conjuration
+tags: artificer, [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

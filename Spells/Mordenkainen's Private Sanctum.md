@@ -1,6 +1,6 @@
 # Mordenkainen’s Private Sanctum
 sources: [[Player's Handbook]] pg 262
-tags: artificer, [[Wizard]], [[4th level]], abjuration
+tags: artificer, [[Wizard]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

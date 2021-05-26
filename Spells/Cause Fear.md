@@ -1,6 +1,6 @@
 # Cause Fear
 sources: [[Xanathar's Guide to Everything]] pg 151
-tags: warlock, [[Wizard]], [[1st level]], necromancy
+tags: warlock, [[Wizard]], [[1st level]], [[Necromancy Spells]]
 
 **1st-level necromancy**
 

@@ -1,6 +1,6 @@
 # Stone Shape
 sources: [[Player's Handbook]] pg 278, [[SRD]] pg 183
-tags: artificer, [[Cleric]], druid, [[Wizard]], [[4th level]], transmutation
+tags: artificer, [[Cleric]], druid, [[Wizard]], [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

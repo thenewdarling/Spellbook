@@ -1,6 +1,6 @@
 # Booming Blade
 sources: [[Sword Coast Adventurer's Guide]] pg 142
-tags: [[Sorceror]], warlock, [[Wizard]], [[cantrip]], evocation
+tags: [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

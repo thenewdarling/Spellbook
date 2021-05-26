@@ -1,6 +1,6 @@
 # Glibness
 sources: [[Player's Handbook]] pg 245, [[SRD]] pg 149
-tags: [[Bard]], warlock, [[8th level]], transmutation
+tags: [[Bard]], warlock, [[8th level]], [[Transmutation Spells]]
 
 **8th-level transmutation**
 

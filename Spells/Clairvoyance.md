@@ -1,6 +1,6 @@
 # Clairvoyance
 sources: [[Player's Handbook]] pg 222, [[SRD]] pg 124
-tags: [[Bard]], [[Cleric]], [[Sorceror]], warlock (great old one), [[Wizard]], [[3rd level]], divination
+tags: [[Bard]], [[Cleric]], [[Sorceror]], warlock (great old one), [[Wizard]], [[3rd level]], [[Divination Spells]]
 
 **3rd-level divination**
 

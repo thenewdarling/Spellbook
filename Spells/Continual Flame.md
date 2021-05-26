@@ -1,6 +1,6 @@
 # Continual Flame
 sources: [[Player's Handbook]] pg 227, [[SRD]] pg 130
-tags: artificer, [[Cleric]], [[Wizard]], [[2nd level]], evocation
+tags: artificer, [[Cleric]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

@@ -1,6 +1,6 @@
 # Message
 sources: [[Player's Handbook]] pg 259, [[SRD]] pg 164
-tags: artificer, [[Bard]], [[Sorceror]], [[Wizard]], [[cantrip]], transmutation
+tags: artificer, [[Bard]], [[Sorceror]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

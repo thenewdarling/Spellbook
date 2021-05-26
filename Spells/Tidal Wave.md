@@ -1,6 +1,6 @@
 # Tidal Wave
 sources: [[Elemental Evil Player's Companion]] pg 22, [[Xanathar's Guide to Everything]] pg 168
-tags: druid, [[Sorceror]], [[Wizard]], [[3rd level]], conjuration
+tags: druid, [[Sorceror]], [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

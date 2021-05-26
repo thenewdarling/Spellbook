@@ -1,6 +1,6 @@
 # Word of Recall
 sources: [[Player's Handbook]] pg 289, [[SRD]] pg 193
-tags: [[Cleric]], [[6th level]], conjuration
+tags: [[Cleric]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

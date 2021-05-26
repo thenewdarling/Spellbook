@@ -1,6 +1,6 @@
 # Mass Heal
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 163
-tags: [[Cleric]], [[9th level]], evocation
+tags: [[Cleric]], [[9th level]], [[Evocation Spells]]
 
 **9th-level evocation**
 

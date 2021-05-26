@@ -1,6 +1,6 @@
 # Enlarge/Reduce
 sources: [[Player's Handbook]] pg 237, [[SRD]] pg 140
-tags: artificer, [[Sorceror]], [[Wizard]], [[2nd level]], transmutation
+tags: artificer, [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

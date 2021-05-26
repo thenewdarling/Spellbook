@@ -1,6 +1,6 @@
 # Compelled Duel
 sources: [[Player's Handbook]] pg 224
-tags: paladin, [[1st level]], enchantment
+tags: paladin, [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

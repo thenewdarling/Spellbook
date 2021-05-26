@@ -1,6 +1,6 @@
 # Arms of Hadar
 sources: [[Player's Handbook]] pg 215
-tags: warlock, [[1st level]], conjuration
+tags: warlock, [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

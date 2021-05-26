@@ -1,6 +1,6 @@
 # Detect Evil and Good
 sources: [[Player's Handbook]] pg 231, [[SRD]] pg 134
-tags: [[Cleric]], paladin, [[1st level]], divination
+tags: [[Cleric]], paladin, [[1st level]], [[Divination Spells]]
 
 **1st-level divination**
 

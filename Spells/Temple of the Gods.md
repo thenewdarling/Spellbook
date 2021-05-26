@@ -1,6 +1,6 @@
 # Temple of the Gods
 sources: [[Xanathar's Guide to Everything]] pg 167
-tags: [[Cleric]], [[7th level]], conjuration
+tags: [[Cleric]], [[7th level]], [[Conjuration Spells]]
 
 **7th-level conjuration**
 

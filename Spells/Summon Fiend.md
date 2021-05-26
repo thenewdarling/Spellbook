@@ -1,6 +1,6 @@
 # Summon Fiend
 sources: [[Tasha's Cauldron of Everything]] pg 112
-tags: warlock, [[Wizard]], [[6th level]], conjuration
+tags: warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

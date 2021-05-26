@@ -1,6 +1,6 @@
 # Word of Radiance
 sources: [[Xanathar's Guide to Everything]] pg 171
-tags: [[Cleric]], [[cantrip]], evocation
+tags: [[Cleric]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

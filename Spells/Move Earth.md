@@ -1,6 +1,6 @@
 # Move Earth
 sources: [[Player's Handbook]] pg 263, [[SRD]] pg 166
-tags: druid, [[Sorceror]], [[Wizard]], [[6th level]], transmutation
+tags: druid, [[Sorceror]], [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

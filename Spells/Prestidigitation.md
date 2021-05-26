@@ -1,6 +1,6 @@
 # Prestidigitation
 sources: [[Player's Handbook]] pg 267, [[SRD]] pg 170
-tags: artificer, [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[cantrip]], transmutation
+tags: artificer, [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

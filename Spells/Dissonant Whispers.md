@@ -1,6 +1,6 @@
 # Dissonant Whispers
 sources: [[Player's Handbook]] pg 234
-tags: [[Bard]], warlock (great old one), [[1st level]], enchantment
+tags: [[Bard]], warlock (great old one), [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

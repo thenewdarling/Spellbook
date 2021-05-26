@@ -1,6 +1,6 @@
 # Mirage Arcane
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 165
-tags: [[Bard]], druid, [[Wizard]], [[7th level]], illusion
+tags: [[Bard]], druid, [[Wizard]], [[7th level]], [[Illusion Spells]]
 
 **7th-level illusion**
 

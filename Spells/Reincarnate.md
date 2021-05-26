@@ -1,6 +1,6 @@
 # Reincarnate
 sources: [[Player's Handbook]] pg 271, [[SRD]] pg 174
-tags: druid, [[5th level]], transmutation
+tags: druid, [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

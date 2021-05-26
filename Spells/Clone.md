@@ -1,6 +1,6 @@
 # Clone
 sources: [[Player's Handbook]] pg 222, [[SRD]] pg 125
-tags: [[Wizard]], [[8th level]], necromancy
+tags: [[Wizard]], [[8th level]], [[Necromancy Spells]]
 
 **8th-level necromancy**
 

@@ -1,6 +1,6 @@
 # Magic Jar
 sources: [[Player's Handbook]] pg 257, [[SRD]] pg 160
-tags: [[Wizard]], [[6th level]], necromancy
+tags: [[Wizard]], [[6th level]], [[Necromancy Spells]]
 
 **6th-level necromancy**
 

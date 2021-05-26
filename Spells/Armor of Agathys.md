@@ -1,6 +1,6 @@
 # Armor of Agathys
 sources: [[Player's Handbook]] pg 215
-tags: warlock, paladin (conquest), [[1st level]], abjuration
+tags: warlock, paladin (conquest), [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

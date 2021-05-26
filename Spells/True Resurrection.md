@@ -1,6 +1,6 @@
 # True Resurrection
 sources: [[Player's Handbook]] pg 284, [[SRD]] pg 189
-tags: [[Cleric]], druid, [[9th level]], necromancy
+tags: [[Cleric]], druid, [[9th level]], [[Necromancy Spells]]
 
 **9th-level necromancy**
 

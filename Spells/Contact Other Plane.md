@@ -1,6 +1,6 @@
 # Contact Other Plane
 sources: [[Player's Handbook]] pg 226, [[SRD]] pg 129
-tags: warlock, [[Wizard]], [[5th level]], ritual, divination
+tags: warlock, [[Wizard]], [[5th level]], ritual, [[Divination Spells]]
 
 **5th-level divination (ritual)**
 

@@ -1,6 +1,6 @@
 # Etherealness
 sources: [[Player's Handbook]] pg 238, [[SRD]] pg 140
-tags: [[Bard]], [[Cleric]], [[Sorceror]], warlock, [[Wizard]], [[7th level]], transmutation
+tags: [[Bard]], [[Cleric]], [[Sorceror]], warlock, [[Wizard]], [[7th level]], [[Transmutation Spells]]
 
 **7th-level transmutation**
 

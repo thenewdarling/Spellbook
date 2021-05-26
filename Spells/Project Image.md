@@ -1,6 +1,6 @@
 # Project Image
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 172
-tags: [[Bard]], [[Wizard]], [[7th level]], illusion
+tags: [[Bard]], [[Wizard]], [[7th level]], [[Illusion Spells]]
 
 **7th-level illusion**
 

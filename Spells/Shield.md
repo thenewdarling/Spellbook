@@ -1,6 +1,6 @@
 # Shield
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 179
-tags: artificer (artillerist), artificer (battle smith), [[Sorceror]], [[Wizard]], [[1st level]], abjuration
+tags: artificer (artillerist), artificer (battle smith), [[Sorceror]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

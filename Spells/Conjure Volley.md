@@ -1,6 +1,6 @@
 # Conjure Volley
 sources: [[Player's Handbook]] pg 226
-tags: ranger, [[5th level]], conjuration
+tags: ranger, [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Vitriolic Sphere
 sources: [[Elemental Evil Player's Companion]] pg 23, [[Xanathar's Guide to Everything]] pg 170
-tags: [[Sorceror]], [[Wizard]], [[4th level]], evocation
+tags: [[Sorceror]], [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

@@ -1,6 +1,6 @@
 # Sword Burst
 sources: [[Sword Coast Adventurer's Guide]] pg 143
-tags: [[Sorceror]], warlock, [[Wizard]], [[cantrip]], conjuration
+tags: [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

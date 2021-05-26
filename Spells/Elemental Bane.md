@@ -1,6 +1,6 @@
 # Elemental Bane
 sources: [[Elemental Evil Player's Companion]] pg 17, [[Xanathar's Guide to Everything]] pg 155
-tags: artificer, druid, warlock, [[Wizard]], [[4th level]], transmutation
+tags: artificer, druid, warlock, [[Wizard]], [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

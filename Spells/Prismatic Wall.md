@@ -1,6 +1,6 @@
 # Prismatic Wall
 sources: [[Player's Handbook]] pg 267, [[SRD]] pg 171
-tags: [[Wizard]], [[9th level]], abjuration
+tags: [[Wizard]], [[9th level]], [[Abjuration Spells]]
 
 **9th-level abjuration**
 

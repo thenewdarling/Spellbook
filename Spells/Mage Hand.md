@@ -1,6 +1,6 @@
 # Mage Hand
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 160
-tags: artificer, [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[cantrip]], conjuration
+tags: artificer, [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

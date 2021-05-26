@@ -1,6 +1,6 @@
 # Summon Elemental
 sources: [[Tasha's Cauldron of Everything]] pg 111
-tags: druid, ranger, [[Wizard]], [[4th level]], conjuration
+tags: druid, ranger, [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

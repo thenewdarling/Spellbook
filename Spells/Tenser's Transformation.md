@@ -1,6 +1,6 @@
 # Tenser’s Transformation
 sources: [[Xanathar's Guide to Everything]] pg 168
-tags: [[Wizard]], [[6th level]], transmutation
+tags: [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

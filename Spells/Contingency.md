@@ -1,6 +1,6 @@
 # Contingency
 sources: [[Player's Handbook]] pg 227, [[SRD]] pg 130
-tags: [[Wizard]], [[6th level]], evocation
+tags: [[Wizard]], [[6th level]], [[Evocation Spells]]
 
 **6th-level evocation**
 

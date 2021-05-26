@@ -1,6 +1,6 @@
 # Vicious Mockery
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 189
-tags: [[Bard]], [[cantrip]], enchantment
+tags: [[Bard]], [[cantrip]], [[Enchantment Spells]]
 
 **Enchantment cantrip**
 

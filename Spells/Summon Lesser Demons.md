@@ -1,6 +1,6 @@
 # Summon Lesser Demons
 sources: [[Xanathar's Guide to Everything]] pg 167
-tags: warlock, [[Wizard]], [[3rd level]], conjuration
+tags: warlock, [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

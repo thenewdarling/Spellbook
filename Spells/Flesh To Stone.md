@@ -1,6 +1,6 @@
 # Flesh to Stone
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 145
-tags: warlock, [[Wizard]], [[6th level]], transmutation
+tags: warlock, [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

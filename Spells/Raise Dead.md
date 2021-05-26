@@ -1,6 +1,6 @@
 # Raise Dead
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: artificer (alchemist), [[Cleric]], paladin, [[Bard]], [[5th level]], necromancy
+tags: artificer (alchemist), [[Cleric]], paladin, [[Bard]], [[5th level]], [[Necromancy Spells]]
 
 **5th-level necromancy**
 

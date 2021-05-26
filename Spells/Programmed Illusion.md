@@ -1,6 +1,6 @@
 # Programmed Illusion
 sources: [[Player's Handbook]] pg 269, [[SRD]] pg 172
-tags: [[Bard]], [[Wizard]], [[6th level]], illusion
+tags: [[Bard]], [[Wizard]], [[6th level]], [[Illusion Spells]]
 
 **6th-level illusion**
 

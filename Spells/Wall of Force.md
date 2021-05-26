@@ -1,6 +1,6 @@
 # Wall of Force
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 190
-tags: artificer (artillerist), paladin (redemption), [[Wizard]], [[5th level]], evocation
+tags: artificer (artillerist), paladin (redemption), [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

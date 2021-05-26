@@ -1,6 +1,6 @@
 # Soul Cage
 sources: [[Xanathar's Guide to Everything]] pg 165
-tags: warlock, [[Wizard]], [[6th level]], necromancy
+tags: warlock, [[Wizard]], [[6th level]], [[Necromancy Spells]]
 
 **6th-level necromancy**
 

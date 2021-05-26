@@ -1,6 +1,6 @@
 # Conjure Minor Elementals
 sources: [[Player's Handbook]] pg 226, [[SRD]] pg 128
-tags: druid, [[Wizard]], [[4th level]], conjuration
+tags: druid, [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Heroism
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 154
-tags: artificer (battle smith), [[Bard]], paladin, [[1st level]], enchantment
+tags: artificer (battle smith), [[Bard]], paladin, [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

@@ -1,6 +1,6 @@
 # Greater Restoration
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: artificer, [[Bard]], [[Cleric]], druid, [[5th level]], abjuration
+tags: artificer, [[Bard]], [[Cleric]], druid, [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 

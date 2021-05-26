@@ -1,6 +1,6 @@
 # Bless
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 122
-tags: [[Cleric]], paladin, [[1st level]], enchantment
+tags: [[Cleric]], paladin, [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

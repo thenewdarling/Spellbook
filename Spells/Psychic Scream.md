@@ -1,6 +1,6 @@
 # Psychic Scream
 sources: [[Xanathar's Guide to Everything]] pg 163
-tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[9th level]], enchantment
+tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[9th level]], [[Enchantment Spells]]
 
 **9th-level enchantment**
 

@@ -1,6 +1,6 @@
 # Magic Mouth
 sources: [[Player's Handbook]] pg 257, [[SRD]] pg 161
-tags: artificer, [[Bard]], [[Wizard]], [[2nd level]], ritual, illusion
+tags: artificer, [[Bard]], [[Wizard]], [[2nd level]], ritual, [[Illusion Spells]]
 
 **2nd-level illusion (ritual)**
 

@@ -1,6 +1,6 @@
 # Mordenkainen’s Sword
 sources: [[Player's Handbook]] pg 262
-tags: [[Bard]], [[Wizard]], [[7th level]], evocation
+tags: [[Bard]], [[Wizard]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

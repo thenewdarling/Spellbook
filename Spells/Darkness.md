@@ -1,6 +1,6 @@
 # Darkness
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: elf (drow), elf (mul daya), tiefling, druid (swamp), monk (shadow), paladin (oathbreaker), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], evocation
+tags: elf (drow), elf (mul daya), tiefling, druid (swamp), monk (shadow), paladin (oathbreaker), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

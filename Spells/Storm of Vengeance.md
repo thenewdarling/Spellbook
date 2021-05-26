@@ -1,6 +1,6 @@
 # Storm of Vengeance
 sources: [[Player's Handbook]] pg 279, [[SRD]] pg 183
-tags: druid, [[9th level]], conjuration
+tags: druid, [[9th level]], [[Conjuration Spells]]
 
 **9th-level conjuration**
 

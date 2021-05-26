@@ -1,6 +1,6 @@
 # Find Greater Steed
 sources: [[Xanathar's Guide to Everything]] pg 156
-tags: paladin, [[4th level]], conjuration
+tags: paladin, [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Primordial Ward
 sources: [[Elemental Evil Player's Companion]] pg 21, [[Xanathar's Guide to Everything]] pg 163
-tags: druid, [[6th level]], abjuration
+tags: druid, [[6th level]], [[Abjuration Spells]]
 
 **6th-level abjuration**
 

@@ -1,6 +1,6 @@
 # Tasha’s Caustic Brew
 sources: [[Tasha's Cauldron of Everything]] pg 115
-tags: artificer, [[Sorceror]], [[Wizard]], [[1st level]], evocation
+tags: artificer, [[Sorceror]], [[Wizard]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

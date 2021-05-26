@@ -1,6 +1,6 @@
 # Delayed Blast Fireball
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: [[Sorceror]], [[Wizard]], [[7th level]], evocation
+tags: [[Sorceror]], [[Wizard]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

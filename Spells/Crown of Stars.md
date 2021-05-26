@@ -1,6 +1,6 @@
 # Crown of Stars
 sources: [[Xanathar's Guide to Everything]] pg 152
-tags: [[Sorceror]], warlock, [[Wizard]], [[7th level]], evocation
+tags: [[Sorceror]], warlock, [[Wizard]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

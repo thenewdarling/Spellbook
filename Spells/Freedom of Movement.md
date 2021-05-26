@@ -1,6 +1,6 @@
 # Freedom of Movement
 sources: [[Player's Handbook]] pg 244, [[SRD]] pg 147
-tags: artificer, [[Bard]], [[Cleric]], druid, paladin (devotion), ranger, [[4th level]], abjuration
+tags: artificer, [[Bard]], [[Cleric]], druid, paladin (devotion), ranger, [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

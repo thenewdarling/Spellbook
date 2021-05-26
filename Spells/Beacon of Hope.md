@@ -1,6 +1,6 @@
 # Beacon of Hope
 sources: [[Player's Handbook]] pg 217, [[SRD]] pg 121
-tags: [[Cleric]], paladin (devotion), [[3rd level]], abjuration
+tags: [[Cleric]], paladin (devotion), [[3rd level]], [[Abjuration Spells]]
 
 **3rd-level abjuration**
 

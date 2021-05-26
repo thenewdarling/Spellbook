@@ -1,6 +1,6 @@
 # Longstrider
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 160
-tags: artificer, [[Bard]], druid, ranger, [[Wizard]], [[1st level]], transmutation
+tags: artificer, [[Bard]], druid, ranger, [[Wizard]], [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

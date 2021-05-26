@@ -1,6 +1,6 @@
 # Cure Wounds
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 132
-tags: artificer, [[Bard]], [[Cleric]], druid, paladin, ranger, [[1st level]], evocation
+tags: artificer, [[Bard]], [[Cleric]], druid, paladin, ranger, [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

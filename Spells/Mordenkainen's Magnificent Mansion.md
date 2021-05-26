@@ -1,6 +1,6 @@
 # Mordenkainen’s Magnificent Mansion
 sources: [[Player's Handbook]] pg 261
-tags: [[Bard]], [[Wizard]], [[7th level]], conjuration
+tags: [[Bard]], [[Wizard]], [[7th level]], [[Conjuration Spells]]
 
 **7th-level conjuration**
 

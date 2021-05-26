@@ -1,6 +1,6 @@
 # Enthrall
 sources: [[Player's Handbook]] pg 238, [[SRD]] pg 140
-tags: [[Bard]], warlock, [[2nd level]], enchantment
+tags: [[Bard]], warlock, [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

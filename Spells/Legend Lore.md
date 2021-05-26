@@ -1,6 +1,6 @@
 # Legend Lore
 sources: [[Player's Handbook]] pg 254, [[SRD]] pg 158
-tags: [[Bard]], [[Cleric]], warlock (undying), [[Wizard]], [[5th level]], divination
+tags: [[Bard]], [[Cleric]], warlock (undying), [[Wizard]], [[5th level]], [[Divination Spells]]
 
 **5th-level divination**
 

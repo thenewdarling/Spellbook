@@ -1,6 +1,6 @@
 # Sleep
 sources: [[Player's Handbook]] pg 276, [[SRD]] pg 180
-tags: [[Bard]], paladin (redemption), [[Sorceror]], warlock (fae), [[Wizard]], [[1st level]], enchantment
+tags: [[Bard]], paladin (redemption), [[Sorceror]], warlock (fae), [[Wizard]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

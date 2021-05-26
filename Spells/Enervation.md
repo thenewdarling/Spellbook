@@ -1,6 +1,6 @@
 # Enervation
 sources: [[Xanathar's Guide to Everything]] pg 155
-tags: [[Sorceror]], warlock, [[Wizard]], [[5th level]], necromancy
+tags: [[Sorceror]], warlock, [[Wizard]], [[5th level]], [[Necromancy Spells]]
 
 **5th-level necromancy**
 
