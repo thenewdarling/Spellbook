@@ -1,0 +1,1 @@
+An incapacitated creature can’t take Actions or Reactions.

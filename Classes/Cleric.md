@@ -1,24 +1,24 @@
-#Subclasses
+# Subclasses
 
-#Life
-Has no spells which aren't available to all clerics.
+## Life
+*Note: Has no spells which aren't available to all clerics.*
 
-#Light
+## Light
 
-#Death
+## Death
 
-#Nature
+## Nature
 
-#Trickery
+## Trickery
 
-#Tempest
+## Tempest
 
-#War
+## War
 
-#Forge
+## Forge
 
-#Grave
+## Grave
 
-#Knowledge
+## Knowledge
 
-#Arcana
+## Arcana

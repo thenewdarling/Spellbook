@@ -1,6 +1,6 @@
 # Stoneskin
 sources: [[Player's Handbook]] pg 278, [[SRD]] pg 183
-tags: artificer, [[Cleric#War]], druid, monk (four elements), paladin (ancients), paladin (conquest), paladin (redemption), [[Sorceror]], ranger, [[Wizard]], [[4th level]], [[Abjuration Spells]]
+tags: artificer, [[Cleric#War]], druid, monk (four elements), [[Paladin Ancients Spells]], [[Paladin Conquest Spells]], [[Paladin Redemption Spells]], [[Sorceror]], ranger, [[Wizard]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

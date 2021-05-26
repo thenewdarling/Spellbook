@@ -26,7 +26,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 **Discord.** Each target must make a Constitution saving throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.
 
-**Fear.** Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+**Fear.** Each target must make a Wisdom saving throw and becomes [[frightened]] for 1 minute on a failed save. While [[frightened]], the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 **Hopelessness.** Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can’t attack or target any creature with harmful abilities, spells, or other magical effects.
 

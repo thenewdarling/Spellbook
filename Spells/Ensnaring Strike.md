@@ -1,6 +1,6 @@
 # Ensnaring Strike
 sources: [[Player's Handbook]] pg 237
-tags: paladin (ancients), ranger, [[1st level]], [[Conjuration Spells]]
+tags: [[Paladin Ancients Spells]], ranger, [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

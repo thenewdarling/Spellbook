@@ -1,6 +1,6 @@
 # Bane
 sources: [[Player's Handbook]] pg 216, [[SRD]] pg 120
-tags: [[Bard]], [[Cleric]], paladin (vengeance), [[1st level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric]], [[Paladin Vengeance Spells]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

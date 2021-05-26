@@ -1,7 +1,8 @@
+# Levelling Table
 
-Level	Proficiency Bonus	Features
-1st		+2						Spellcasting, Arcane Recovery
-2nd		+2						Arcane Tradition
+Level	Proficiency		Features
+1st		+2						[[Spellcasting#Wizard]], [[Arcane Recovery]]
+2nd		+2						[[Wizard#Arcane Tradition]]
 3rd		+2						-
 4th		+2						Ability Score Improvement
 5th		+3						-	
@@ -17,11 +18,13 @@ Level	Proficiency Bonus	Features
 15th	+5						-	
 16th	+5						Ability Score Improvement	
 17th	+6						-	
-18th	+6						Spell Mastery	
+18th	+6						[[Spell Mastery]]
 19th	+6						Ability Score Improvement	
-20th	+6						Signature Spell	
+20th	+6						[[Signature Spell]]
 
-Cantrips Known and Spell Slots
+*Note: The wizard by default gets an extra two spells in their spellbook every time they level up.*
+
+# Cantrips Known and Spell Slots
 
 C. *1st	2nd	3rd	4th	5th	6th	7th	8th	9th*
 3	*2	-	-	-	-	-	-	-	-*
@@ -44,3 +47,7 @@ C. *1st	2nd	3rd	4th	5th	6th	7th	8th	9th*
 5	*4	3	3	3	3	1	1	1	1*
 5	*4	3	3	3	3	2	1	1	1*
 5	*4	3	3	3	3	2	2	1	1*
+
+# Arcane Tradition
+
+When you reach 2nd Level, you choose an Arcane Tradition, shaping your practice of magic through one of eight schools, such as Evocation. Your choice grants you features at 2nd Level and again at 6th, 10th, and 14th level.

@@ -1,0 +1,2 @@
+An invisible creature is impossible to see without the aid of magic or a Special sense. For the Purpose of Hiding, the creature is heavily obscured. The creature’s Location can be detected by any noise it makes or any tracks it leaves.
+Attack Rolls against the creature have disadvantage, and the creature’s Attack Rolls have advantage.

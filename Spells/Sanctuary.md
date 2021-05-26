@@ -1,6 +1,6 @@
 # Sanctuary
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 176
-tags: artificer, [[Cleric]], paladin (devotion), paladin (redemption), [[1st level]], [[Abjuration Spells]]
+tags: artificer, [[Cleric]], [[Paladin Devotion Spells]], [[Paladin Redemption Spells]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

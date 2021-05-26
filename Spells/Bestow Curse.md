@@ -1,6 +1,6 @@
 # Bestow Curse
 sources: [[Player's Handbook]] pg 218, [[SRD]] pg 121
-tags: [[Bard]], [[Cleric]], paladin (conquest), paladin (oathbreaker), [[Wizard]], [[3rd level]], [[Necromancy Spells]]
+tags: [[Bard]], [[Cleric]], [[Paladin Conquest Spells]], [[Paladin Oathbreaker Spells]], [[Wizard]], [[3rd level]], [[Necromancy Spells]]
 
 **3rd-level necromancy**
 

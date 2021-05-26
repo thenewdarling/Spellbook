@@ -1,6 +1,6 @@
 # Cloudkill
 sources: [[Player's Handbook]] pg 222, [[SRD]] pg 125
-tags: artificer (alchemist), [[Cleric#Death]], druid (underdark), paladin (conquest), [[Sorceror]], [[Wizard]], [[5th level]], [[Conjuration Spells]]
+tags: artificer (alchemist), [[Cleric#Death]], druid (underdark), [[Paladin Conquest Spells]], [[Sorceror]], [[Wizard]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

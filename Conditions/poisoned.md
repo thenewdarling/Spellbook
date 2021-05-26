@@ -1,0 +1,1 @@
+A poisoned creature has disadvantage on Attack Rolls and Ability Checks.

@@ -1,6 +1,6 @@
 # Animate Dead
 sources: [[Player's Handbook]] pg 212, [[SRD]] pg 115
-tags: [[Cleric]], paladin (oathbreaker), [[Wizard]], [[3rd level]], [[Necromancy Spells]]
+tags: [[Cleric]], [[Paladin Oathbreaker Spells]], [[Wizard]], [[3rd level]], [[Necromancy Spells]]
 
 **3rd-level necromancy**
 

@@ -1,6 +1,6 @@
 # Hypnotic Pattern
 sources: [[Player's Handbook]] pg 252, [[SRD]] pg 155
-tags: [[Bard]], paladin (redemption), [[Sorceror]], warlock, [[Wizard]], [[3rd level]], [[Illusion Spells]]
+tags: [[Bard]], [[Paladin Redemption Spells]], [[Sorceror]], warlock, [[Wizard]], [[3rd level]], [[Illusion Spells]]
 
 **3rd-level illusion**
 

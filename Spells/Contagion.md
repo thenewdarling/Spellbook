@@ -1,6 +1,6 @@
 # Contagion
 sources: [[Player's Handbook]] pg 227, [[SRD]] pg 129
-tags: [[Cleric]], druid, paladin (oathbreaker), warlock (undying), [[5th level]], [[Necromancy Spells]]
+tags: [[Cleric]], druid, [[Paladin Oathbreaker Spells]], warlock (undying), [[5th level]], [[Necromancy Spells]]
 
 **5th-level necromancy**
 
