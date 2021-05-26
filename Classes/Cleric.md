@@ -1,50 +1,12 @@
 # Levelling Table
+![[Cleric table.jpg]]
 
-Level	Proficiency	Features
-1st		+2					[[Spellcasting#Cleric]], [[Cleric#Divine Domain]]	
-2nd		+2					[[Channel Divinity#Cleric]] (1/rest), Divine Domain feature	
-3rd		+2					-	
-4th		+2					Ability Score Improvement	
-5th		+3					[[Destroy Undead]] (CR 1/2)	
-6th		+3					[[Channel Divinity#Cleric]] (2/rest), Divine Domain feature	
-7th		+3					-	
-8th		+3					Ability Score Improvement, [[Destroy Undead]] (CR 1), Divine Domain feature	
-9th		+4					-
-10th	+4					[[Divine Intervention]]
-11th	+4					[[Destroy Undead]] (CR 2)	
-12th	+4					Ability Score Improvement	
-13th	+5					-	
-14th	+5					[[Destroy Undead]] (CR 3)	
-15th	+5					-	
-16th	+5					Ability Score Improvement	
-17th	+6					[[Destroy Undead]] (CR 4), Divine Domain feature	
-18th	+6					[[Channel Divinity#Cleric]] (3/rest)	
-19th	+6					Ability Score Improvement	
-20th	+6					[[Divine Intervention]] improvement
-
-# Cantrips Known and Spell Slots
-
-		C	1	2	3	4	5	6	7	8	9
-1st		3	2	-	-	-	-	-	-	-	-
-2nd		3	3	-	-	-	-	-	-	-	-
-3rd		3	4	2	-	-	-	-	-	-	-
-4th		4	4	3	-	-	-	-	-	-	-
-5th		4	4	3	2	-	-	-	-	-	-
-6th		4	4	3	3	-	-	-	-	-	-
-7th		4	4	3	3	1	-	-	-	-	-
-8th		4	4	3	3	2	-	-	-	-	-
-9th		4	4	3	3	3	1	-	-	-	-
-10th	5	4	3	3	3	2	-	-	-	-
-11th	5	4	3	3	3	2	1	-	-	-
-12th	5	4	3	3	3	2	1	-	-	-
-13th	5	4	3	3	3	2	1	1	-	-
-14th	5	4	3	3	3	2	1	1	-	-
-15th	5	4	3	3	3	2	1	1	1	-
-16th	5	4	3	3	3	2	1	1	1	-
-17th	5	4	3	3	3	2	1	1	1	1
-18th	5	4	3	3	3	3	1	1	1	1
-19th	5	4	3	3	3	3	2	1	1	1
-20th	5	4	3	3	3	3	2	2	1	1
+Feature Links
+1st	 -- [[Spellcasting#Cleric]], [[Cleric#Divine Domain]]	
+2nd	 -- [[Channel Divinity#Cleric]]
+5th	 -- [[Destroy Undead]]
+8th	-- [[Destroy Undead]]
+10th -- [[Divine Intervention]]
 
 
 # Divine Domain

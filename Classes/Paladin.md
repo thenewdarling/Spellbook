@@ -1,50 +1,16 @@
 # Levelling Table
 
-Level	Proficiency		Features
-1st		+2						[[Divine Sense]], [[Lay on Hands]]
-2nd		+2						[[Fighting Style]], [[Spellcasting#Paladin]], [[Divine Smite]]
-3rd		+2						[[Divine Health]], [[Paladin#Sacred Oath]]
-4th		+2						Ability Score Improvement
-5th		+3						Extra Attack
-6th		+3						[[Aura of Protection]]	
-7th		+3						Sacred Oath Feature
-8th		+3						Ability Score Improvement
-9th		+4						-	
-10th	+4						[[Aura of Courage]]	
-11th	+4						[[Improved Divine Smite]]
-12th	+4						Ability Score Improvement	
-13th	+5						-	
-14th	+5						[[Cleansing Touch]]
-15th	+5						Sacred Oath Feature
-16th	+5						Ability Score Improvement	
-17th	+6						-
-18th	+6						[[Aura Improvements]]
-19th	+6						Ability Score Improvement	
-20th	+6						Sacred Oath Feature
+![[Paladin table.png]]
 
-# Spell Slots
-
-		1	2	3	4	5
-1st		-	-	-	-	-
-2nd		2	-	-	-	-
-3rd		3	-	-	-	-
-4th		3	-	-	-	-
-5th		4	2	-	-	-
-6th		4	2	-	-	-
-7th		4	3	-	-	-
-8th		4	3	-	-	-
-9th		4	3	2	-	-
-10th	4	3	2	-	-
-11th	4	3	3	-	-
-12th	4	3	3	-	-
-13th	4	3	3	1	-
-14th	4	3	3	1	-
-15th	4	3	3	2	-
-16th	4	3	3	2	-
-17th	4	3	3	3	1
-18th	4	3	3	3	1
-19th	4	3	3	3	2
-20th	4	3	3	3	2
+Feature Links
+1st -- [[Divine Sense]], [[Lay on Hands]]
+2nd -- [[Fighting Style]], [[Spellcasting#Paladin]], [[Divine Smite]]
+3rd -- [[Divine Health]], [[Paladin#Sacred Oath]]
+6th -- [[Aura of Protection]]	
+10th -- [[Aura of Courage]]	
+11th -- [[Improved Divine Smite]]
+14th -- [[Cleansing Touch]]
+18th -- [[Aura Improvements]]
 
 # Sacred Oath
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an Oath.
