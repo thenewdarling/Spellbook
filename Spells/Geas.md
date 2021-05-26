@@ -1,6 +1,6 @@
 # Geas
 sources: [[Player's Handbook]] pg 245, [[SRD]] pg 148
-tags: cleric, [[Wizard]], paladin, druid, [[Bard]], [[5th level]], enchantment
+tags: [[Cleric]], [[Wizard]], paladin, druid, [[Bard]], [[5th level]], enchantment
 
 **5th-level enchantment**
 

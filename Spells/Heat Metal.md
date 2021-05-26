@@ -1,6 +1,6 @@
 # Heat Metal
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 153
-tags: artificer, [[Bard]], cleric (forge), druid, [[2nd level]], transmutation
+tags: artificer, [[Bard]], [[Cleric#Forge]], druid, [[2nd level]], transmutation
 
 **2nd-level transmutation**
 

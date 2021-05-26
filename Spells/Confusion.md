@@ -1,6 +1,6 @@
 # Confusion
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 127
-tags: [[Bard]], cleric (knowledge), druid, paladin (oathbreaker), [[Sorceror]], [[Wizard]], [[4th level]], enchantment
+tags: [[Bard]], [[Cleric#Knowledge]], druid, paladin (oathbreaker), [[Sorceror]], [[Wizard]], [[4th level]], enchantment
 
 **4th-level enchantment**
 

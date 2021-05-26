@@ -1,6 +1,6 @@
 # Gate
 sources: [[Player's Handbook]] pg 244, [[SRD]] pg 148
-tags: cleric, [[Sorceror]], [[Wizard]], [[9th level]], conjuration
+tags: [[Cleric]], [[Sorceror]], [[Wizard]], [[9th level]], conjuration
 
 **9th-level conjuration**
 

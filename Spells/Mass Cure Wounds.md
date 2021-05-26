@@ -1,6 +1,6 @@
 # Mass Cure Wounds
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 162
-tags: artificer (battle smith), [[Bard]], cleric, druid, [[5th level]], evocation
+tags: artificer (battle smith), [[Bard]], [[Cleric]], druid, [[5th level]], evocation
 
 **5th-level evocation**
 

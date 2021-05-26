@@ -1,6 +1,6 @@
 # Spirit Shroud
 sources: [[Tasha's Cauldron of Everything]] pg 108
-tags: cleric, paladin , warlock, [[Wizard]], [[3rd level]], necromancy
+tags: [[Cleric]], paladin , warlock, [[Wizard]], [[3rd level]], necromancy
 
 **3rd-level necromancy**
 

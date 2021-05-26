@@ -1,6 +1,6 @@
 # Magic Circle
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 160
-tags: cleric, paladin, warlock, [[Wizard]], [[3rd level]], abjuration
+tags: [[Cleric]], paladin, warlock, [[Wizard]], [[3rd level]], abjuration
 
 **3rd-level abjuration**
 

@@ -1,6 +1,6 @@
 # Guardian of Faith
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: cleric, paladin (devotion), paladin (crown), [[4th level]], conjuration
+tags: [[Cleric]], paladin (devotion), paladin (crown), [[4th level]], conjuration
 
 **4th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Mass Healing Word
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 163
-tags: artificer (alchemist), cleric, [[3rd level]], evocation
+tags: artificer (alchemist), [[Cleric]], [[3rd level]], evocation
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Find the Path
 sources: [[Player's Handbook]] pg 240, [[SRD]] pg 143
-tags: [[Bard]], cleric, druid, [[6th level]], divination
+tags: [[Bard]], [[Cleric]], druid, [[6th level]], divination
 
 **6th-level divination**
 

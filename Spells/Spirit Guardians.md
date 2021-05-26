@@ -1,6 +1,6 @@
 # Spirit Guardians
 sources: [[Player's Handbook]] pg 278, [[SRD]] pg 182
-tags: cleric, paladin (crown), [[3rd level]], conjuration
+tags: [[Cleric]], paladin (crown), [[3rd level]], conjuration
 
 **3rd-level conjuration**
 

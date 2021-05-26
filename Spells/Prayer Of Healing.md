@@ -1,6 +1,6 @@
 # Prayer of Healing
 sources: [[Player's Handbook]] pg 267, [[SRD]] pg 170
-tags: cleric, [[2nd level]], evocation
+tags: [[Cleric]], [[2nd level]], evocation
 
 **2nd-level evocation**
 

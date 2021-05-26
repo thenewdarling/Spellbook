@@ -1,6 +1,6 @@
 # Antilife Shell
 sources: [[Player's Handbook]] pg 213, [[SRD]] pg 116
-tags: cleric (death), cleric (grave), druid, [[5th level]], abjuration
+tags: [[Cleric#Death]],, [[Cleric#Grave]], druid, [[5th level]], abjuration
 
 **5th-level abjuration**
 

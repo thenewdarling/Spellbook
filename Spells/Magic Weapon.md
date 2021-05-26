@@ -1,6 +1,6 @@
 # Magic Weapon
 sources: [[Player's Handbook]] pg 257, [[SRD]] pg 161
-tags: artificer, cleric (arcana), cleric (forge), cleric (war), paladin, [[Wizard]], [[2nd level]], transmutation
+tags: artificer, [[Cleric#Arcana]], [[Cleric#Forge]], [[Cleric#War]], paladin, [[Wizard]], [[2nd level]], transmutation
 
 **2nd-level transmutation**
 

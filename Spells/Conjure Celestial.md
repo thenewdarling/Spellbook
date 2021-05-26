@@ -1,6 +1,6 @@
 # Conjure Celestial
 sources: [[Player's Handbook]] pg 225, [[SRD]] pg 127
-tags: cleric, [[7th level]], conjuration
+tags: [[Cleric]], [[7th level]], conjuration
 
 **7th-level conjuration**
 

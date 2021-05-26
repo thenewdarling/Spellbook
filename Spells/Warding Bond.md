@@ -1,6 +1,6 @@
 # Warding Bond
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 191
-tags: artificer (battle smith), cleric, paladin (crown), [[2nd level]], abjuration
+tags: artificer (battle smith), [[Cleric]], paladin (crown), [[2nd level]], abjuration
 
 **2nd-level abjuration**
 

@@ -1,6 +1,6 @@
 # Destructive Wave
 sources: [[Player's Handbook]] pg 231
-tags: cleric (tempest), paladin, [[5th level]], evocation
+tags: [[Cleric#Tempest]], paladin, [[5th level]], evocation
 
 **5th-level evocation**
 

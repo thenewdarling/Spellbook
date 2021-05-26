@@ -1,6 +1,6 @@
 # False Life
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 142
-tags: artificer, cleric (death), cleric (grave), [[Sorceror]], warlock (undying), [[Wizard]], [[1st level]], necromancy
+tags: artificer, [[Cleric#Death]],, [[Cleric#Grave]], [[Sorceror]], warlock (undying), [[Wizard]], [[1st level]], necromancy
 
 **1st-level necromancy**
 

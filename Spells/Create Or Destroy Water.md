@@ -1,6 +1,6 @@
 # Create or Destroy Water
 sources: [[Player's Handbook]] pg 229, [[SRD]] pg 132
-tags: genasi (water), cleric, druid, [[1st level]], transmutation
+tags: genasi (water), [[Cleric]], druid, [[1st level]], transmutation
 
 **1st-level transmutation**
 

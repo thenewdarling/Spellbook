@@ -1,6 +1,6 @@
 # Sending
 sources: [[Player's Handbook]] pg 274, [[SRD]] pg 177
-tags: [[Bard]], cleric, warlock (great old one), [[Wizard]], [[3rd level]], evocation
+tags: [[Bard]], [[Cleric]], warlock (great old one), [[Wizard]], [[3rd level]], evocation
 
 **3rd-level evocation**
 

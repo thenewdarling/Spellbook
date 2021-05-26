@@ -1,6 +1,6 @@
 # Blindness/Deafness
 sources: [[Player's Handbook]] pg 219
-tags: [[Bard]], cleric, [[Sorceror]], warlock (fiend), warlock (undying), [[Wizard]], [[2nd level]], necromancy
+tags: [[Bard]], [[Cleric]], [[Sorceror]], warlock (fiend), warlock (undying), [[Wizard]], [[2nd level]], necromancy
 
 **2nd-level necromancy**
 

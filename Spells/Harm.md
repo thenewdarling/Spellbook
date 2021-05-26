@@ -1,6 +1,6 @@
 # Harm
 sources: [[Player's Handbook]] pg 249, [[SRD]] pg 153
-tags: cleric, [[6th level]], necromancy
+tags: [[Cleric]], [[6th level]], necromancy
 
 **6th-level necromancy**
 

@@ -1,6 +1,6 @@
 # Dominate Person
 sources: [[Player's Handbook]] pg 235, [[SRD]] pg 138
-tags: [[Bard]], cleric (trickery), paladin (conquest),paladin (oathbreaker), [[Sorceror]], warlock (fae), warlock (great old one), [[Wizard]], [[5th level]], enchantment
+tags: [[Bard]], [[Cleric#Trickery]],, paladin (conquest),paladin (oathbreaker), [[Sorceror]], warlock (fae), warlock (great old one), [[Wizard]], [[5th level]], enchantment
 
 **5th-level enchantment**
 

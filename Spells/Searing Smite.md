@@ -1,6 +1,6 @@
 # Searing Smite
 sources: [[Player's Handbook]] pg 274
-tags: cleric (forge), paladin, [[1st level]], evocation
+tags: [[Cleric#Forge]], paladin, [[1st level]], evocation
 
 **1st-level evocation**
 

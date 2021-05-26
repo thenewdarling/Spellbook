@@ -1,6 +1,6 @@
 # Flaming Sphere
 sources: [[Player's Handbook]] pg 242, [[SRD]] pg 145
-tags: artificer (alchemist), cleric (light), druid, [[Wizard]], [[2nd level]], conjuration
+tags: artificer (alchemist), [[Cleric#Light]],, druid, [[Wizard]], [[2nd level]], conjuration
 
 **2nd-level conjuration**
 

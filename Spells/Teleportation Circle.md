@@ -1,6 +1,6 @@
 # Teleportation Circle
 sources: [[Player's Handbook]] pg 281, [[SRD]] pg 186
-tags: [[Bard]], cleric (arcana), [[Sorceror]], [[Wizard]], [[5th level]], conjuration
+tags: [[Bard]], [[Cleric#Arcana]], [[Sorceror]], [[Wizard]], [[5th level]], conjuration
 
 **5th-level conjuration**
 

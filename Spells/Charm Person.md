@@ -1,6 +1,6 @@
 # Charm Person
 sources: [[Player's Handbook]] pg 221, [[SRD]] pg 124
-tags: [[Bard]], cleric (trickery), druid, [[Sorceror]], warlock, [[Wizard]], [[1st level]], enchantment
+tags: [[Bard]], [[Cleric#Trickery]],, druid, [[Sorceror]], warlock, [[Wizard]], [[1st level]], enchantment
 
 **1st-level enchantment**
 

@@ -1,6 +1,6 @@
 # Dawn
 sources: [[Xanathar's Guide to Everything]] pg 153
-tags: cleric, [[Wizard]], [[5th level]], evocation
+tags: [[Cleric]], [[Wizard]], [[5th level]], evocation
 
 **5th-level evocation**
 

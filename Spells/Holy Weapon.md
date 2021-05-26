@@ -1,6 +1,6 @@
 # Holy Weapon
 sources: [[Xanathar's Guide to Everything]] pg 157
-tags: cleric, paladin, [[5th level]], evocation
+tags: [[Cleric]], paladin, [[5th level]], evocation
 
 **5th-level evocation**
 

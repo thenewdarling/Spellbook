@@ -1,6 +1,6 @@
 # Sanctuary
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 176
-tags: artificer, cleric, paladin (devotion), paladin (redemption), [[1st level]], abjuration
+tags: artificer, [[Cleric]], paladin (devotion), paladin (redemption), [[1st level]], abjuration
 
 **1st-level abjuration**
 

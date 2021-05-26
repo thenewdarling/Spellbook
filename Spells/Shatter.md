@@ -1,6 +1,6 @@
 # Shatter
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 178
-tags: artificer (artillerist), [[Bard]], cleric (tempest), monk (four elements), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], evocation
+tags: artificer (artillerist), [[Bard]], [[Cleric#Tempest]], monk (four elements), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], evocation
 
 **2nd-level evocation**
 

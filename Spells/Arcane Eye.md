@@ -1,6 +1,6 @@
 # Arcane Eye
 sources: [[Player's Handbook]] pg 214, [[SRD]] pg 118
-tags: artificer, cleric (knowledge), cleric (arcana), [[Wizard]], [[4th level]], divination
+tags: artificer, [[Cleric#Knowledge]], [[Cleric#Arcana]], [[Wizard]], [[4th level]], divination
 
 **4th-level divination**
 

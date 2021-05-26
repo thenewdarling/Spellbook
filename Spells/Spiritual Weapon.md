@@ -1,6 +1,6 @@
 # Spiritual Weapon
 sources: [[Player's Handbook]] pg 278, [[SRD]] pg 182
-tags: cleric, paladin (conquest), [[2nd level]], evocation
+tags: [[Cleric]], paladin (conquest), [[2nd level]], evocation
 
 **2nd-level evocation**
 

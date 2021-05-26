@@ -1,6 +1,6 @@
 # Modify Memory
 sources: [[Player's Handbook]] pg 261, [[SRD]] pg 166
-tags: [[Bard]], cleric (trickery), [[Wizard]], [[5th level]], enchantment
+tags: [[Bard]], [[Cleric#Trickery]],, [[Wizard]], [[5th level]], enchantment
 
 **5th-level enchantment**
 

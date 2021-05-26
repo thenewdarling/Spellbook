@@ -1,6 +1,6 @@
 # Lesser Restoration
 sources: [[Player's Handbook]] pg 255, [[SRD]] pg 158
-tags: artificer, [[Bard]], cleric, druid, paladin, ranger, [[2nd level]], abjuration
+tags: artificer, [[Bard]], [[Cleric]], druid, paladin, ranger, [[2nd level]], abjuration
 
 **2nd-level abjuration**
 

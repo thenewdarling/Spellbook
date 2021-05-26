@@ -1,6 +1,6 @@
 # Crusader’s Mantle
 sources: [[Player's Handbook]] pg 230
-tags: cleric (war), paladin, [[3rd level]], evocation
+tags: [[Cleric#War]], paladin, [[3rd level]], evocation
 
 **3rd-level evocation**
 

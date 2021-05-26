@@ -1,6 +1,6 @@
 # Augury
 sources: [[Player's Handbook]] pg 215, [[SRD]] pg 120
-tags: cleric, cleric (knowledge), [[2nd level]], ritual, divination
+tags: [[Cleric]], [[Cleric#Knowledge]], [[2nd level]], ritual, divination
 
 **2nd-level divination (ritual)**
 

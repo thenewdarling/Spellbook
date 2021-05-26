@@ -1,6 +1,6 @@
 # Silence
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 179
-tags: [[Bard]], cleric, druid (desert), monk (shadow), ranger, warlock (undying), [[2nd level]], ritual, illusion
+tags: [[Bard]], [[Cleric]], druid (desert), monk (shadow), ranger, warlock (undying), [[2nd level]], ritual, illusion
 
 **2nd-level illusion (ritual)**
 

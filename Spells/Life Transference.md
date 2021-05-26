@@ -1,6 +1,6 @@
 # Life Transference
 sources: [[Xanathar's Guide to Everything]] pg 160
-tags: cleric, [[Wizard]], [[3rd level]], necromancy
+tags: [[Cleric]], [[Wizard]], [[3rd level]], necromancy
 
 **3rd-level necromancy**
 

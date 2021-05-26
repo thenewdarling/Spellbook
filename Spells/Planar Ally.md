@@ -1,6 +1,6 @@
 # Planar Ally
 sources: [[Player's Handbook]] pg 265, [[SRD]] pg 168
-tags: cleric, [[6th level]], conjuration
+tags: [[Cleric]], [[6th level]], conjuration
 
 **6th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Blade Barrier
 sources: [[Player's Handbook]] pg 218, [[SRD]] pg 122
-tags: cleric, [[6th level]], evocation
+tags: [[Cleric]], [[6th level]], evocation
 
 **6th-level evocation**
 

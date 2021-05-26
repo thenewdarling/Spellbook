@@ -1,6 +1,6 @@
 # Identify
 sources: [[Player's Handbook]] pg 252, [[SRD]] pg 155
-tags: artificer, [[Bard]], cleric (forge), cleric (knowledge), [[Wizard]], [[1st level]], ritual, divination
+tags: artificer, [[Bard]], [[Cleric#Forge]], [[Cleric#Knowledge]], [[Wizard]], [[1st level]], ritual, divination
 
 **1st-level divination (ritual)**
 

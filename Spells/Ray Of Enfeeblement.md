@@ -1,6 +1,6 @@
 # Ray of Enfeeblement
 sources: [[Player's Handbook]] pg 271, [[SRD]] pg 174
-tags: cleric (death), cleric (grave), warlock, [[Wizard]], [[2nd level]], necromancy
+tags: [[Cleric#Death]],, [[Cleric#Grave]], warlock, [[Wizard]], [[2nd level]], necromancy
 
 **2nd-level necromancy**
 

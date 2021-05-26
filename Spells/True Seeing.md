@@ -1,6 +1,6 @@
 # True Seeing
 sources: [[Player's Handbook]] pg 284, [[SRD]] pg 189
-tags: [[Bard]], cleric, [[Sorceror]], warlock, [[Wizard]], [[6th level]], divination
+tags: [[Bard]], [[Cleric]], [[Sorceror]], warlock, [[Wizard]], [[6th level]], divination
 
 **6th-level divination**
 

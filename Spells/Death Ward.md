@@ -1,6 +1,6 @@
 # Death Ward
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: artificer (alchemist), cleric, paladin, warlock (undying), [[4th level]], abjuration
+tags: artificer (alchemist), [[Cleric]], paladin, warlock (undying), [[4th level]], abjuration
 
 **4th-level abjuration**
 

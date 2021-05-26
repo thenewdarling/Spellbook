@@ -1,6 +1,6 @@
 # Feign Death
 sources: [[Player's Handbook]] pg 240
-tags: [[Bard]], cleric, druid, warlock (undying), [[Wizard]], [[3rd level]], ritual, necromancy
+tags: [[Bard]], [[Cleric]], druid, warlock (undying), [[Wizard]], [[3rd level]], ritual, necromancy
 
 **3rd-level necromancy (ritual)**
 

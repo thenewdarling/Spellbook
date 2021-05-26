@@ -1,6 +1,6 @@
 # Speak with Dead
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 181
-tags: [[Bard]], cleric, warlock (undying), [[3rd level]], necromancy
+tags: [[Bard]], [[Cleric]], warlock (undying), [[3rd level]], necromancy
 
 **3rd-level necromancy**
 

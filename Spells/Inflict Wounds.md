@@ -1,6 +1,6 @@
 # Inflict Wounds
 sources: [[Player's Handbook]] pg 253, [[SRD]] pg 157
-tags: cleric, paladin (oathbreaker), [[1st level]], necromancy
+tags: [[Cleric]], paladin (oathbreaker), [[1st level]], necromancy
 
 **1st-level necromancy**
 

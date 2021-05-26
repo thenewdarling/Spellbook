@@ -1,6 +1,6 @@
 # Thaumaturgy
 sources: [[Player's Handbook]] pg 282, [[SRD]] pg 187
-tags: tiefling, cleric, [[cantrip]], transmutation
+tags: tiefling, [[Cleric]], [[cantrip]], transmutation
 
 **Transmutation cantrip**
 

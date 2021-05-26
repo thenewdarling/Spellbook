@@ -1,6 +1,6 @@
 # Animal Friendship
 sources: [[Player's Handbook]] pg 212, [[SRD]] pg 115
-tags: [[Bard]], cleric (nature), druid, ranger, [[1st level]], enchantment
+tags: [[Bard]], [[Cleric#Nature]],, druid, ranger, [[1st level]], enchantment
 
 **1st-level enchantment**
 

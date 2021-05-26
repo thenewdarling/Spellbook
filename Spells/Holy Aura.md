@@ -1,6 +1,6 @@
 # Holy Aura
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 155
-tags: cleric, [[8th level]], abjuration
+tags: [[Cleric]], [[8th level]], abjuration
 
 **8th-level abjuration**
 

@@ -1,6 +1,6 @@
 # Dispel Magic
 sources: [[Player's Handbook]] pg 234, [[SRD]] pg 136
-tags: artificer, [[Bard]], cleric, druid, paladin, [[Sorceror]], warlock, [[Wizard]], [[3rd level]], abjuration
+tags: artificer, [[Bard]], [[Cleric]], druid, paladin, [[Sorceror]], warlock, [[Wizard]], [[3rd level]], abjuration
 
 **3rd-level abjuration**
 

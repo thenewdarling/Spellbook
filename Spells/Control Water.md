@@ -1,6 +1,6 @@
 # Control Water
 sources: [[Player's Handbook]] pg 227, [[SRD]] pg 130
-tags: cleric, druid, [[Wizard]], [[4th level]], transmutation
+tags: [[Cleric]], druid, [[Wizard]], [[4th level]], transmutation
 
 **4th-level transmutation**
 

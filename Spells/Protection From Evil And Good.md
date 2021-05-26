@@ -1,6 +1,6 @@
 # Protection from Evil and Good
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: cleric, paladin, warlock, [[Wizard]], [[1st level]], abjuration
+tags: [[Cleric]], paladin, warlock, [[Wizard]], [[1st level]], abjuration
 
 **1st-level abjuration**
 

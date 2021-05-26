@@ -1,6 +1,6 @@
 # Animate Objects
 sources: [[Player's Handbook]] pg 213, [[SRD]] pg 116
-tags: artificer, [[Bard]], cleric (forge), [[Sorceror]], [[Wizard]], [[5th level]], transmutation
+tags: artificer, [[Bard]], [[Cleric#Forge]], [[Sorceror]], [[Wizard]], [[5th level]], transmutation
 
 **5th-level transmutation**
 

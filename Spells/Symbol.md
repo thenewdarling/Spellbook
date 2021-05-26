@@ -1,6 +1,6 @@
 # Symbol
 sources: [[Player's Handbook]] pg 280, [[SRD]] pg 184
-tags: [[Bard]], [[Wizard]], cleric, [[7th level]], abjuration
+tags: [[Bard]], [[Wizard]], [[Cleric]], [[7th level]], abjuration
 
 **7th-level abjuration**
 

@@ -1,6 +1,6 @@
 # Astral Projection
 sources: [[Player's Handbook]] pg 215, [[SRD]] pg 119
-tags: cleric, warlock, [[Wizard]], [[9th level]], necromancy
+tags: [[Cleric]], warlock, [[Wizard]], [[9th level]], necromancy
 
 **9th-level necromancy**
 

@@ -1,6 +1,6 @@
 # Scorching Ray
 sources: [[Player's Handbook]] pg 273, [[SRD]] pg 176
-tags: artificer (artillerist), cleric (light), [[Sorceror]], warlock (fiend), [[Wizard]], [[2nd level]], evocation
+tags: artificer (artillerist), [[Cleric#Light]],, [[Sorceror]], warlock (fiend), [[Wizard]], [[2nd level]], evocation
 
 **2nd-level evocation**
 

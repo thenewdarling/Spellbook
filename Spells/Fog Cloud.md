@@ -1,6 +1,6 @@
 # Fog Cloud
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 146
-tags: cleric (tempest), druid, ranger, [[Sorceror]], [[Wizard]], [[1st level]], conjuration
+tags: [[Cleric#Tempest]], druid, ranger, [[Sorceror]], [[Wizard]], [[1st level]], conjuration
 
 **1st-level conjuration**
 

@@ -1,6 +1,6 @@
 # Call Lightning
 sources: [[Player's Handbook]] pg 220, [[SRD]] pg 123
-tags: cleric (tempest), druid, [[3rd level]], conjuration
+tags: [[Cleric#Tempest]], druid, [[3rd level]], conjuration
 
 **3rd-level conjuration**
 

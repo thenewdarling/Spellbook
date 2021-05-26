@@ -1,6 +1,6 @@
 # Protection from Energy
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: artificer, cleric, druid, paladin (ancients), paladin (vengeance), ranger, [[Sorceror]], [[Wizard]], [[3rd level]], abjuration
+tags: artificer, [[Cleric]], druid, paladin (ancients), paladin (vengeance), ranger, [[Sorceror]], [[Wizard]], [[3rd level]], abjuration
 
 **3rd-level abjuration**
 

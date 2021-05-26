@@ -1,6 +1,6 @@
 # Gust of Wind
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 152
-tags: cleric (tempest), druid, monk (four elements), [[Sorceror]], [[Wizard]], [[2nd level]], evocation
+tags: [[Cleric#Tempest]], druid, monk (four elements), [[Sorceror]], [[Wizard]], [[2nd level]], evocation
 
 **2nd-level evocation**
 

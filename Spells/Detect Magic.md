@@ -1,6 +1,6 @@
 # Detect Magic
 sources: [[Player's Handbook]] pg 231, [[SRD]] pg 134
-tags: artificer, [[Bard]], cleric, druid, paladin, ranger, [[Sorceror]], [[Wizard]], [[1st level]], ritual, divination
+tags: artificer, [[Bard]], [[Cleric]], druid, paladin, ranger, [[Sorceror]], [[Wizard]], [[1st level]], ritual, divination
 
 **1st-level divination (ritual)**
 

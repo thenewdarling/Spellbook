@@ -1,6 +1,6 @@
 # Dispel Evil and Good
 sources: [[Player's Handbook]] pg 233, [[SRD]] pg 136
-tags: cleric, paladin, [[5th level]], abjuration
+tags: [[Cleric]], paladin, [[5th level]], abjuration
 
 **5th-level abjuration**
 

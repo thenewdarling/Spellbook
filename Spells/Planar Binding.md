@@ -1,6 +1,6 @@
 # Planar Binding
 sources: [[Player's Handbook]] pg 265, [[SRD]] pg 168
-tags: [[Bard]], cleric, druid, [[Wizard]], [[5th level]], abjuration
+tags: [[Bard]], [[Cleric]], druid, [[Wizard]], [[5th level]], abjuration
 
 **5th-level abjuration**
 

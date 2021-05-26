@@ -1,6 +1,6 @@
 # Mirror Image
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 165
-tags: cleric (trickery), druid (coast), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], illusion
+tags: [[Cleric#Trickery]],, druid (coast), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], illusion
 
 **2nd-level illusion**
 

@@ -1,6 +1,6 @@
 # Magic Missile
 sources: [[Player's Handbook]] pg 257, [[SRD]] pg 161
-tags: cleric (arcana), [[Sorceror]], [[Wizard]], [[1st level]], evocation
+tags: [[Cleric#Arcana]], [[Sorceror]], [[Wizard]], [[1st level]], evocation
 
 **1st-level evocation**
 

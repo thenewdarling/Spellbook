@@ -1,6 +1,6 @@
 # Hallow
 sources: [[Player's Handbook]] pg 249, [[SRD]] pg 152
-tags: cleric, warlock (fiend), [[5th level]], evocation
+tags: [[Cleric]], warlock (fiend), [[5th level]], evocation
 
 **5th-level evocation**
 

@@ -1,6 +1,6 @@
 # Daylight
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: cleric, druid, paladin, ranger, [[Sorceror]], [[3rd level]], evocation
+tags: [[Cleric]], druid, paladin, ranger, [[Sorceror]], [[3rd level]], evocation
 
 **3rd-level evocation**
 

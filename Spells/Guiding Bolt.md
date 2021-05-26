@@ -1,6 +1,6 @@
 # Guiding Bolt
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 151
-tags: cleric, [[1st level]], evocation
+tags: [[Cleric]], [[1st level]], evocation
 
 **1st-level evocation**
 

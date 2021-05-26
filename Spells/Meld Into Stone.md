@@ -1,6 +1,6 @@
 # Meld Into Stone
 sources: [[Player's Handbook]] pg 259, [[SRD]] pg 163
-tags: cleric, druid, [[3rd level]], ritual, transmutation
+tags: [[Cleric]], druid, [[3rd level]], ritual, transmutation
 
 **3rd-level transmutation (ritual)**
 

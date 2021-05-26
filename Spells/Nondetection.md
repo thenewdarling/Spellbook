@@ -1,6 +1,6 @@
 # Nondetection
 sources: [[Player's Handbook]] pg 263, [[SRD]] pg 167
-tags: [[Bard]], cleric (knowledge), ranger, [[Wizard]], [[3rd level]], abjuration
+tags: [[Bard]], [[Cleric#Knowledge]], ranger, [[Wizard]], [[3rd level]], abjuration
 
 **3rd-level abjuration**
 

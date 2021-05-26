@@ -1,6 +1,6 @@
 # Plane Shift
 sources: [[Player's Handbook]] pg 266, [[SRD]] pg 168
-tags: cleric, druid, [[Sorceror]], warlock, [[Wizard]], [[7th level]], conjuration
+tags: [[Cleric]], druid, [[Sorceror]], warlock, [[Wizard]], [[7th level]], conjuration
 
 **7th-level conjuration**
 

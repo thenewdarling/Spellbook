@@ -1,6 +1,6 @@
 # Vampiric Touch
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 189
-tags: cleric (death), cleric (grave), warlock, [[Wizard]], [[3rd level]], necromancy
+tags: [[Cleric#Death]],, [[Cleric#Grave]], warlock, [[Wizard]], [[3rd level]], necromancy
 
 **3rd-level necromancy**
 

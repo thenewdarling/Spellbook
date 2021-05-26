@@ -1,6 +1,6 @@
 # Commune
 sources: [[Player's Handbook]] pg 223, [[SRD]] pg 126
-tags: cleric, [[5th level]], ritual, divination
+tags: [[Cleric]], [[5th level]], ritual, divination
 
 **5th-level divination (ritual)**
 

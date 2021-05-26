@@ -1,6 +1,6 @@
 # Guidance
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 151
-tags: artificer, cleric, druid, [[cantrip]], divination
+tags: artificer, [[Cleric]], druid, [[cantrip]], divination
 
 **Divination cantrip**
 

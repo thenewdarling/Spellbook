@@ -1,6 +1,6 @@
 # Control Weather
 sources: [[Player's Handbook]] pg 228, [[SRD]] pg 131
-tags: cleric, druid, [[Wizard]], [[8th level]], transmutation
+tags: [[Cleric]], druid, [[Wizard]], [[8th level]], transmutation
 
 **8th-level transmutation**
 

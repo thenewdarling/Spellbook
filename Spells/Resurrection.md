@@ -1,6 +1,6 @@
 # Resurrection
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 175
-tags: [[Bard]], cleric, [[7th level]], necromancy
+tags: [[Bard]], [[Cleric]], [[7th level]], necromancy
 
 **7th-level necromancy**
 

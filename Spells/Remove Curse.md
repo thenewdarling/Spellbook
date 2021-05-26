@@ -1,6 +1,6 @@
 # Remove Curse
 sources: [[Player's Handbook]] pg 271, [[SRD]] pg 174
-tags: cleric, paladin, warlock, [[Wizard]], [[3rd level]], abjuration
+tags: [[Cleric]], paladin, warlock, [[Wizard]], [[3rd level]], abjuration
 
 **3rd-level abjuration**
 

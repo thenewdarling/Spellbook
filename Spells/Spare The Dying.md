@@ -1,6 +1,6 @@
 # Spare the Dying
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 181
-tags: artificer, cleric, [[cantrip]], necromancy
+tags: artificer, [[Cleric]], [[cantrip]], necromancy
 
 **Necromancy cantrip**
 
