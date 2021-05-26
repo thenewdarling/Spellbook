@@ -1,6 +1,6 @@
 # Tenser’s Floating Disk
 sources: [[Player's Handbook]] pg 282
-tags: [[Wizard]], [[1st level]], ritual, [[Conjuration Spells]]
+tags: [[Wizard]], [[1st level]], [[Ritual Spells]], [[Conjuration Spells]]
 
 **1st-level conjuration (ritual)**
 

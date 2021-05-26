@@ -1,6 +1,6 @@
 # Speak with Animals
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 181
-tags: barbarian (totem warrior), [[Bard]], [[Cleric#Nature]], druid, paladin (ancients), ranger, [[1st level]], ritual, [[Divination Spells]]
+tags: barbarian (totem warrior), [[Bard]], [[Cleric#Nature]], druid, paladin (ancients), ranger, [[1st level]], [[Ritual Spells]], [[Divination Spells]]
 
 **1st-level divination (ritual)**
 

@@ -1,6 +1,6 @@
 # Purify Food and Drink
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: artificer, [[Cleric]], druid, paladin, [[1st level]], ritual, [[Transmutation Spells]]
+tags: artificer, [[Cleric]], druid, paladin, [[1st level]], [[Ritual Spells]], [[Transmutation Spells]]
 
 **1st-level transmutation (ritual)**
 

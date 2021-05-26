@@ -1,6 +1,6 @@
 # Alarm
 sources: [[Player's Handbook]] pg 211, [[SRD]] pg 114
-tags: artificer, ranger, [[Wizard]], [[1st level]], ritual, [[Abjuration Spells]]
+tags: artificer, ranger, [[Wizard]], [[1st level]], [[Ritual Spells]], [[Abjuration Spells]]
 
 **1st-level abjuration (ritual)**
 

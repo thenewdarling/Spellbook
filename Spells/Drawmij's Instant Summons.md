@@ -1,6 +1,6 @@
 # Drawmij’s Instant Summons
 sources: [[Player's Handbook]] pg 235
-tags: [[Wizard]], [[6th level]], ritual, [[Conjuration Spells]]
+tags: [[Wizard]], [[6th level]], [[Ritual Spells]], [[Conjuration Spells]]
 
 **6th-level conjuration (ritual)**
 

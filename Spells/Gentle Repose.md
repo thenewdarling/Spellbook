@@ -1,6 +1,6 @@
 # Gentle Repose
 sources: [[Player's Handbook]] pg 245, [[SRD]] pg 148
-tags: [[Cleric]], [[Wizard]], [[2nd level]], ritual, [[Necromancy Spells]]
+tags: [[Cleric]], [[Wizard]], [[2nd level]], [[Ritual Spells]], [[Necromancy Spells]]
 
 **2nd-level necromancy (ritual)**
 
