@@ -32,7 +32,7 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 |4 (-3)|16 (+3)|10 (+O)|2 (-4)|10 (+O)|1 (-5)|
 ---
 **Damage Immunities** poison, psychic
-**Condition Immunities** blinded, charmed, deafened, exhaustion, [[frightened]], paralyzed, petrified, poisoned
+**Condition Immunities** [[blinded]], [[charmed]], [[deafened]], [[exhaustion]], [[frightened]], [[paralyzed]], [[petrified]], [[poisoned]]
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 **Languages** —
 

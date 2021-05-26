@@ -16,7 +16,7 @@ Uttering an incantation, you draw on the magic of the Lower Planes or Upper Plan
 
  * You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).
 
- * You are immune to the poisoned condition (Lower Planes) or the charmed condition (Upper Planes).
+ * You are immune to the [[poisoned]] condition (Lower Planes) or the [[charmed]] condition (Upper Planes).
 
  * Spectral wings appear on your back, giving you a flying speed of 40 feet.
 

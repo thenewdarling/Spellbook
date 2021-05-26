@@ -12,4 +12,4 @@ tags: [[Bard]], druid (underdark), [[Sorceror]], warlock (fae), [[Wizard]], [[4t
 
 *Duration*: Concentration, up to 1 minute
 
-You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.
+You or a creature you touch becomes [[invisible]] until the spell ends. Anything the target is wearing or carrying is [[invisible]] as long as it is on the target’s person.

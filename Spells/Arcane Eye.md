@@ -12,7 +12,7 @@ tags: artificer, [[Cleric#Knowledge]], [[Cleric#Arcana]], [[Wizard]], [[4th leve
 
 *Duration*: Concentration, up to 1 hour
 
-You create an invisible, magical eye within range that hovers in the for the duration.
+You create an [[invisible]], magical eye within range that hovers in the for the duration.
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.
 

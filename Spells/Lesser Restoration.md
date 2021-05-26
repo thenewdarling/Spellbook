@@ -12,4 +12,4 @@ tags: artificer, [[Bard]], [[Cleric]], druid, paladin, ranger, [[2nd level]], [[
 
 *Duration*: Instantaneous
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be [[blinded]], [[deafened]], [[paralyzed]], or [[poisoned]].

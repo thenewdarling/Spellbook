@@ -32,8 +32,8 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 **Insanity.** Each target must make an Intelligence saving throw. On a failed save, the target is driven insane for 1 minute. An insane creature can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish. The DM controls its movement, which is erratic.
 
-**Pain.** Each target must make a Constitution saving throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.
+**Pain.** Each target must make a Constitution saving throw and becomes [[incapacitated]] with excruciating pain for 1 minute on a failed save.
 
-**Sleep.** Each target must make a Wisdom saving throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+**Sleep.** Each target must make a Wisdom saving throw and falls [[unconscious]] for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
-**Stunning.** Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.
+**Stunning.** Each target must make a Wisdom saving throw and becomes [[stunned]] for 1 minute on a failed save.

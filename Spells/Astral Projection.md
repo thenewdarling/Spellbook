@@ -12,7 +12,7 @@ tags: [[Cleric]], warlock, [[Wizard]], [[9th level]], [[Necromancy Spells]]
 
 *Duration*: Special
 
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
+You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is [[unconscious]] and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
 
 Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut---something that can happen only when an effect specifically states that it does---your soul and body are separated, killing you instantly.
 

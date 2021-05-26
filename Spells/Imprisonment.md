@@ -20,7 +20,7 @@ When you cast the spell, you choose one of the following forms of imprisonment.
 
 The special component for this version of the spell is a small mithral orb.
 
-**Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is restrained until the spell ends, and it can’t move or be moved by any means until then.
+**Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is [[restrained]] until the spell ends, and it can’t move or be moved by any means until then.
 
 The special component for this version of the spell is a fine chain of precious metal.
 

@@ -12,7 +12,7 @@ tags: [[Wizard]], [[7th level]], [[Transmutation Spells]]
 
 *Duration*: Until dispelled
 
-By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can’t be targeted by [[School of Divination]] spells or perceived through scrying sensors created by [[School of Divination]] spells.
+By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes [[invisible]] and can’t be targeted by [[School of Divination]] spells or perceived through scrying sensors created by [[School of Divination]] spells.
 
 If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn’t grow older.
 

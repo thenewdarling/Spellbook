@@ -18,7 +18,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 **Bull’s Strength.** The target has advantage on Strength checks, and his or her carrying capacity doubles.
 
-**Cat’s Grace.** The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated.
+**Cat’s Grace.** The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t [[incapacitated]].
 
 **Eagle’s Splendor.** The target has advantage on Charisma checks.
 

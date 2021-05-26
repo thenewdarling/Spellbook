@@ -18,7 +18,7 @@ The transformation lasts for the duration, or until the target drops to 0 hit po
 
 The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form.
 
-As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious. 
+As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked [[unconscious]]. 
 The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech.
 
 The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.
