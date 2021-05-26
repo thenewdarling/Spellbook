@@ -1,6 +1,6 @@
 # Nystul’s Magic Aura
 sources: [[Player's Handbook]] pg 263
-tags: [[Cleric#Arcana]], [[Wizard]], [[2nd level]], [[Illusion Spells]]
+tags: [[Cleric Arcana Spells]], [[Wizard]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

@@ -1,6 +1,6 @@
 # Blight
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 122
-tags: artificer (alchemist), [[Cleric#Death]], [[Cleric#Grave]], druid, [[Paladin Oathbreaker Spells]], [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Necromancy Spells]]
+tags: artificer (alchemist), [[Cleric Death Spells]], [[Cleric Grave Spells]], druid, [[Paladin Oathbreaker Spells]], [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Necromancy Spells]]
 
 **4th-level necromancy**
 

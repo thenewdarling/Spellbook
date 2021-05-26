@@ -1,6 +1,6 @@
 # Fabricate
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 141
-tags: artificer, [[Cleric#Forge]], [[Wizard]], [[4th level]], [[Transmutation Spells]]
+tags: artificer, [[Cleric Forge Spells]], [[Wizard]], [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

@@ -1,5 +1,3 @@
-tags: [[Paladin]]
-
 At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 ##### Defense
@@ -17,3 +15,5 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ##### Protection
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+tags: [[Paladin]]

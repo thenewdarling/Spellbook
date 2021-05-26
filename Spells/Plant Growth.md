@@ -1,6 +1,6 @@
 # Plant Growth
 sources: [[Player's Handbook]] pg 266, [[SRD]] pg 169
-tags: [[Bard]], [[Cleric#Nature]], druid, [[Paladin Ancients Spells]], ranger, warlock (fae), [[3rd level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Cleric Nature Spells]], druid, [[Paladin Ancients Spells]], ranger, warlock (fae), [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

@@ -1,6 +1,6 @@
 # Creation
 sources: [[Player's Handbook]] pg 229, [[SRD]] pg 132
-tags: artificer, [[Cleric#Forge]], [[Sorceror]], [[Wizard]], [[5th level]], [[Illusion Spells]]
+tags: artificer, [[Cleric Forge Spells]], [[Sorceror]], [[Wizard]], [[5th level]], [[Illusion Spells]]
 
 **5th-level illusion**
 

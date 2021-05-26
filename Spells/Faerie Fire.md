@@ -1,6 +1,6 @@
 # Faerie Fire
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 141
-tags: elf (drow), artificer, [[Bard]], [[Cleric#Light]], druid, warlock (fae), [[1st level]], [[Evocation Spells]]
+tags: elf (drow), artificer, [[Bard]], [[Cleric Light Spells]], druid, warlock (fae), [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

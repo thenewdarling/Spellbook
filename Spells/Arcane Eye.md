@@ -1,6 +1,6 @@
 # Arcane Eye
 sources: [[Player's Handbook]] pg 214, [[SRD]] pg 118
-tags: artificer, [[Cleric#Knowledge]], [[Cleric#Arcana]], [[Wizard]], [[4th level]], [[Divination Spells]]
+tags: artificer, [[Cleric Knowledge Spells]], [[Cleric Arcana Spells]], [[Wizard]], [[4th level]], [[Divination Spells]]
 
 **4th-level divination**
 

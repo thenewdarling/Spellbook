@@ -1,6 +1,6 @@
 # Modify Memory
 sources: [[Player's Handbook]] pg 261, [[SRD]] pg 166
-tags: [[Bard]], [[Cleric#Trickery]], [[Wizard]], [[5th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric Trickery Spells]], [[Wizard]], [[5th level]], [[Enchantment Spells]]
 
 **5th-level enchantment**
 

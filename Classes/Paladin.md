@@ -22,6 +22,30 @@ Level	Proficiency		Features
 19th	+6						Ability Score Improvement	
 20th	+6						Sacred Oath Feature
 
+# Spell Slots
+
+		1	2	3	4	5
+1st		-	-	-	-	-
+2nd		2	-	-	-	-
+3rd		3	-	-	-	-
+4th		3	-	-	-	-
+5th		4	2	-	-	-
+6th		4	2	-	-	-
+7th		4	3	-	-	-
+8th		4	3	-	-	-
+9th		4	3	2	-	-
+10th	4	3	2	-	-
+11th	4	3	3	-	-
+12th	4	3	3	-	-
+13th	4	3	3	1	-
+14th	4	3	3	1	-
+15th	4	3	3	2	-
+16th	4	3	3	2	-
+17th	4	3	3	3	1
+18th	4	3	3	3	1
+19th	4	3	3	3	2
+20th	4	3	3	3	2
+
 # Sacred Oath
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an Oath.
 

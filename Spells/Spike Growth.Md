@@ -1,6 +1,6 @@
 # Spike Growth
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 182
-tags: [[Cleric#Nature]], druid, ranger, [[2nd level]], [[Transmutation Spells]]
+tags: [[Cleric Nature Spells]], druid, ranger, [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

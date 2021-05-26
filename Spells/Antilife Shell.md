@@ -1,6 +1,6 @@
 # Antilife Shell
 sources: [[Player's Handbook]] pg 213, [[SRD]] pg 116
-tags: [[Cleric#Death]], [[Cleric#Grave]], druid, [[5th level]], [[Abjuration Spells]]
+tags: [[Cleric Death Spells]], [[Cleric Grave Spells]], druid, [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 

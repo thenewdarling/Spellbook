@@ -1,6 +1,6 @@
 # Pass Without Trace
 sources: [[Player's Handbook]] pg 264, [[SRD]] pg 167
-tags: genasi (earth), [[Cleric#Trickery]], druid, monk (shadow), ranger, [[2nd level]], [[Abjuration Spells]]
+tags: genasi (earth), [[Cleric Trickery Spells]], druid, monk (shadow), ranger, [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 

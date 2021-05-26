@@ -1,6 +1,6 @@
 # Ray of Enfeeblement
 sources: [[Player's Handbook]] pg 271, [[SRD]] pg 174
-tags: [[Cleric#Death]], [[Cleric#Grave]], warlock, [[Wizard]], [[2nd level]], [[Necromancy Spells]]
+tags: [[Cleric Death Spells]], [[Cleric Grave Spells]], warlock, [[Wizard]], [[2nd level]], [[Necromancy Spells]]
 
 **2nd-level necromancy**
 

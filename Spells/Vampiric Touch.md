@@ -1,6 +1,6 @@
 # Vampiric Touch
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 189
-tags: [[Cleric#Death]], [[Cleric#Grave]], warlock, [[Wizard]], [[3rd level]], [[Necromancy Spells]]
+tags: [[Cleric Death Spells]], [[Cleric Grave Spells]], warlock, [[Wizard]], [[3rd level]], [[Necromancy Spells]]
 
 **3rd-level necromancy**
 

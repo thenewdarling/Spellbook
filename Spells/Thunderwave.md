@@ -1,6 +1,6 @@
 # Thunderwave
 sources: [[Player's Handbook]] pg 282, [[SRD]] pg 187
-tags: artificer (artillerist), [[Bard]], [[Cleric#Tempest]], druid, monk (four elements), [[Sorceror]], [[Wizard]], [[1st level]], [[Evocation Spells]]
+tags: artificer (artillerist), [[Bard]], [[Cleric Tempest Spells]], druid, monk (four elements), [[Sorceror]], [[Wizard]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 
