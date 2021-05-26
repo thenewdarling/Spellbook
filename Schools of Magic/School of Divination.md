@@ -1,1 +1,1 @@
-List of spells here: [[Divination Spells]]
+*List of spells here: [[Divination Spells]]*
