@@ -20,10 +20,10 @@ The temple’s interior is an open space with an idol or altar at one end. You d
 
 The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma saving throw. On a failed save, it can’t enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a saving throw inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.
 
-In addition, the sensors created by divination spells can’t appear inside the temple, and creatures within can’t be targeted by divination spells.
+In addition, the sensors created by [[School of Divination]] spells can’t appear inside the temple, and creatures within can’t be targeted by [[School of Divination]] spells.
 
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
 
-The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple’s interior. Nothing can physically pass through the temple’s exterior. It can’t be dispelled by dispel magic, and antimagic field has no effect on it. A disintegrate spell destroys the temple instantly.
+The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple’s interior. Nothing can physically pass through the temple’s exterior. It can’t be dispelled by [[Dispel Magic]], and [[Antimagic Field]] has no effect on it. A [[Disintegrate]] spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.

@@ -26,7 +26,7 @@ The destination you choose must be known to you, and it must be on the same plan
 | Description       | 01-43  |     44-53    |    54-73   |   74-100  |
 | False destination | 01-50  |    51-100    |     ---    |    ---    |
 
-**Familiarity.** “Permanent circle” means a permanent teleportation circle whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
+**Familiarity.** “Permanent circle” means a permanent [[Teleportation Circle]] whose sigil sequence you know. “Associated object” means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
 
 “Very familiar” is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. “Seen casually” is someplace you have seen more than once but with which you aren’t very familiar. “Viewed once” is a place you have seen once, possibly using magic. “Description” is a place whose location and appearance you know through someone else’s description, perhaps from a map.
 

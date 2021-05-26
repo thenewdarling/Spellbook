@@ -12,4 +12,4 @@ tags: [[Bard]], [[Cleric#Knowledge]], ranger, [[Wizard]], [[3rd level]], abjurat
 
 *Duration*: 8 hours
 
-For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any divination magic or perceived through magical scrying sensors.
+For the duration, you hide a target that you touch from [[School of Divination]] magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any [[School of Divination]] magic or perceived through magical scrying sensors.

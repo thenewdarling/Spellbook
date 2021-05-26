@@ -18,6 +18,6 @@ You control the mount in combat. While the mount is within 1 mile of you, you ca
 
 The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.
 
-You can’t have more than one mount bonded by this spell or find steed at any time. As an action, you can release a mount from its bond, causing it to disappear permanently.
+You can’t have more than one mount bonded by this spell or [[Find Steed]] at any time. As an action, you can release a mount from its bond, causing it to disappear permanently.
 
 Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.

@@ -1,0 +1,1 @@
+List of spells here: [[Divination Spells]]
