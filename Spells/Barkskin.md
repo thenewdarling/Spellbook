@@ -1,6 +1,6 @@
 # Barkskin
 sources: [[Player's Handbook]] pg 217, [[SRD]] pg 121
-tags: [[Cleric#Nature]],, druid, ranger, [[2nd level]], transmutation
+tags: [[Cleric#Nature]], druid, ranger, [[2nd level]], transmutation
 
 **2nd-level transmutation**
 

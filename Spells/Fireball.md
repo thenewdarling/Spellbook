@@ -1,6 +1,6 @@
 # Fireball
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: artificer (artillerist), [[Cleric#Light]],, monk (four elements), [[Sorceror]], warlock (fiend), [[Wizard]], [[3rd level]], evocation
+tags: artificer (artillerist), [[Cleric#Light]], monk (four elements), [[Sorceror]], warlock (fiend), [[Wizard]], [[3rd level]], evocation
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Disguise Self
 sources: [[Player's Handbook]] pg 233, [[SRD]] pg 135
-tags: artificer, [[Bard]], [[Cleric#Trickery]],, [[Sorceror]], [[Wizard]], [[1st level]], illusion
+tags: artificer, [[Bard]], [[Cleric#Trickery]], [[Sorceror]], [[Wizard]], [[1st level]], illusion
 
 **1st-level illusion**
 

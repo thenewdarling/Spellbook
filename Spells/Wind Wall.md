@@ -1,6 +1,6 @@
 # Wind Wall
 sources: [[Player's Handbook]] pg 288, [[SRD]] pg 192
-tags: artificer (artillerist), [[Cleric#Nature]],, druid, ranger, [[3rd level]], evocation
+tags: artificer (artillerist), [[Cleric#Nature]], druid, ranger, [[3rd level]], evocation
 
 **3rd-level evocation**
 

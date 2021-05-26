@@ -1,6 +1,6 @@
 # Dominate Beast
 sources: [[Player's Handbook]] pg 234, [[SRD]] pg 137
-tags: [[Cleric#Nature]],, druid, paladin (conquest), warlock (fae), warlock (great old one), [[Sorceror]], [[4th level]], enchantment
+tags: [[Cleric#Nature]], druid, paladin (conquest), warlock (fae), warlock (great old one), [[Sorceror]], [[4th level]], enchantment
 
 **4th-level enchantment**
 
