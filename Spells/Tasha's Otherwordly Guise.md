@@ -24,4 +24,4 @@ Uttering an incantation, you draw on the magic of the Lower Planes or Upper Plan
 
  * All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.
 
- * You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
+ * You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like [[Extra Attack]], that lets you attack more than once when you take the Attack action on your turn.

@@ -6,6 +6,7 @@ Feature Links
 1st -- [[Divine Sense]], [[Lay on Hands]]
 2nd -- [[Fighting Style]], [[Spellcasting#Paladin]], [[Divine Smite]]
 3rd -- [[Divine Health]], [[Paladin#Sacred Oath]]
+5th -- [[Extra Attack#Paladin]]
 6th -- [[Aura of Protection]]	
 10th -- [[Aura of Courage]]	
 11th -- [[Improved Divine Smite]]

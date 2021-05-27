@@ -4,7 +4,7 @@ As an action, you present your holy symbol, and one celestial, elemental, fey, o
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [[Banishment]] spell, no [[Concentration]] required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold, as shown on the Arcane Banishment table.
+After you reach 5th level, when a creature fails its saving throw against your [[Arcane Abjuration]] feature, the creature is banished for 1 minute (as in the [[Banishment]] spell, no [[Concentration]] required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold, as shown on the Arcane Banishment table.
 
 ![[arcane banishment table.png]]
 
