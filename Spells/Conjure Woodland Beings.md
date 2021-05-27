@@ -10,7 +10,7 @@ tags: druid , ranger, [[4th level]], [[Conjuration Spells]]
 
 *Components*: V, S, M (one holly berry per creature summoned)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 

@@ -10,7 +10,7 @@ tags: artificer, druid (grassland), [[Paladin Vengeance Spells]], [[Sorceror]], 
 
 *Components*: V, S, M (a shaving of licorice root)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
 

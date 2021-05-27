@@ -10,7 +10,7 @@ tags: [[Bard]], [[Cleric Knowledge Spells]], [[Sorceror]], warlock, [[Wizard]], 
 
 *Components*: V, M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil)
 
-*Duration*: Concentration, up to 8 hours
+*Duration*: [[Requires concentration]], up to 8 hours
 
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be [[charmed]] are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
 

@@ -10,7 +10,7 @@ tags: artificer (artillerist), [[Cleric Forge Spells]], [[Cleric Light Spells]],
 
 *Components*: V, S, M (a small piece of phosphorus)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
 

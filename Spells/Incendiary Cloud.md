@@ -10,7 +10,7 @@ tags: [[Sorceror]], [[Wizard]], [[8th level]], [[Conjuration Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 

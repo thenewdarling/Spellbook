@@ -10,7 +10,7 @@ tags: druid, [[Sorceror]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 *Components*: V, S, M (a droplet of water)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You conjure up a sphere of water with a 5-foot radius at a point you can see within range. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell’s duration.
 

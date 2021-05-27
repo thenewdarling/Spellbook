@@ -10,7 +10,7 @@ tags: [[Bard]], [[Cleric]], druid, paladin, ranger, [[Wizard]], [[4th level]], [
 
 *Components*: V, S, M (a bit of fur from a bloodhound)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature’s location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 

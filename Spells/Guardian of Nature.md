@@ -10,7 +10,7 @@ tags: druid, ranger, [[4th level]], [[Transmutation Spells]]
 
 *Components*: V
 
-*Duration*: Concentration, up to a minute
+*Duration*: [[Requires concentration]], up to a minute
 
 A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.
 

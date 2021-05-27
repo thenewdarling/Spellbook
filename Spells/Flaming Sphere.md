@@ -10,7 +10,7 @@ tags: artificer (alchemist), [[Cleric Light Spells]], druid, [[Wizard]], [[2nd l
 
 *Components*: V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 

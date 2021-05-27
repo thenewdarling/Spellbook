@@ -10,7 +10,7 @@ tags: [[Bard]], [[Paladin Redemption Spells]], [[Sorceror]], warlock, [[Wizard]]
 
 *Components*: S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes [[charmed]] for the duration. While [[charmed]] by this spell, the creature is [[incapacitated]] and has a speed of 0.
 

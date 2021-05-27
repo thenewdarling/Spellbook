@@ -10,7 +10,7 @@ tags: [[Bard]], [[Wizard]], [[6th level]], [[Enchantment Spells]]
 
 *Components*: V
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can’t be [[charmed]] are immune to this spell.
 

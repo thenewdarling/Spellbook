@@ -10,7 +10,7 @@ tags: ranger, [[5th level]], [[Transmutation Spells]]
 
 *Components*: V, S, M (a quiver containing at least one piece of ammunition)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.
 

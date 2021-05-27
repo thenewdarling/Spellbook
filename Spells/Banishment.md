@@ -10,7 +10,7 @@ tags: [[Cleric]], paladin, [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[A
 
 *Components*: V, S, M (an item distasteful to the target)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.
 

@@ -10,7 +10,7 @@ tags: artificer, [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 *Components*: V, S, M (an eggshell and a snakeskin glove)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell’s duration, and it moves at your command, mimicking the movements of your own hand. 
 

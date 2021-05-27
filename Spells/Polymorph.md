@@ -10,7 +10,7 @@ tags: [[Bard]], [[Cleric Trickery Spells]], druid, [[Sorceror]], [[Wizard]], [[4
 
 *Components*: V, S, M (a caterpillar cocoon)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
 

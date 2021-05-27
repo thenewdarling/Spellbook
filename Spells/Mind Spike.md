@@ -10,7 +10,7 @@ tags: [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Divination Spells]]
 
 *Components*: S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You reach into the mind of one creature you can see within range. The target must make a Wisdom saving throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target’s location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can’t become hidden from you, and if it’s [[invisible]] it gains no benefit from that condition against you.
 

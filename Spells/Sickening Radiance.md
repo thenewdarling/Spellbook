@@ -10,7 +10,7 @@ tags: [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 Dim, greenish light spreads within a 30-foot-radius sphere centered on a point you choose within range. The light spreads around corners, and it lasts until the spell ends.
 

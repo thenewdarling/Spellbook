@@ -10,7 +10,7 @@ tags: [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 You create linked teleportation portals that remain open for the duration. Choose two points on the ground that you can see, one point within 10 feet of you and one point within 500 feet of you. A circular portal, 10 feet in diameter, opens over each point. If the portal would open in the space occupied by a creature, the spell fails, and the casting is lost.
 

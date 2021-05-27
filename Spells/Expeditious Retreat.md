@@ -10,6 +10,6 @@ tags: artificer, [[Sorceror]], warlock, [[Wizard]], [[1st level]], [[Transmutati
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.

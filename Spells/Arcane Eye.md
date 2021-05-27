@@ -10,7 +10,7 @@ tags: artificer, [[Cleric Knowledge Spells]], [[Cleric Arcana Spells]], [[Wizard
 
 *Components*: V, S, M (a bit of bat fur)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You create an [[invisible]], magical eye within range that hovers in the for the duration.
 

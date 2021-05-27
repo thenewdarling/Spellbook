@@ -10,7 +10,7 @@ tags: [[Bard]], [[Wizard]], [[5th level]], [[Illusion Spells]]
 
 *Components*: S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You become [[invisible]] at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
 

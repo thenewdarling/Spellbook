@@ -10,7 +10,7 @@ tags: warlock, [[Wizard]], [[3rd level]], [[Necromancy Spells]]
 
 *Components*: V, S, M (A gilded skull worth at least 300 gp)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Undead Spirit stat block. When you cast the spell, choose the creature’s form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 

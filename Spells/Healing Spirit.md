@@ -10,7 +10,7 @@ tags: druid, ranger, [[2nd level]], [[Conjuration Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).
 

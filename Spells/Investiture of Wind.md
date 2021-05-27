@@ -10,7 +10,7 @@ tags: druid, [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Transmutation S
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 Until the spell ends, wind whirls around you, and you gain the following benefits:
 

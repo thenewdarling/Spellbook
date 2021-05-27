@@ -10,7 +10,7 @@ tags: [[Bard]], [[Sorceror]], warlock (great old one), [[Wizard]], [[2nd level]]
 
 *Components*: V, S, M (a copper piece)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn’t speak any language, the creature is unaffected.
 

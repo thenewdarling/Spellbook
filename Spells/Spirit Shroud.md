@@ -10,7 +10,7 @@ tags: [[Cleric]], paladin , warlock, [[Wizard]], [[3rd level]], [[Necromancy Spe
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You call forth spirits of the dead, which flit around you for the spell’s duration. The spirits are intangible and invulnerable.
 

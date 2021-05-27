@@ -10,7 +10,7 @@ tags: [[Bard]], [[Cleric]], druid, monk (four elements), [[Paladin Conquest Spel
 
 *Components*: V, S, M (a small, straight piece of iron)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be [[paralyzed]] for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. 
 

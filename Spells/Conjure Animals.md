@@ -10,7 +10,7 @@ tags: druid, ranger, [[3rd level]], [[Conjuration Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 

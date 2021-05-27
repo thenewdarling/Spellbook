@@ -10,7 +10,7 @@ tags: druid (arctic), [[Sorceror]], [[Wizard]], [[3rd level]], [[Transmutation S
 
 *Components*: V, S, M (a drop of molasses)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a wisdom saving throw or be affected by this spell for the duration.
 

@@ -10,7 +10,7 @@ tags: [[Bard]], druid (swamp), druid (underdark), [[Sorceror]], warlock (fiend),
 
 *Components*: V, S, M (a rotten egg or several skunk cabbage leaves)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
 

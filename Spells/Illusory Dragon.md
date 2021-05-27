@@ -10,7 +10,7 @@ tags: [[Wizard]], [[8th level]], [[Illusion Spells]]
 
 *Components*: S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The illusion lasts for the spell’s duration and occupies its space, as if it were a creature. 
 

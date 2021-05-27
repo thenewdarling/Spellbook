@@ -10,7 +10,7 @@ tags: druid, [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one of the following options for what appears:
 

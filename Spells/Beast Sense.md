@@ -10,7 +10,7 @@ tags: barbarian (totem warrior), druid, ranger, [[2nd level]], [[Ritual Spells]]
 
 *Components*: S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.
 

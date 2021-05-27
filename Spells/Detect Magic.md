@@ -10,7 +10,7 @@ tags: artificer, [[Bard]], [[Cleric]], druid, paladin, ranger, [[Sorceror]], [[W
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 

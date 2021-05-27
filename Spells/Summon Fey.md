@@ -10,7 +10,7 @@ tags: druid, ranger , warlock, [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 *Components*: V, S, M (A gilded flower worth at least 300 gp)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You call forth a fey spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fey Spirit stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a fey creature of your choice marked by the chosen mood, which determines one of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 

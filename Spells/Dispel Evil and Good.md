@@ -10,7 +10,7 @@ tags: [[Cleric]], paladin, [[5th level]], [[Abjuration Spells]]
 
 *Components*: V, S, M (holy water or powdered silver and iron)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
 

@@ -10,7 +10,7 @@ tags: [[Bard]], [[Cleric]], druid, paladin, ranger, [[Wizard]], [[2nd level]], [
 
 *Components*: V, S, M (a forked twig)
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 Describe or name an object that is familiar to you. You sense the direction to the object’s location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 

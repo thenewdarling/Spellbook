@@ -10,7 +10,7 @@ tags: druid, [[6th level]], [[Abjuration Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You have resistance to acid, cold, fire, lightning, and thunder damage for the spell’s duration.
 

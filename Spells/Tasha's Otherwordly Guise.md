@@ -10,7 +10,7 @@ tags: [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
 
 *Components*: V, S, M (an object engraved with a symbol of the Outer Planes, worth at least 500gp)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:
 

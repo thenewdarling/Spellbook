@@ -10,6 +10,6 @@ tags: [[Cleric War Spells]], paladin, [[1st level]], [[Evocation Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.

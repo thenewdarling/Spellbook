@@ -10,7 +10,7 @@ tags: [[Bard]], [[Sorceror]], [[Wizard]], [[9th level]], [[Transmutation Spells]
 
 *Components*: V, S, M (a caterpillar cocoon)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You transform up to ten creatures of your choice that you can see within range. An unwilling target must succeed on a Wisdom saving throw to resist the transformation. An unwilling shapechanger automatically succeeds on the save.
 

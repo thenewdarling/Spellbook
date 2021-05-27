@@ -10,7 +10,7 @@ tags: [[Cleric Tempest Spells]], druid, ranger, [[Sorceror]], [[Wizard]], [[1st 
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 

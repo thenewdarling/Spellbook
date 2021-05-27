@@ -10,7 +10,7 @@ tags: warlock, [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 *Components*: V, S, M (a vial of blood from a humanoid killed within the past 24 hours)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.
 

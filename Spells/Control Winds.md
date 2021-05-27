@@ -10,7 +10,7 @@ tags: druid, [[Sorceror]], [[Wizard]], [[5th level]], [[Transmutation Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell’s duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you’ve halted.
 

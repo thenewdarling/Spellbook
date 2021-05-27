@@ -10,7 +10,7 @@ tags: [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 *Components*: V, S, M (a miniature hand sculpted from clay)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is [[restrained]] for the spell’s duration.
 

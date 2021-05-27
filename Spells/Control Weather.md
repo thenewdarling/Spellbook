@@ -10,7 +10,7 @@ tags: [[Cleric]], druid, [[Wizard]], [[8th level]], [[Transmutation Spells]]
 
 *Components*: V, S, M (burning incense and bits of earth and wood mixed in water)
 
-*Duration*: Concentration, up to 8 hours
+*Duration*: [[Requires concentration]], up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don’t have a clear path to the sky ends the spell early.
 

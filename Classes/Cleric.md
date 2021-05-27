@@ -132,26 +132,32 @@ Unlocked Class Abilities
 
 ## Knowledge
 Spell list: [[Cleric Knowledge Spells]]
-Channel Divinity: 
+Channel Divinity: [[Knowledge of the Ages]] (2nd level), [[Read Thoughts]] (6th level)
 
-**
+*The gods of knowledge – including Oghma, Boccob, Gilean, Aureon, and Thoth – value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.*
+
+*In Amonkhet, knowledge is the second virtue of society. Kefnet’s task is to pass on this teaching of the God-Pharaoh and elucidate its meaning. He teaches that the afterlife will be inhabited only by those who have proved by their wits that they are worthy of dwelling in the glorious presence of the God-Pharaoh. He trains acolytes and initiates to push their limits and challenge their mental capacity with spells of ever-greater power.*
 (source: [[Player's Handbook]])
 
 Unlocked Class Abilities
-1st level - 
-6th level - 
-8th level - 
-17th level - 
+1st level - [[Blessings of Knowledge]]
+6th level - Additional [[Channel Divinity#Cleric]]
+8th level - [[Potent Spellcasting#Cleric Knowledge Domain]]
+17th level - [[Visions of the Past]]
+
+
 
 ## Arcana
 Spell list: [[Cleric Arcana Spells]]
-Channel Divinity: 
+Channel Divinity: [[Arcane Abjuration]]
 
-**
-(source: [[Player's Handbook]])
+*Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.
+
+The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include Azuth and Mystra, as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes Hecate, Math Mathonwy, and Isis; the triple moon gods of Solinari, Lunitari, and Nuitari of Krynn; and Boccob, Vecna, and Wee Jas of Greyhawk.*
+(source: [[Sword Coast Adventurer's Guide]])
 
 Unlocked Class Abilities
-1st level - 
-6th level - 
-8th level - 
-17th level - 
+1st level - [[Arcane Initiate]]
+6th level - [[Spell Breaker]]
+8th level - [[Potent Spellcasting#Cleric Arcana Domain]]
+17th level - [[Arcane Mastery]]

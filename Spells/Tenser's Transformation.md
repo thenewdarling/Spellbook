@@ -10,7 +10,7 @@ tags: [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 *Components*: V, S, M (a few hairs from a bull)
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can’t cast spells, and you gain the following benefits: 
 

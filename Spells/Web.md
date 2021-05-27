@@ -10,7 +10,7 @@ tags: artificer, druid (underdark), [[Sorceror]], [[Wizard]], [[2nd level]], [[C
 
 *Components*: V, S, M (a bit of spiderweb)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 

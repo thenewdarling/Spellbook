@@ -10,7 +10,7 @@ tags: [[Bard]], [[Paladin Conquest Spells]], [[Sorceror]], warlock, [[Wizard]], 
 
 *Components*: V, S, M (a white feather or the heart of a hen)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become [[frightened]] for the duration.
 

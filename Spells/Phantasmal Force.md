@@ -10,7 +10,7 @@ tags: [[Bard]], [[Sorceror]], warlock (fae), warlock (great old one), [[Wizard]]
 
 *Components*: V, S, M (a bit of fleece)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
 

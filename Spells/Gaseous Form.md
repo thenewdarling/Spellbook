@@ -10,7 +10,7 @@ tags: artificer (alchemist), druid (underdark), monk (four elements), [[Sorceror
 
 *Components*: V, S, M (a bit of gauze and a wisp of smoke)
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You transform a willing creature you touch, along with everything it’s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn’t affected.
 

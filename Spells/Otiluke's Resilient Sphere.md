@@ -10,7 +10,7 @@ tags: artificer, [[Paladin Redemption Spells]], [[Wizard]], [[4th level]], [[Evo
 
 *Components*: V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
 

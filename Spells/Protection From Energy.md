@@ -10,6 +10,6 @@ tags: artificer, [[Cleric]], druid, [[Paladin Ancients Spells]], [[Paladin Venge
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.

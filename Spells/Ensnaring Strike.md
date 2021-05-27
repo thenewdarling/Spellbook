@@ -10,7 +10,7 @@ tags: [[Paladin Ancients Spells]], ranger, [[1st level]], [[Conjuration Spells]]
 
 *Components*: V
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be [[restrained]] by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
 

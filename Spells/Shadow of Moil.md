@@ -10,7 +10,7 @@ tags: warlock, [[4th level]], [[Necromancy Spells]]
 
 *Components*: V, S, M (an undead eyeball encased in a gem worth at least 150 gp)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Flame-like shadows wreathe your body until the spell ends, causing you to become heavily obscured to others. The shadows turn dim light within 10 feet of you into darkness, and bright light in the same area to dim light.
 

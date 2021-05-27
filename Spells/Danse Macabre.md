@@ -10,7 +10,7 @@ tags: warlock, [[Wizard]], [[5th level]], [[Necromancy Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a zombie or a skeleton (the statistics for zombies and skeletons are in the *Monster Manual*), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 

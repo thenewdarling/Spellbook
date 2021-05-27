@@ -10,7 +10,7 @@ tags: warlock, [[Wizard]], [[8th level]], [[Evocation Spells]]
 
 *Components*: V, M (a drop of pitch mixed with a drop of mercury)
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 Magical darkness spreads from a point you choose within range to ﬁll a 60-foot-radius sphere until the spell ends. The darkness spreads around corners. A creature with darkvision can’t see through this darkness. Non-magical light, as well as light created by spells of 8th level or lower, can't illuminate the area. 
 

@@ -10,7 +10,7 @@ tags: druid, [[Sorceror]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 *Components*: V, S, M (a pinch of dust)
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell’s duration.
 

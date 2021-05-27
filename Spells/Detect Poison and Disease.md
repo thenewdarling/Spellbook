@@ -10,7 +10,7 @@ tags: [[Cleric]], druid, paladin, ranger, [[1st level]], [[Ritual Spells]], [[Di
 
 *Components*: V, S, M (a yew leaf)
 
-*Duration*: Concentration, up to 10 minutes
+*Duration*: [[Requires concentration]], up to 10 minutes
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 

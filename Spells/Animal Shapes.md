@@ -10,7 +10,7 @@ tags: druid, [[8th level]], [[Transmutation Spells]]
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 24 hours
+*Duration*: [[Requires concentration]], up to 24 hours
 
 Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower.  On subsequent turns, you can use your action to transform affected creatures into new forms.
 

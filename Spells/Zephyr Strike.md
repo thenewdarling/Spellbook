@@ -10,7 +10,7 @@ tags: ranger, [[1st level]], [[Transmutation Spells]]
 
 *Components*: V
 
-*Duration*: Concentration, up to 1 minute
+*Duration*: [[Requires concentration]], up to 1 minute
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
 

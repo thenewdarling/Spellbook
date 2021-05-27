@@ -10,7 +10,7 @@ tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[8th level]], [[Enchantment 
 
 *Components*: V, S
 
-*Duration*: Concentration, up to 1 hour
+*Duration*: [[Requires concentration]], up to 1 hour
 
 You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be [[charmed]] by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
 
@@ -20,4 +20,4 @@ You can use your action to take total and precise control of the target. Until t
 
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
-**At Higher Levels.** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
+**At Higher Levels.** When you cast this spell with a 9th-level spell slot, the duration is [[[Requires concentration]], up to 8 hours.

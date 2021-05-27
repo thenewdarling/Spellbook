@@ -6,4 +6,12 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-tags: [[Cleric#Light]], [[Cleric#Grave]]
+## Cleric Knowledge Domain
+
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+## Cleric Arcana Domain
+
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+tags: [[Cleric#Light]], [[Cleric#Grave]], [[Cleric#Knowledge]], [[Cleric#Arcana]]
