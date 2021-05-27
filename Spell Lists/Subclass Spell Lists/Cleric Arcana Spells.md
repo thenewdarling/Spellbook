@@ -1,1 +1,1 @@
-*A list of spells only available to Paladins who take [[Cleric#Arcana]]*
+*A list of spells only available to Clerics who take [[Cleric#Arcana]]*

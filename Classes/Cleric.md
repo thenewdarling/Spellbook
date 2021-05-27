@@ -72,49 +72,49 @@ Channel Divinity: [[Invoke Duplicity]] (2nd level), [[Cloak of Shadows]] (6th le
 
 Unlocked Class Abilities
 1st level - [[Blessing of the Trickster]]
-6th level - Additional [[Channel Divinity]] 
+6th level - Additional [[Channel Divinity#Cleric]] 
 8th level - [[Divine Strike#Cleric Trickery Domain]]
 17th level - [[Improved Duplicity]]
 
 
 ## Tempest
 Spell list: [[Cleric Tempest Spells]]
-Channel Divinity: 
+Channel Divinity: [[Destructive Wrath]]
 
-**
+*Gods whose portfolios include the Tempest domain – including Talos, Umberlee, Kord, Zeboim, the Devourer, Zeus, and Thor – govern storms, sea, and, sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.*
 (source: [[Player's Handbook]])
 
 Unlocked Class Abilities
-1st level - 
-6th level - 
-8th level - 
-17th level - 
+1st level - [[Bonus Proficiency#Cleric Tempest Domain]], [[Wrath of the Storm]]
+6th level - [[Thunderous Strike]]
+8th level - [[Divine Strike#Cleric Tempest Domain]]
+17th level - [[Stormborn]]
 
 ## War
 Spell list: [[Cleric War Spells]]
-Channel Divinity: 
+Channel Divinity: [[Guided Strike]] (2nd level), [[War God's Blessing]] (6th level)
 
-**
+*War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, Heironeous, and Kiri-Jolith) as well as gods of destruction and pillage (such as Erythnul, the Fury, Gruumsh, and Ares) and gods of conquest and domination (such as Bane, Hextor, and Maglubiyet). Other war gods (such as Tempus, Nike, and Nuada) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.*
 (source: [[Player's Handbook]])
 
 Unlocked Class Abilities
-1st level - 
-6th level - 
-8th level - 
-17th level - 
+1st level - [[Bonus Proficiency#Cleric War Domain]], [[War Priest]]
+6th level - Additional [[Channel Divinity#Cleric]] 
+8th level - [[Divine Strike#Cleric War Domain]]
+17th level - [[Avatar of Battle]]
 
 ## Forge
 Spell list: [[Cleric Forge Spells]]
-Channel Divinity: 
+Channel Divinity: [[Artisan's Blessing]]
 
-**
-(source: [[Player's Handbook]])
+*The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.*
+(source: [[Xanathar's Guide to Everything]])
 
 Unlocked Class Abilities
-1st level - 
-6th level - 
-8th level - 
-17th level - 
+1st level - [[Bonus Proficiency#Cleric Forge Domain]], [[Blessing of the Forge]]
+6th level - [[Soul of the Forge]]
+8th level - [[Divine Strike#Cleric Forge Domain]]
+17th level - [[Saint of Forge and Fire]]
 
 ## Grave
 Spell list: [[Cleric Grave Spells]]

@@ -1,1 +1,1 @@
-*A list of spells only available to Paladins who take [[Cleric#Grave]]*
+*A list of spells only available to Clerics who take [[Cleric#Grave]]*
