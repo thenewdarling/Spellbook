@@ -33,7 +33,7 @@ Channel Divinity: [[Radiance of the Dawn]]
 Unlocked Class Abilities
 1st level - [[Warding Flare]], [[Bonus Cantrip#Light Cleric]]
 6th level - [[Improved Flare]]
-8th level - [[Potent Spellcasting]]
+8th level - [[Potent Spellcasting#Cleric Light Domain]]
 17th level - [[Corona of Light]]
 
 ## Death
@@ -118,16 +118,17 @@ Unlocked Class Abilities
 
 ## Grave
 Spell list: [[Cleric Grave Spells]]
-Channel Divinity: 
+Channel Divinity: [[Path to the Grave]]
 
-**
-(source: [[Player's Handbook]])
+*Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature’s death, though they refuse to use such magic to extend a creature’s lifespan beyond its mortal limits.*
+(source: [[Xanathar's Guide to Everything]])
 
 Unlocked Class Abilities
-1st level - 
-6th level - 
-8th level - 
-17th level - 
+1st level - [[Circle of Mortality]], [[Eyes of the Grave]]
+6th level - [[Sentinel at Death's Door]]
+8th level - [[Potent Spellcasting#Cleric Grave Domain]]
+17th level - [[Keeper of Souls]]
+
 
 ## Knowledge
 Spell list: [[Cleric Knowledge Spells]]
