@@ -1,6 +1,6 @@
 # Synaptic Static
 sources: [[Xanathar's Guide to Everything]] pg 167
-tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[5th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[5th level]], [[Enchantment Spells]]
 
 **5th-level enchantment**
 

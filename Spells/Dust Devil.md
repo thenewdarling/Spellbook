@@ -1,6 +1,6 @@
 # Dust Devil
 sources: [[Elemental Evil Player's Companion]] pg 17, [[Xanathar's Guide to Everything]] pg 154
-tags: druid, [[Sorceror]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: druid, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

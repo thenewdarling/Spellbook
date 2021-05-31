@@ -1,6 +1,6 @@
 # Skill Empowerment
 sources: [[Xanathar's Guide to Everything]] pg 165
-tags: artificer, [[Bard]], [[Sorceror]], [[Wizard]], [[5th level]], [[Transmutation Spells]]
+tags: artificer, [[Bard]], [[Sorcerer]], [[Wizard]], [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

@@ -1,6 +1,6 @@
 # Meteor Swarm
 sources: [[Player's Handbook]] pg 259, [[SRD]] pg 164
-tags: [[Sorceror]], [[Wizard]], [[9th level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[9th level]], [[Evocation Spells]]
 
 **9th-level evocation**
 

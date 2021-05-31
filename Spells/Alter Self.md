@@ -1,6 +1,6 @@
 # Alter Self
 sources: [[Player's Handbook]] pg 211, [[SRD]] pg 114
-tags: artificer, [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: artificer, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

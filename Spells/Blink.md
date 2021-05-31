@@ -1,6 +1,6 @@
 # Blink
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 122
-tags: artificer, [[Cleric Trickery Spells]], [[Sorceror]], warlock (fae), [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: artificer, [[Cleric Trickery Spells]], [[Sorcerer]], warlock (fae), [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

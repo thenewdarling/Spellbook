@@ -1,6 +1,6 @@
 # Power Word Kill
 sources: [[Player's Handbook]] pg 266, [[SRD]] pg 170
-tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[9th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[9th level]], [[Enchantment Spells]]
 
 **9th-level enchantment**
 

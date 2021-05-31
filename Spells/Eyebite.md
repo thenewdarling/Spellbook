@@ -1,6 +1,6 @@
 # Eyebite
 sources: [[Player's Handbook]] pg 238, [[SRD]] pg 141
-tags: [[Bard]], [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Necromancy Spells]]
+tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Necromancy Spells]]
 
 **6th-level necromancy**
 

@@ -1,6 +1,6 @@
 # Knock
 sources: [[Player's Handbook]] pg 254, [[SRD]] pg 158
-tags: [[Bard]], [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

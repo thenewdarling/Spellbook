@@ -1,6 +1,6 @@
 # Confusion
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 127
-tags: [[Bard]], [[Cleric Knowledge Spells]], druid, [[Paladin Oathbreaker Spells]], [[Sorceror]], [[Wizard]], [[4th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric Knowledge Spells]], druid, [[Paladin Oathbreaker Spells]], [[Sorcerer]], [[Wizard]], [[4th level]], [[Enchantment Spells]]
 
 **4th-level enchantment**
 

@@ -1,6 +1,6 @@
 # Silent Image
 sources: [[Player's Handbook]] pg 276, [[SRD]] pg 179
-tags: [[Bard]], [[Sorceror]], [[Wizard]], [[1st level]], [[Illusion Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Illusion Spells]]
 
 **1st-level illusion**
 

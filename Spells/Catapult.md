@@ -1,6 +1,6 @@
 # Catapult
 sources: [[Elemental Evil Player's Companion]] pg 15, [[Xanathar's Guide to Everything]] pg 150
-tags: artificer, [[Sorceror]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
+tags: artificer, [[Sorcerer]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

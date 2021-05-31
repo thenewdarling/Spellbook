@@ -1,6 +1,6 @@
 # Charm Monster
 sources: [[Xanathar's Guide to Everything]] pg 151
-tags: [[Bard]], druid, [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Enchantment Spells]]
+tags: [[Bard]], druid, [[Sorcerer]], warlock, [[Wizard]], [[4th level]], [[Enchantment Spells]]
 
 **4th-level enchantment**
 

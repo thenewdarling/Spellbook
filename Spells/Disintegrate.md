@@ -1,6 +1,6 @@
 # Disintegrate
 sources: [[Player's Handbook]] pg 233, [[SRD]] pg 135
-tags: [[Sorceror]], [[Wizard]], [[6th level]], [[Transmutation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

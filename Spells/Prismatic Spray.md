@@ -1,6 +1,6 @@
 # Prismatic Spray
 sources: [[Player's Handbook]] pg 267, [[SRD]] pg 170
-tags: [[Sorceror]], [[Wizard]], [[7th level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

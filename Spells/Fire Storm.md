@@ -1,6 +1,6 @@
 # Fire Storm
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 145
-tags: [[Cleric]], druid, [[Sorceror]], [[7th level]], [[Evocation Spells]]
+tags: [[Cleric]], druid, [[Sorcerer]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

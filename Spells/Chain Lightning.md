@@ -1,6 +1,6 @@
 # Chain Lightning
 sources: [[Player's Handbook]] pg 221, [[SRD]] pg 124
-tags: [[Sorceror]], [[Wizard]], [[6th level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[6th level]], [[Evocation Spells]]
 
 **6th-level evocation**
 

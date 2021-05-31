@@ -1,6 +1,6 @@
 # Fear
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 142
-tags: [[Bard]], [[Paladin Conquest Spells]], [[Sorceror]], warlock, [[Wizard]], [[3rd level]], [[Illusion Spells]]
+tags: [[Bard]], [[Paladin Conquest Spells]], [[Sorcerer]], warlock, [[Wizard]], [[3rd level]], [[Illusion Spells]]
 
 **3rd-level illusion**
 

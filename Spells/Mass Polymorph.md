@@ -1,6 +1,6 @@
 # Mass Polymorph
 sources: [[Xanathar's Guide to Everything]] pg 160
-tags: [[Bard]], [[Sorceror]], [[Wizard]], [[9th level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Wizard]], [[9th level]], [[Transmutation Spells]]
 
 **9th-level transmutation**
 

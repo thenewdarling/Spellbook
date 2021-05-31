@@ -1,6 +1,6 @@
 # Levitate
 sources: [[Player's Handbook]] pg 255, [[SRD]] pg 158
-tags: genasi (air), artificer, [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: genasi (air), artificer, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

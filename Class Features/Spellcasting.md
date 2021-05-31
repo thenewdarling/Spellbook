@@ -140,4 +140,40 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.
 
-tags: [[Paladin]], [[Wizard]], [[Cleric]], [[Bard]]
+## Sorcerer
+
+### Spellcasting
+
+An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
+
+##### Cantrips
+
+At 1st level, you know four cantrips of your choice from the [[Sorcerer]] spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+
+##### Spell Slots
+
+The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell [[Burning Hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Burning Hands]] using either slot.
+
+##### Spells Known of 1st Level and Higher
+
+You know two 1st-level spells of your choice from the [[Sorcerer]] spell list.
+
+The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+
+##### Spellcasting Ability
+
+Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+
+**Spell save DC** \= 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** \= your proficiency bonus + your Charisma modifier
+
+##### Spellcasting Focus
+
+You can use an arcane focus as a spellcasting focus for your sorcerer spells.
+
+tags: [[Paladin]], [[Wizard]], [[Cleric]], [[Bard]], [[Sorcerer]]

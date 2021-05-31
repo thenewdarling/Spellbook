@@ -1,6 +1,6 @@
 # Maximilian’s Earthen Grasp
 sources: [[Elemental Evil Player's Companion]] pg 20, [[Xanathar's Guide to Everything]] pg 161
-tags: [[Sorceror]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

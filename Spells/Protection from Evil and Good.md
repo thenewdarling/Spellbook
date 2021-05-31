@@ -1,6 +1,6 @@
 # Protection from Evil and Good
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: [[Cleric]], paladin, warlock, [[Wizard]], [[1st level]], [[Abjuration Spells]]
+tags: [[Cleric]], [[Sorcerer Clockwork Soul Spells]], paladin, warlock, [[Wizard]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

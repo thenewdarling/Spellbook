@@ -1,6 +1,6 @@
 # Blade of Disaster
 sources: [[Tasha's Cauldron of Everything]] pg 106
-tags: [[Sorceror]], warlock, [[Wizard]], [[9th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], warlock, [[Wizard]], [[9th level]], [[Conjuration Spells]]
 
 **9th-level conjuration**
 

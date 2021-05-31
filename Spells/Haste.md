@@ -1,6 +1,6 @@
 # Haste
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 153
-tags: artificer, druid (grassland), [[Paladin Vengeance Spells]], [[Sorceror]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: artificer, druid (grassland), [[Paladin Vengeance Spells]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

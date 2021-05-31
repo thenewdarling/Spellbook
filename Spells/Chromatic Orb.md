@@ -1,6 +1,6 @@
 # Chromatic Orb
 sources: [[Player's Handbook]] pg 221
-tags: [[Sorceror]], [[Wizard]], [[1st level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

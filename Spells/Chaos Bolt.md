@@ -1,6 +1,6 @@
 # Chaos Bolt
 sources: [[Xanathar's Guide to Everything]] pg 151
-tags: [[Sorceror]], [[1st level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

@@ -1,7 +1,7 @@
 # Levelling Table
 ![[Bard table.jpg]]
 
-Feature Links
+Links to Features
 1st	-- [[Spellcasting#Bard]], [[Bardic Inspiration]]
 2nd	-- [[Jack of All Trades]], [[Song of Rest]], [[Magical Inspiration]] (Optional)
 3rd --	[[Bard#Bard College]], [[Expertise#Bard]]

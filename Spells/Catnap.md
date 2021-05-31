@@ -1,6 +1,6 @@
 # Catnap
 sources: [[Xanathar's Guide to Everything]] pg 151
-tags: artificer, [[Bard]], [[Sorceror]], [[Wizard]], [[3rd level]], [[Enchantment Spells]]
+tags: artificer, [[Bard]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Enchantment Spells]]
 
 **3rd-level enchantment**
 

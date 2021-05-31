@@ -1,6 +1,6 @@
 # Investiture of Stone
 sources: [[Elemental Evil Player's Companion]] pg 19, [[Xanathar's Guide to Everything]] pg 159
-tags: druid, [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Transmutation Spells]]
+tags: druid, [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

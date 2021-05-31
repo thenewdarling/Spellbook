@@ -1,6 +1,6 @@
 # Dancing Lights
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: elf (drow), artificer, [[Bard]], [[Sorceror]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: elf (drow), artificer, [[Bard]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

@@ -1,6 +1,6 @@
 # Watery Sphere
 sources: [[Elemental Evil Player's Companion]] pg 23, [[Xanathar's Guide to Everything]] pg 170
-tags: druid, [[Sorceror]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
+tags: druid, [[Sorcerer]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

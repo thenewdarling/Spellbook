@@ -1,6 +1,6 @@
 # Summon Construct
 sources: [[Tasha's Cauldron of Everything]] pg 111
-tags: artificer, [[Wizard]], [[4th level]], [[Conjuration Spells]]
+tags: artificer, [[Sorcerer Clockwork Soul Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

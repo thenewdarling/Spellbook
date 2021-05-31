@@ -1,6 +1,6 @@
 # Acid Splash
 sources: [[Player's Handbook]] pg 211, [[SRD]] pg 114
-tags: artificer, [[Sorceror]], [[Wizard]], [[cantrip]], [[Conjuration Spells]]
+tags: artificer, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

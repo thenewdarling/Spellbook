@@ -1,6 +1,6 @@
 # Storm Sphere
 sources: [[Elemental Evil Player's Companion]] pg 22, [[Xanathar's Guide to Everything]] pg 166
-tags: [[Sorceror]], [[Wizard]], [[4th level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

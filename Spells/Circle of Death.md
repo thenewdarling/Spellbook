@@ -1,6 +1,6 @@
 # Circle of Death
 sources: [[Player's Handbook]] pg 221, [[SRD]] pg 124
-tags: [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Necromancy Spells]]
+tags: [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Necromancy Spells]]
 
 **6th-level necromancy**
 

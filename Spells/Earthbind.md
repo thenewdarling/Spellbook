@@ -1,6 +1,6 @@
 # Earthbind
 sources: [[Elemental Evil Player's Companion]] pg 17, [[Xanathar's Guide to Everything]] pg 154
-tags: druid, [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: druid, [[Sorcerer]], warlock, [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

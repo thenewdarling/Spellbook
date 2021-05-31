@@ -1,6 +1,6 @@
 # Invisibility
 sources: [[Player's Handbook]] pg 254, [[SRD]] pg 157
-tags: artificer, [[Bard]], druid (grassland), [[Sorceror]], warlock, [[Wizard]], [[2nd level]], [[Illusion Spells]]
+tags: artificer, [[Bard]], druid (grassland), [[Sorcerer]], warlock, [[Wizard]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

@@ -1,6 +1,6 @@
 # Incendiary Cloud
 sources: [[Player's Handbook]] pg 253, [[SRD]] pg 157
-tags: [[Sorceror]], [[Wizard]], [[8th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[8th level]], [[Conjuration Spells]]
 
 **8th-level conjuration**
 

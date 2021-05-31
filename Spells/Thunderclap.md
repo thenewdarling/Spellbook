@@ -1,6 +1,6 @@
 # Thunderclap
 sources: [[Elemental Evil Player's Companion]] pg 22, [[Xanathar's Guide to Everything]] pg 168
-tags: artificer, [[Bard]], druid, [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: artificer, [[Bard]], druid, [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

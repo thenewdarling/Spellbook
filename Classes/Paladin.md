@@ -2,7 +2,7 @@
 
 ![[Paladin table.png]]
 
-Feature Links
+Links to Features
 1st -- [[Divine Sense]], [[Lay on Hands]]
 2nd -- [[Fighting Style#Paladin]], [[Spellcasting#Paladin]], [[Divine Smite]]
 3rd -- [[Divine Health]], [[Paladin#Sacred Oath]]

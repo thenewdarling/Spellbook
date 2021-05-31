@@ -1,6 +1,6 @@
 # Color Spray
 sources: [[Player's Handbook]] pg 222, [[SRD]] pg 125
-tags: [[Sorceror]], [[Wizard]], [[1st level]], [[Illusion Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[1st level]], [[Illusion Spells]]
 
 **1st-level illusion**
 

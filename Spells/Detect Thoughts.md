@@ -1,6 +1,6 @@
 # Detect Thoughts
 sources: [[Player's Handbook]] pg 231, [[SRD]] pg 135
-tags: [[Bard]], [[Sorceror]], warlock (great old one), [[Wizard]], [[2nd level]], [[Divination Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Sorcerer Aberrant Mind Spells]], warlock (great old one), [[Wizard]], [[2nd level]], [[Divination Spells]]
 
 **2nd-level divination**
 

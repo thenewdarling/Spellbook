@@ -1,7 +1,7 @@
 # Levelling Table
 ![[Cleric table.jpg]]
 
-Feature Links
+Links to Features
 1st	 -- [[Spellcasting#Cleric]], [[Cleric#Divine Domain]]	
 2nd	 -- [[Channel Divinity#Cleric]]
 5th	 -- [[Destroy Undead]]

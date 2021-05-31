@@ -1,6 +1,6 @@
 # Investiture of Wind
 sources: [[Elemental Evil Player's Companion]] pg 20, [[Xanathar's Guide to Everything]] pg 160
-tags: druid, [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Transmutation Spells]]
+tags: druid, [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

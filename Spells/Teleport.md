@@ -1,6 +1,6 @@
 # Teleport
 sources: [[Player's Handbook]] pg 281, [[SRD]] pg 185
-tags: [[Bard]], [[Sorceror]], [[Wizard]], [[7th level]], [[Conjuration Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Wizard]], [[7th level]], [[Conjuration Spells]]
 
 **7th-level conjuration**
 

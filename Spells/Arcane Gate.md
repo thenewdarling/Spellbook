@@ -1,6 +1,6 @@
 # Arcane Gate
 sources: [[Player's Handbook]] pg 214
-tags: [[Sorceror]], warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

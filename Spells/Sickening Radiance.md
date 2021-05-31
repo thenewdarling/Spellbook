@@ -1,6 +1,6 @@
 # Sickening Radiance
 sources: [[Xanathar's Guide to Everything]] pg 164
-tags: [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Evocation Spells]]
+tags: [[Sorcerer]], warlock, [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

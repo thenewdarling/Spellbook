@@ -1,6 +1,6 @@
 # Time Stop
 sources: [[Player's Handbook]] pg 283, [[SRD]] pg 187
-tags: [[Sorceror]], [[Wizard]], [[9th level]], [[Transmutation Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[9th level]], [[Transmutation Spells]]
 
 **9th-level transmutation**
 

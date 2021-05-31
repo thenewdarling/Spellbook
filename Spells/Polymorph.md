@@ -1,6 +1,6 @@
 # Polymorph
 sources: [[Player's Handbook]] pg 266, [[SRD]] pg 169
-tags: [[Bard]], [[Cleric Trickery Spells]], druid, [[Sorceror]], [[Wizard]], [[4th level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Cleric Trickery Spells]], druid, [[Sorcerer]], [[Wizard]], [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

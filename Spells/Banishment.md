@@ -1,6 +1,6 @@
 # Banishment
 sources: [[Player's Handbook]] pg 217, [[SRD]] pg 120
-tags: [[Cleric]], paladin, [[Sorceror]], warlock, [[Wizard]], [[4th level]], [[Abjuration Spells]]
+tags: [[Cleric]], paladin, [[Sorcerer]], warlock, [[Wizard]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

@@ -1,6 +1,6 @@
 # Light
 sources: [[Player's Handbook]] pg 255, [[SRD]] pg 159
-tags: artificer, [[Bard]], [[Cleric]], [[Sorceror]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: artificer, [[Bard]], [[Cleric]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

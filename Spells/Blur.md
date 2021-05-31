@@ -1,6 +1,6 @@
 # Blur
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 123
-tags: artificer, druid (desert), [[Sorceror]], [[Wizard]], [[2nd level]], [[Illusion Spells]]
+tags: artificer, druid (desert), [[Sorcerer]], [[Wizard]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

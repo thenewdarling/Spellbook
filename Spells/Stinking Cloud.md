@@ -1,6 +1,6 @@
 # Stinking Cloud
 sources: [[Player's Handbook]] pg 278, [[SRD]] pg 182
-tags: [[Bard]], druid (swamp), druid (underdark), [[Sorceror]], warlock (fiend), [[Wizard]], [[3rd level]], [[Conjuration Spells]]
+tags: [[Bard]], druid (swamp), druid (underdark), [[Sorcerer]], warlock (fiend), [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

@@ -1,6 +1,6 @@
 # Frostbite
 sources: [[Elemental Evil Player's Companion]] pg 18, [[Xanathar's Guide to Everything]] pg 156
-tags: artificer, druid, [[Sorceror]], warlock, [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: artificer, druid, [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 
