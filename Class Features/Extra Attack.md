@@ -8,5 +8,12 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 *Note: This has been checked to be up to date with [[Tasha's Cauldron of Everything]] and the up-to-date [[Sword Coast Adventurer's Guide]] errata v2.1*
 
+## Bard Swords College
 
-tags: [[Wizard#Bladesinger]], [[Paladin]]
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+## Bard Valor College
+
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+tags: [[Wizard#Bladesinger]], [[Paladin]], [[Bard#Swords]], [[Bard#Valor]]
