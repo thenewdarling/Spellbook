@@ -1,6 +1,6 @@
 # Lesser Restoration
 sources: [[Player's Handbook]] pg 255, [[SRD]] pg 158
-tags: artificer, [[Bard]], [[Cleric]], druid, [[Paladin]], [[Sorcerer Clockwork Soul Spells]], ranger, [[2nd level]], [[Abjuration Spells]]
+tags: artificer, [[Bard]], [[Cleric]], druid, [[Paladin]], [[Sorcerer Clockwork Soul Spells]], [[Warlock Celestial Spells]], ranger, [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 

@@ -1,6 +1,6 @@
 # Daylight
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: [[Cleric]], druid, [[Paladin]], ranger, [[Sorcerer]], [[3rd level]], [[Evocation Spells]]
+tags: [[Cleric]], druid, [[Paladin]], ranger, [[Sorcerer]], [[Warlock Celestial Spells]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Guiding Bolt
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 151
-tags: [[Cleric]], [[1st level]], [[Evocation Spells]]
+tags: [[Cleric]], [[Warlock Celestial Spells]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

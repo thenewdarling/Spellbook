@@ -1,6 +1,6 @@
 # Guardian of Faith
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: [[Cleric]], [[Paladin Devotion Spells]], [[Paladin Crown Spells]], [[4th level]], [[Conjuration Spells]]
+tags: [[Cleric]], [[Paladin Devotion Spells]], [[Paladin Crown Spells]], [[Warlock Celestial Spells]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

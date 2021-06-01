@@ -15,71 +15,87 @@ Links to Features
 At 1st level, you have struck a bargain with an otherworldly being of your choice. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
 
 ## Archfey
-*(see [[Warlock Archfey Spells]])*
-1st level - 
-6th level - 
-10th level - 
-14th level -
+*Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.*
 *source: [[Player's Handbook]]*
 
+*(see [[Warlock Archfey Spells]])*
+1st level - [[Fey Presence]]
+6th level - [[Misty Escape]]
+10th level - [[Beguiling Defenses]]
+14th level - [[Dark Delirium]]
+
 ## Celestial
-1st level - 
-6th level - 
-10th level - 
-14th level -
+*Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.*
+
+*Being connected to such power can cause changes to your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.*
 *source: [[Xanathar's Guide to Everything]]*
 
+*(see [[Warlock Celestial Spells]])*
+1st level - [[Bonus Cantrip#Warlock Celestial]], [[Healing Light]]
+6th level - [[Radiant Soul]]
+10th level - [[Celestial Resistance]]
+14th level -[[Searing Vengeance]]
+
 ## Fathomless
+*source: [[Tasha's Cauldron of Everything]]*
+
 1st level - 
 6th level - 
 10th level - 
 14th level -
-*source: [[Tasha's Cauldron of Everything]]*
 
 ## Fiend
+*source: [[Player's Handbook]]*
+
 *(see [[Warlock Fiend Spells]])*
 1st level - 
 6th level - 
 10th level - 
 14th level -
-*source: [[Player's Handbook]]*
 
 ## The Genie
+*source: [[Tasha's Cauldron of Everything]]*
+
 1st level - 
 6th level - 
 10th level - 
 14th level -
-*source: [[Tasha's Cauldron of Everything]]*
 
 ## Great Old One
+*source: [[Player's Handbook]]*
+
 *(see [[Warlock Great Old One Spells]])*
 1st level - 
 6th level - 
 10th level - 
 14th level -
-*source: [[Player's Handbook]]*
 
 ## Hexblade
-1st level - 
-6th level - 
-10th level - 
-14th level -
 *source: [[Xanathar's Guide to Everything]]*
 
-## Undead
 1st level - 
 6th level - 
 10th level - 
 14th level -
+
+## Undead
 *source: [[Van Richten's Guide to Ravenloft]]*
 
+
+1st level - 
+6th level - 
+10th level - 
+14th level -
+
+
 ## Undying
+*source: [[Sword Coast Adventurer's Guide]]*
+
 *(see [[Warlock Undying Spells]])*
 1st level - 
 6th level - 
 10th level - 
 14th level -
-*source: [[Sword Coast Adventurer's Guide]]*
 
 # Pact Boon
 
