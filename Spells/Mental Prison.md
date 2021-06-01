@@ -1,6 +1,6 @@
 # Mental Prison
 sources: [[Xanathar's Guide to Everything]] pg 161
-tags: [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Illusion Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[6th level]], [[Illusion Spells]]
 
 **6th-level illusion**
 

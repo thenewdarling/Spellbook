@@ -1,6 +1,6 @@
 # Summon Fey
 sources: [[Tasha's Cauldron of Everything]] pg 112
-tags: druid, ranger , warlock, [[Wizard]], [[3rd level]], [[Conjuration Spells]]
+tags: druid, ranger , [[Warlock]], [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

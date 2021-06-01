@@ -1,6 +1,6 @@
 # Counterspell
 sources: [[Player's Handbook]] pg 228, [[SRD]] pg 131
-tags: [[Paladin Redemption Spells]], [[Sorcerer]], warlock, [[Wizard]], [[3rd level]], [[Abjuration Spells]]
+tags: [[Paladin Redemption Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Abjuration Spells]]
 
 **3rd-level abjuration**
 

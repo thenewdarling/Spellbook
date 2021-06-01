@@ -1,6 +1,6 @@
 # Ceremony
 sources: [[Xanathar's Guide to Everything]] pg 151
-tags: [[Cleric]], paladin, [[1st level]], [[Ritual Spells]], [[Abjuration Spells]]
+tags: [[Cleric]], [[Paladin]], [[1st level]], [[Ritual Spells]], [[Abjuration Spells]]
 
 **1st-level abjuration (ritual)**
 

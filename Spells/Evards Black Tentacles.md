@@ -1,6 +1,6 @@
 # Evard’s Black Tentacles
 sources: [[Player's Handbook]] pg 238
-tags: warlock (great old one), [[Sorcerer Aberrant Mind Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
+tags: [[Warlock Great Old One Spells]], [[Sorcerer Aberrant Mind Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

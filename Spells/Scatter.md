@@ -1,6 +1,6 @@
 # Scatter
 sources: [[Xanathar's Guide to Everything]] pg 164
-tags: [[Sorcerer]], warlock, [[Wizard]], [[6th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

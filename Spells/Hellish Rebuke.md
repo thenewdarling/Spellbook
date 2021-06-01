@@ -1,6 +1,6 @@
 # Hellish Rebuke
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 154
-tags: tiefling, [[Paladin Oathbreaker Spells]], warlock, [[1st level]], [[Evocation Spells]]
+tags: tiefling, [[Paladin Oathbreaker Spells]], [[Warlock]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

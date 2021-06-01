@@ -1,6 +1,6 @@
 # Dominate Monster
 sources: [[Player's Handbook]] pg 235, [[SRD]] pg 137
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[8th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[8th level]], [[Enchantment Spells]]
 
 **8th-level enchantment**
 

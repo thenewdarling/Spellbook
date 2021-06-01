@@ -1,6 +1,6 @@
 # Burning Hands
 sources: [[Player's Handbook]] pg 220, [[SRD]] pg 123
-tags: genasi (fire), [[Cleric Light Spells]], monk (four elements), [[Sorcerer]], warlock (fiend), [[Wizard]], [[1st level]], [[Evocation Spells]]
+tags: genasi (fire), [[Cleric Light Spells]], monk (four elements), [[Sorcerer]], [[Warlock Fiend Spells]], [[Wizard]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

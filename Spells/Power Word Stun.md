@@ -1,6 +1,6 @@
 # Power Word Stun
 sources: [[Player's Handbook]] pg 267, [[SRD]] pg 170
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[8th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[8th level]], [[Enchantment Spells]]
 
 **8th-level enchantment**
 

@@ -1,6 +1,6 @@
 # Feeblemind
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 142
-tags: [[Bard]], druid, warlock, [[Wizard]], [[8th level]], [[Enchantment Spells]]
+tags: [[Bard]], druid, [[Warlock]], [[Wizard]], [[8th level]], [[Enchantment Spells]]
 
 **8th-level enchantment**
 

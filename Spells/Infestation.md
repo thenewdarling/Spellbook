@@ -1,6 +1,6 @@
 # Infestation
 sources: [[Xanathar's Guide to Everything]] pg 158
-tags: druid, [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Conjuration Spells]]
+tags: druid, [[Sorcerer]], [[Warlock]], [[Wizard]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

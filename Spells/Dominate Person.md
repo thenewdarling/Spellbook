@@ -1,6 +1,6 @@
 # Dominate Person
 sources: [[Player's Handbook]] pg 235, [[SRD]] pg 138
-tags: [[Bard]], [[Cleric Trickery Spells]], [[Paladin Conquest Spells]],[[Paladin Oathbreaker Spells]], [[Sorcerer]], warlock (fae), warlock (great old one), [[Wizard]], [[5th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric Trickery Spells]], [[Paladin Conquest Spells]],[[Paladin Oathbreaker Spells]], [[Sorcerer]], [[Warlock Archfey Spells]], [[Warlock Great Old One Spells]], [[Wizard]], [[5th level]], [[Enchantment Spells]]
 
 **5th-level enchantment**
 

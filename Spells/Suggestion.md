@@ -1,6 +1,6 @@
 # Suggestion
 sources: [[Player's Handbook]] pg 279, [[SRD]] pg 183
-tags: [[Bard]], [[Cleric Knowledge Spells]], [[Sorcerer]], warlock, [[Wizard]], [[2nd level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric Knowledge Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

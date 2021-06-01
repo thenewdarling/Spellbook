@@ -1,6 +1,6 @@
 # Aura of Purity
 sources: [[Player's Handbook]] pg 216
-tags: artificer (battle smith), paladin, [[4th level]], [[Abjuration Spells]]
+tags: artificer (battle smith), [[Paladin]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

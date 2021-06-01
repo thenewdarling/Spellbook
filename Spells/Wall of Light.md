@@ -1,6 +1,6 @@
 # Wall of Light
 sources: [[Xanathar's Guide to Everything]] pg 170
-tags: [[Sorcerer]], warlock, [[Wizard]], [[5th level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

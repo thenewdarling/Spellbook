@@ -1,6 +1,6 @@
 # Booming Blade
 sources: [[Sword Coast Adventurer's Guide]] pg 142, [[Tasha's Cauldron of Everything]] pg 106
-tags: [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

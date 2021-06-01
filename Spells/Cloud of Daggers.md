@@ -1,6 +1,6 @@
 # Cloud of Daggers
 sources: [[Player's Handbook]] pg 222
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

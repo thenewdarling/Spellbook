@@ -1,6 +1,6 @@
 # True Polymorph
 sources: [[Player's Handbook]] pg 283, [[SRD]] pg 188
-tags: [[Bard]], warlock, [[Wizard]], [[9th level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Warlock]], [[Wizard]], [[9th level]], [[Transmutation Spells]]
 
 **9th-level transmutation**
 

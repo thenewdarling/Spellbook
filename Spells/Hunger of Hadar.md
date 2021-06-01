@@ -1,6 +1,6 @@
 # Hunger of Hadar
 sources: [[Player's Handbook]] pg 251
-tags: warlock, [[Sorcerer Aberrant Mind Spells]], [[3rd level]], [[Conjuration Spells]]
+tags: [[Warlock]], [[Sorcerer Aberrant Mind Spells]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

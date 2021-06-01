@@ -1,6 +1,6 @@
 # Far Step
 sources: [[Xanathar's Guide to Everything]] pg 155
-tags: [[Sorcerer]], warlock, [[Wizard]], [[5th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

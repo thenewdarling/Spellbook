@@ -1,6 +1,6 @@
 # Dominate Beast
 sources: [[Player's Handbook]] pg 234, [[SRD]] pg 137
-tags: [[Cleric Nature Spells]], druid, [[Paladin Conquest Spells]], warlock (fae), warlock (great old one), [[Sorcerer]], [[4th level]], [[Enchantment Spells]]
+tags: [[Cleric Nature Spells]], druid, [[Paladin Conquest Spells]], [[Warlock Archfey Spells]], [[Warlock Great Old One Spells]], [[Sorcerer]], [[4th level]], [[Enchantment Spells]]
 
 **4th-level enchantment**
 

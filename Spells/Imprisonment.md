@@ -1,6 +1,6 @@
 # Imprisonment
 sources: [[Player's Handbook]] pg 252, [[SRD]] pg 156
-tags: warlock, [[Wizard]], [[9th level]], [[Abjuration Spells]]
+tags: [[Warlock]], [[Wizard]], [[9th level]], [[Abjuration Spells]]
 
 **9th-level abjuration**
 

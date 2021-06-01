@@ -1,6 +1,6 @@
 # Witch Bolt
 sources: [[Player's Handbook]] pg 289
-tags: [[Sorcerer]], warlock, [[Wizard]], [[1st level]], [[Evocation Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

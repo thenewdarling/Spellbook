@@ -1,6 +1,6 @@
 # Finger of Death
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: [[Sorcerer]], warlock, [[Wizard]], [[7th level]], [[Necromancy Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[7th level]], [[Necromancy Spells]]
 
 **7th-level necromancy**
 

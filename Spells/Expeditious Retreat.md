@@ -1,6 +1,6 @@
 # Expeditious Retreat
 sources: [[Player's Handbook]] pg 238, [[SRD]] pg 141
-tags: artificer, [[Sorcerer]], warlock, [[Wizard]], [[1st level]], [[Transmutation Spells]]
+tags: artificer, [[Sorcerer]], [[Warlock]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

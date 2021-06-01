@@ -1,6 +1,6 @@
 # Mind Spike
 sources: [[Xanathar's Guide to Everything]] pg 162
-tags: [[Sorcerer]], warlock, [[Wizard]], [[2nd level]], [[Divination Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Divination Spells]]
 
 **2nd-level divination**
 

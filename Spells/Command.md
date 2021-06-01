@@ -1,6 +1,6 @@
 # Command
 sources: [[Player's Handbook]] pg 223, [[SRD]] pg 125
-tags: [[Cleric]], paladin, warlock (fiend), [[1st level]], [[Enchantment Spells]]
+tags: [[Cleric]], [[Paladin]], [[Warlock Fiend Spells]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

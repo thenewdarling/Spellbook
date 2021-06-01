@@ -1,6 +1,6 @@
 # Summon Shadowspawn
 sources: [[Tasha's Cauldron of Everything]] pg 113
-tags: warlock, [[Wizard]], [[3rd level]], [[Conjuration Spells]]
+tags: [[Warlock]], [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

@@ -1,6 +1,6 @@
 # Telekinesis
 sources: [[Player's Handbook]] pg 280, [[SRD]] pg 185
-tags: [[Sorcerer]], [[Sorcerer Aberrant Mind Spells]], warlock (great old one), [[Wizard]], [[5th level]], [[Transmutation Spells]]
+tags: [[Sorcerer]], [[Sorcerer Aberrant Mind Spells]], [[Warlock Great Old One Spells]], [[Wizard]], [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

@@ -1,6 +1,6 @@
 # Enemies Abound
 sources: [[Xanathar's Guide to Everything]] pg 155
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[3rd level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Enchantment Spells]]
 
 **3rd-level enchantment**
 

@@ -1,6 +1,6 @@
 # Crusader’s Mantle
 sources: [[Player's Handbook]] pg 230
-tags: [[Cleric War Spells]], paladin, [[3rd level]], [[Evocation Spells]]
+tags: [[Cleric War Spells]], [[Paladin]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Foresight
 sources: [[Player's Handbook]] pg 244, [[SRD]] pg 147
-tags: [[Bard]], druid, warlock, [[Wizard]], [[9th level]], [[Divination Spells]]
+tags: [[Bard]], druid, [[Warlock]], [[Wizard]], [[9th level]], [[Divination Spells]]
 
 **9th-level divination**
 

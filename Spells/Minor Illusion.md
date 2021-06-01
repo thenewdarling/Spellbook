@@ -1,6 +1,6 @@
 # Minor Illusion
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 164
-tags: gnome (forest), [[Bard]], monk (shadow), [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Illusion Spells]]
+tags: gnome (forest), [[Bard]], monk (shadow), [[Sorcerer]], [[Warlock]], [[Wizard]], [[cantrip]], [[Illusion Spells]]
 
 **Illusion cantrip**
 

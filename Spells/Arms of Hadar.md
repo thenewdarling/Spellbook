@@ -1,6 +1,6 @@
 # Arms of Hadar
 sources: [[Player's Handbook]] pg 215
-tags: warlock, [[Sorcerer Aberrant Mind Spells]], [[1st level]], [[Conjuration Spells]]
+tags: [[Warlock]], [[Sorcerer Aberrant Mind Spells]], [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

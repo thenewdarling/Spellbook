@@ -1,6 +1,6 @@
 # Locate Object
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 159
-tags: [[Bard]], [[Cleric]], druid, paladin, ranger, [[Wizard]], [[2nd level]], [[Divination Spells]]
+tags: [[Bard]], [[Cleric]], druid, [[Paladin]], ranger, [[Wizard]], [[2nd level]], [[Divination Spells]]
 
 **2nd-level divination**
 

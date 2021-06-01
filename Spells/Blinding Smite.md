@@ -1,6 +1,6 @@
 # Blinding Smite
 sources: [[Player's Handbook]] pg 219
-tags: paladin, [[3rd level]], [[Evocation Spells]]
+tags: [[Paladin]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

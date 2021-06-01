@@ -1,6 +1,6 @@
 # Negative Energy Flood
 sources: [[Xanathar's Guide to Everything]] pg 163
-tags: warlock, [[Wizard]], [[5th level]], [[Necromancy Spells]]
+tags: [[Warlock]], [[Wizard]], [[5th level]], [[Necromancy Spells]]
 
 **5th-level necromancy**
 

@@ -1,6 +1,6 @@
 # Seeming
 sources: [[Player's Handbook]] pg 274, [[SRD]] pg 177
-tags: [[Bard]], [[Sorcerer]], warlock (fae), [[Wizard]], [[5th level]], [[Illusion Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock Archfey Spells]], [[Wizard]], [[5th level]], [[Illusion Spells]]
 
 **5th-level illusion**
 

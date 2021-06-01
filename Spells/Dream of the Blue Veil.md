@@ -1,6 +1,6 @@
 # Dream of the Blue Veil
 sources: [[Tasha's Cauldron of Everything]] pg 106
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[7th level]], [[Conjuration Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[7th level]], [[Conjuration Spells]]
 
 **7th-level conjuration**
 

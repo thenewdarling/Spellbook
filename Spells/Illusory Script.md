@@ -1,6 +1,6 @@
 # Illusory Script
 sources: [[Player's Handbook]] pg 252, [[SRD]] pg 156
-tags: [[Bard]], warlock, [[Wizard]], [[1st level]], [[Ritual Spells]], [[Illusion Spells]]
+tags: [[Bard]], [[Warlock]], [[Wizard]], [[1st level]], [[Ritual Spells]], [[Illusion Spells]]
 
 **1st-level illusion (ritual)**
 

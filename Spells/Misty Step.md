@@ -1,6 +1,6 @@
 # Misty Step
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 165
-tags: druid (coast), [[Paladin Ancients Spells]], [[Paladin Vengeance Spells]], [[Sorcerer]], warlock, [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: druid (coast), [[Paladin Ancients Spells]], [[Paladin Vengeance Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

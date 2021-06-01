@@ -1,6 +1,6 @@
 # Intellect Fortress
 sources: [[Tasha's Cauldron of Everything]] pg 107
-tags: artificer, [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[3rd level]], [[Abjuration Spells]]
+tags: artificer, [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Abjuration Spells]]
 
 **3rd-level abjuration**
 

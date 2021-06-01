@@ -1,6 +1,6 @@
 # Summon Celestial
 sources: [[Tasha's Cauldron of Everything]] pg 110
-tags: [[Cleric]], paladin, [[5th level]], [[Conjuration Spells]]
+tags: [[Cleric]], [[Paladin]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

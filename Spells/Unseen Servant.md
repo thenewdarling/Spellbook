@@ -1,6 +1,6 @@
 # Unseen Servant
 sources: [[Player's Handbook]] pg 284, [[SRD]] pg 189
-tags: [[Bard]], warlock, [[Wizard]], [[1st level]], [[Ritual Spells]], [[Conjuration Spells]]
+tags: [[Bard]], [[Warlock]], [[Wizard]], [[1st level]], [[Ritual Spells]], [[Conjuration Spells]]
 
 **1st-level conjuration (ritual)**
 

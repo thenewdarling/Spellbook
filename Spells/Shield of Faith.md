@@ -1,6 +1,6 @@
 # Shield of Faith
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 179
-tags: [[Cleric]], paladin, [[1st level]], [[Abjuration Spells]]
+tags: [[Cleric]], [[Paladin]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

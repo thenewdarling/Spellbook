@@ -1,6 +1,6 @@
 # Holy Weapon
 sources: [[Xanathar's Guide to Everything]] pg 157
-tags: [[Cleric]], paladin, [[5th level]], [[Evocation Spells]]
+tags: [[Cleric]], [[Paladin]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

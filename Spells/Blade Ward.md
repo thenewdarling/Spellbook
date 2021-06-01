@@ -1,6 +1,6 @@
 # Blade Ward
 sources: [[Player's Handbook]] pg 218
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Abjuration Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[cantrip]], [[Abjuration Spells]]
 
 **Abjuration cantrip**
 

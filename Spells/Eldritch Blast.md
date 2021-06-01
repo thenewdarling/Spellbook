@@ -1,6 +1,6 @@
 # Eldritch Blast
 sources: [[Player's Handbook]] pg 237, [[SRD]] pg 139
-tags: warlock, [[cantrip]], [[Evocation Spells]]
+tags: [[Warlock]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

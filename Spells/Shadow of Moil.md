@@ -1,6 +1,6 @@
 # Shadow of Moil
 sources: [[Xanathar's Guide to Everything]] pg 164
-tags: warlock, [[4th level]], [[Necromancy Spells]]
+tags: [[Warlock]], [[4th level]], [[Necromancy Spells]]
 
 **4th-level necromancy**
 

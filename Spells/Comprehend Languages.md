@@ -1,6 +1,6 @@
 # Comprehend Languages
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 126
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[1st level]], [[Ritual Spells]], [[Divination Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[1st level]], [[Ritual Spells]], [[Divination Spells]]
 
 **1st-level divination (ritual)**
 

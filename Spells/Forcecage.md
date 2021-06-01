@@ -1,6 +1,6 @@
 # Forcecage
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 147
-tags: [[Bard]], warlock, [[Wizard]], [[7th level]], [[Evocation Spells]]
+tags: [[Bard]], [[Warlock]], [[Wizard]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

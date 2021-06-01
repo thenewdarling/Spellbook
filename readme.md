@@ -5,6 +5,7 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 
 # To-do
 - Update "Classes" with all features and subclasses, and add a page for all classes, and image of level-up table.
+	- Warlock list of invocations should be inside [[Eldritch Invocations]]
 - Add racial traits.
 - To confirm updated to most recent errata.
 - Update remaining class tags (and any others I am missing)

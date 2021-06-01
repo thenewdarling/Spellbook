@@ -1,6 +1,6 @@
 # Major Image
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 162
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[3rd level]], [[Illusion Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Illusion Spells]]
 
 **3rd-level illusion**
 

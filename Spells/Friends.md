@@ -1,6 +1,6 @@
 # Friends
 sources: [[Player's Handbook]] pg 244
-tags: [[Bard]], [[Sorcerer]], warlock, [[Wizard]], [[cantrip]], [[Enchantment Spells]]
+tags: [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[cantrip]], [[Enchantment Spells]]
 
 **Enchantment cantrip**
 

@@ -1,6 +1,6 @@
 # Tasha’s Hideous Laughter
 sources: [[Player's Handbook]] pg 280
-tags: [[Bard]], warlock (great old one), [[Wizard]], [[1st level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Warlock Great Old One Spells]], [[Wizard]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

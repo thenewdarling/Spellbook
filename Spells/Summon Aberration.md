@@ -1,6 +1,6 @@
 # Summon Aberration
 sources: [[Tasha's Cauldron of Everything]] pg 109
-tags: warlock, [[Sorcerer Aberrant Mind Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
+tags: [[Warlock]], [[Sorcerer Aberrant Mind Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Power Word Pain
 sources: [[Xanathar's Guide to Everything]] pg 163
-tags: [[Sorcerer]], warlock, [[Wizard]], [[7th level]], [[Enchantment Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[7th level]], [[Enchantment Spells]]
 
 **7th-level enchantment**
 

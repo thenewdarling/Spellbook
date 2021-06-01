@@ -1,6 +1,6 @@
 # Tongues
 sources: [[Player's Handbook]] pg 283, [[SRD]] pg 187
-tags: [[Bard]], [[Cleric]], [[Sorcerer]], warlock, [[Wizard]], [[3rd level]], [[Divination Spells]]
+tags: [[Bard]], [[Cleric]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Divination Spells]]
 
 **3rd-level divination**
 

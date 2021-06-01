@@ -1,6 +1,6 @@
 # Summon Greater Demon
 sources: [[Xanathar's Guide to Everything]] pg 166
-tags: warlock, [[Wizard]], [[4th level]], [[Conjuration Spells]]
+tags: [[Warlock]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

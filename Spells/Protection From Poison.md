@@ -1,6 +1,6 @@
 # Protection from Poison
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: artificer, [[Cleric]], ranger, paladin, druid, [[2nd level]], [[Abjuration Spells]]
+tags: artificer, [[Cleric]], ranger, [[Paladin]], druid, [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 
