@@ -12,4 +12,4 @@ tags: [[Cleric]], [[Paladin]], [[Warlock]], [[Wizard]], [[3rd level]], [[Abjurat
 
 *Duration*: Instantaneous
 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magical item, its curse remains, but the spell breaks its owner’s attunement to the object so it can be removed or discarded.
+At your touch, all curses affecting one creature or object end. If the object is a cursed magical item, its curse remains, but the spell breaks its owner’s [[Attunement]] to the object so it can be removed or discarded.

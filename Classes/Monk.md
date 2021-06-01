@@ -9,7 +9,7 @@ Links to Features
 4th - [[Slow Fall]], [[Quickened Healing]] (Optional)
 5th - [[Extra Attack#Monk]], [[Stunning Strike]], [[Focused Aim]] (Optional)
 6th - [[Ki-Empowered Strikes]]
-7th - [[Evasion]], [[Stillness of Mind]]
+7th - [[Evasion#Monk]], [[Stillness of Mind]]
 10th - [[Purity of Body]]
 13th - [[Tongue of the Sun and Moon]]
 14th - [[Diamond Soul]]
