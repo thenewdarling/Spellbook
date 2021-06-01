@@ -35,4 +35,8 @@ When you join the College of Valor at 3rd level, you gain proficiency with mediu
 
 When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don't already have it. Your [[Martial Arts]] technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with brewer's supplies if you don't already have it.
 
-tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]]
+## Rogue Assassin
+
+When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
+
+tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]]

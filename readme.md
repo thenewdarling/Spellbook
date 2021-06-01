@@ -10,7 +10,6 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 	- Druid
 	- Fighter
 	- Ranger
-	- Rogue
 - Add racial traits.
 - To confirm updated to most recent errata.
 - Update remaining class tags (and any others I am missing)
@@ -19,9 +18,10 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 The contents have been checked to be up to date with:
 
 - Sword Coast Adventurer's Guide, v2.1 (2020)
+- Tasha's Cauldron of Everything (2020)
 
 # Credits
 
 Spellbook contains open-source components:
 - Main bulk of spell list was taken from the contents of https://github.com/thebombzen/grimoire/. 
-	- Any changes so far have been to confirm errata, update tags for this system, and introduce cross-linking between spells wherever I have found. However any future changes to that system will likely not be reflected here.
+	- Any changes so far have been to confirm errata, introduce cross-linking between spells wherever I have found, change format of tags, and add missing tags where appropriate.

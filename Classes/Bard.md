@@ -98,6 +98,6 @@ Unlocked Class Abilities
 *source: [[Xanathar's Guide to Everything]]*
 
 Unlocked Class Abilities
-3rd level - [[Psychic Blades]], [[Words of Terror]]
+3rd level - [[Psychic Blades#Bard Whisper College]], [[Words of Terror]]
 6th level - [[Mantle of Whispers]]
 14th level - [[Shadow Lore]]
