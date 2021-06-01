@@ -4,7 +4,14 @@ This is designed as a searchable database of DnD 5e knowledge. Using Obsidian's 
 If you are syncing with GitHub, note the database has been told to ignore the contents of the folder "Z", so store any of your personal notes such as character sheets and session notes in that folder. A basic character sheet template has also been supplied alongside this readme.
 
 # To-do
-- Update "Classes" with all features and subclasses, and add a page for all classes, and image of level-up table.
+- Classes
+	- Artificer
+	- Barbarian
+	- Druid
+	- Fighter
+	- Monk
+	- Ranger
+	- Rogue
 	- Warlock list of invocations should be inside [[Eldritch Invocations]]
 - Add racial traits.
 - To confirm updated to most recent errata.

@@ -1,6 +1,6 @@
 # Cone of Cold
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 127
-tags: artificer (artillerist), druid (arctic), monk (four elements), [[Sorcerer]], [[Wizard]], [[5th level]], [[Evocation Spells]]
+tags: artificer (artillerist), druid (arctic), [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

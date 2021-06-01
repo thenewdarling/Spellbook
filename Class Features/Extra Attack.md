@@ -2,6 +2,10 @@
 
 Beginning at 5th Level, you can Attack twice, instead of once, whenever you take the Attack action on Your Turn.
 
+## Monk
+
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
 ## Wizard Bladesinger
 
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.
@@ -16,4 +20,4 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-tags: [[Wizard#Bladesinger]], [[Paladin]], [[Bard#Swords]], [[Bard#Valor]]
+tags: [[Wizard#Bladesinger]], [[Paladin]], [[Bard#Swords]], [[Bard#Valor]], [[Monk]]

@@ -31,4 +31,8 @@ If you’re proficient with a simple or martial melee weapon, you can use it as 
 
 When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.
 
-tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]]
+## Monk Drunken Master
+
+When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don't already have it. Your [[Martial Arts]] technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with brewer's supplies if you don't already have it.
+
+tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]]
