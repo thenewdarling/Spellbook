@@ -6,11 +6,11 @@ At 2nd level, you've gained the ability to imbue mundane items with certain magi
 
 When you gain this feature, pick four [[Artificer Infusions]] to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
 
-Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
+Whenever you gain a level in this class, you can replace one of the [[Artificer Infusions]] you learned with a new one.
 
 ##### Infusing an Item
 
-Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for [[Attunement]].
+Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your [[Artificer Infusions]], turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for [[Attunement]].
 
 Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.
 
