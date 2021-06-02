@@ -1,6 +1,6 @@
 # Feather Fall
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 142
-tags: artificer, [[Bard]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

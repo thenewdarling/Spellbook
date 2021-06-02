@@ -1,6 +1,6 @@
 # Wind Wall
 sources: [[Player's Handbook]] pg 288, [[SRD]] pg 192
-tags: artificer (artillerist), [[Cleric Nature Spells]], druid, ranger, [[3rd level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Cleric Nature Spells]], druid, ranger, [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

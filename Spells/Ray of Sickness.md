@@ -1,6 +1,6 @@
 # Ray of Sickness
 sources: [[Player's Handbook]] pg 271
-tags: artificer (alchemist), [[Cleric Death Spells]], [[Sorcerer]], [[Warlock Undying Spells]], [[Wizard]], [[1st level]], [[Necromancy Spells]]
+tags: [[Artificer Alchemist Spells]], [[Cleric Death Spells]], [[Sorcerer]], [[Warlock Undying Spells]], [[Wizard]], [[1st level]], [[Necromancy Spells]]
 
 **1st-level necromancy**
 

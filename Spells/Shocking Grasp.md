@@ -1,6 +1,6 @@
 # Shocking Grasp
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 179
-tags: artificer, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: [[Artificer]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

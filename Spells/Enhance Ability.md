@@ -1,6 +1,6 @@
 # Enhance Ability
 sources: [[Player's Handbook]] pg 237, [[SRD]] pg 139
-tags: artificer, [[Bard]], [[Cleric]], druid, [[Sorcerer]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric]], druid, [[Sorcerer]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

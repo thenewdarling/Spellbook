@@ -1,6 +1,6 @@
 # Fly
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 146
-tags: [[Elemental Discipline]], artificer, [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Elemental Discipline]], [[Artificer]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

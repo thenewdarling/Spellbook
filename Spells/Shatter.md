@@ -1,6 +1,6 @@
 # Shatter
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 178
-tags: artificer (artillerist), [[Bard]], [[Cleric Tempest Spells]], [[Elemental Discipline]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Bard]], [[Cleric Tempest Spells]], [[Elemental Discipline]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[Artificer Armorer Spells]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

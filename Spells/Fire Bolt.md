@@ -1,6 +1,6 @@
 # Fire Bolt
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: artificer, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: [[Artificer]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

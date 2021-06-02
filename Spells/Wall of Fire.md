@@ -1,6 +1,6 @@
 # Wall of Fire
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 190
-tags: artificer (artillerist), [[Cleric Forge Spells]], [[Cleric Light Spells]], druid, [[Elemental Discipline]], [[Sorcerer]], [[Warlock Fiend Spells]], [[Warlock Celestial Spells]], [[Wizard]], [[4th level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Cleric Forge Spells]], [[Cleric Light Spells]], druid, [[Elemental Discipline]], [[Sorcerer]], [[Warlock Fiend Spells]], [[Warlock Celestial Spells]], [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

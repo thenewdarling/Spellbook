@@ -1,6 +1,6 @@
 # Transmute Rock
 sources: [[Elemental Evil Player's Companion]] pg 22, [[Xanathar's Guide to Everything]] pg 169
-tags: artificer, druid, [[Wizard]], [[5th level]], [[Transmutation Spells]]
+tags: [[Artificer]], druid, [[Wizard]], [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

@@ -1,6 +1,6 @@
 # Web
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 192
-tags: artificer, druid (underdark), [[Sorcerer]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: [[Artificer]], druid (underdark), [[Sorcerer]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

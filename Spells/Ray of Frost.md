@@ -1,6 +1,6 @@
 # Ray of Frost
 sources: [[Player's Handbook]] pg 271, [[SRD]] pg 174
-tags: artificer, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
+tags: [[Artificer]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Evocation Spells]]
 
 **Evocation cantrip**
 

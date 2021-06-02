@@ -1,6 +1,6 @@
 # Leomund’s Secret Chest
 sources: [[Player's Handbook]] pg 254
-tags: artificer, [[Cleric Arcana Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
+tags: [[Artificer]], [[Cleric Arcana Spells]], [[Wizard]], [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Mending
 sources: [[Player's Handbook]] pg 259, [[SRD]] pg 164
-tags: artificer, [[Bard]], [[Cleric]], druid, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric]], druid, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

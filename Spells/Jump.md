@@ -1,6 +1,6 @@
 # Jump
 sources: [[Player's Handbook]] pg 254, [[SRD]] pg 158
-tags: artificer, druid, ranger, [[Sorcerer]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
+tags: [[Artificer]], druid, ranger, [[Sorcerer]], [[Wizard]], [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

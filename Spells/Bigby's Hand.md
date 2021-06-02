@@ -1,6 +1,6 @@
 # Bigby’s Hand
 sources: [[Player's Handbook]] pg 218
-tags: artificer, [[Wizard]], [[5th level]], [[Evocation Spells]]
+tags: [[Artificer]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

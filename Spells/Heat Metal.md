@@ -1,6 +1,6 @@
 # Heat Metal
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 153
-tags: artificer, [[Bard]], [[Cleric Forge Spells]], druid, [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric Forge Spells]], druid, [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

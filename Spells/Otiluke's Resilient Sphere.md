@@ -1,6 +1,6 @@
 # Otiluke’s Resilient Sphere
 sources: [[Player's Handbook]] pg 264
-tags: artificer, [[Paladin Redemption Spells]], [[Wizard]], [[4th level]], [[Evocation Spells]]
+tags: [[Artificer]], [[Paladin Redemption Spells]], [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

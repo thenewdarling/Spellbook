@@ -1,6 +1,6 @@
 # Lightning Bolt
 sources: [[Player's Handbook]] pg 255, [[SRD]] pg 159
-tags: druid (mountain), [[Sorcerer]], [[Wizard]], [[3rd level]], [[Evocation Spells]]
+tags: druid (mountain), [[Sorcerer]], [[Wizard]], [[Artificer Armorer Spells]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

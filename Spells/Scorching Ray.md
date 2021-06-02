@@ -1,6 +1,6 @@
 # Scorching Ray
 sources: [[Player's Handbook]] pg 273, [[SRD]] pg 176
-tags: artificer (artillerist), [[Cleric Light Spells]], [[Sorcerer]], [[Warlock Fiend Spells]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Cleric Light Spells]], [[Sorcerer]], [[Warlock Fiend Spells]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

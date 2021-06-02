@@ -1,6 +1,6 @@
 # Wall of Force
 sources: [[Player's Handbook]] pg 285, [[SRD]] pg 190
-tags: artificer (artillerist), [[Paladin Redemption Spells]], [[Sorcerer Clockwork Soul Spells]], [[Wizard]], [[5th level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Paladin Redemption Spells]], [[Sorcerer Clockwork Soul Spells]], [[Artificer Armorer Spells]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

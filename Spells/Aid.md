@@ -1,6 +1,6 @@
 # Aid
 sources: [[Player's Handbook]] pg 211, [[SRD]] pg 114
-tags: artificer, [[Cleric]], [[Sorcerer Clockwork Soul Spells]], [[Paladin]], [[2nd level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Cleric]], [[Sorcerer Clockwork Soul Spells]], [[Paladin]], [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 

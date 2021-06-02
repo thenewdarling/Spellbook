@@ -1,6 +1,6 @@
 # Pyrotechnics
 sources: [[Elemental Evil Player's Companion]] pg 21, [[Xanathar's Guide to Everything]] pg 163
-tags: artificer, [[Bard]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

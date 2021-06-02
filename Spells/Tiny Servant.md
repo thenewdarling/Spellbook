@@ -1,6 +1,6 @@
 # Tiny Servant
 sources: [[Xanathar's Guide to Everything]] pg 168
-tags: artificer, [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

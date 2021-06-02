@@ -1,6 +1,6 @@
 # Greater Invisibility
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: [[Bard]], druid (underdark), [[Sorcerer]], [[Warlock Archfey Spells]], [[Wizard]], [[4th level]], [[Illusion Spells]]
+tags: [[Bard]], druid (underdark), [[Sorcerer]], [[Warlock Archfey Spells]], [[Artificer Armorer Spells]], [[Wizard]], [[4th level]], [[Illusion Spells]]
 
 **4th-level illusion**
 

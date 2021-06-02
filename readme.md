@@ -5,7 +5,6 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 
 # To-do
 - Classes
-	- Artificer
 	- Barbarian
 	- Druid
 	- Fighter

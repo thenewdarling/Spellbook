@@ -1,6 +1,6 @@
 # Gaseous Form
 sources: [[Player's Handbook]] pg 244, [[SRD]] pg 148
-tags: artificer (alchemist), druid (underdark), [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Warlock]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Artificer Alchemist Spells]], druid (underdark), [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Warlock]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

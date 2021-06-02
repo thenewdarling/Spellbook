@@ -1,6 +1,6 @@
 # Rope Trick
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 176
-tags: artificer, [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

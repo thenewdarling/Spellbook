@@ -1,6 +1,6 @@
 # Arcane Lock
 sources: [[Player's Handbook]] pg 215, [[SRD]] pg 118
-tags: artificer, [[Wizard]], [[2nd level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Wizard]], [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 

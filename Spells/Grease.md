@@ -1,6 +1,6 @@
 # Grease
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: artificer, [[Wizard]], [[1st level]], [[Conjuration Spells]]
+tags: [[Artificer]], [[Wizard]], [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

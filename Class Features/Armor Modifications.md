@@ -1,0 +1,3 @@
+At 9th level, you learn how to use your artificer infusions to specially modify your [[Arcane Armor]]. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor.
+
+tags: [[Artificer#Armorer]]

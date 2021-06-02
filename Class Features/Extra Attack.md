@@ -20,4 +20,12 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 
 Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-tags: [[Wizard#Bladesinger]], [[Paladin]], [[Bard#Swords]], [[Bard#Valor]], [[Monk]]
+## Artificer Armorer
+
+Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+## Artificer Battle Smith
+
+Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+tags: [[Wizard#Bladesinger]], [[Paladin]], [[Bard#Swords]], [[Bard#Valor]], [[Monk]], [[Artificer#Armorer]], [[Artificer#Battle Smith]]
