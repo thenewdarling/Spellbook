@@ -1,6 +1,6 @@
 # Darkvision
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: [[Artificer]], druid, [[Shadow Arts]], ranger, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid]], [[Shadow Arts]], ranger, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

@@ -1,6 +1,6 @@
 # Gust
 sources: [[Elemental Evil Player's Companion]] pg 19, [[Xanathar's Guide to Everything]] pg 157
-tags: druid, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

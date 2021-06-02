@@ -1,6 +1,6 @@
 # Shapechange
 sources: [[Player's Handbook]] pg 274, [[SRD]] pg 178
-tags: druid, [[Wizard]], [[9th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[Wizard]], [[9th level]], [[Transmutation Spells]]
 
 **9th-level transmutation**
 

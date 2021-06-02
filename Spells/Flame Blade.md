@@ -1,6 +1,6 @@
 # Flame Blade
 sources: [[Player's Handbook]] pg 242, [[SRD]] pg 145
-tags: druid, [[2nd level]], [[Evocation Spells]]
+tags: [[Druid]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

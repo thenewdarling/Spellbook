@@ -1,6 +1,6 @@
 # Tsunami
 sources: [[Player's Handbook]] pg 284
-tags: druid, [[8th level]], [[Conjuration Spells]]
+tags: [[Druid]], [[8th level]], [[Conjuration Spells]]
 
 **8th-level conjuration**
 

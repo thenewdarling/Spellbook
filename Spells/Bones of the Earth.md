@@ -1,6 +1,6 @@
 # Bones of the Earth
 sources: [[Elemental Evil Player's Companion]] pg 15, [[Xanathar's Guide to Everything]] 	pg 150
-tags: druid, [[6th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

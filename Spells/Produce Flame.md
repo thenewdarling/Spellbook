@@ -1,6 +1,6 @@
 # Produce Flame
 sources: [[Player's Handbook]] pg 269, [[SRD]] pg 172
-tags: genasi (fire), druid, [[cantrip]], [[Conjuration Spells]]
+tags: genasi (fire), [[Druid]], [[cantrip]], [[Conjuration Spells]]
 
 **Conjuration cantrip**
 

@@ -1,6 +1,6 @@
 # Flaming Sphere
 sources: [[Player's Handbook]] pg 242, [[SRD]] pg 145
-tags: [[Artificer Alchemist Spells]], [[Warlock Celestial Spells]], [[Cleric Light Spells]], druid, [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: [[Artificer Alchemist Spells]], [[Warlock Celestial Spells]], [[Cleric Light Spells]], [[Druid]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

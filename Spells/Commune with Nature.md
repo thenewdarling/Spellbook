@@ -1,6 +1,6 @@
 # Commune with Nature
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 126
-tags: barbarian (totem warrior), druid, [[Paladin Ancients Spells]], ranger, [[5th level]], [[Ritual Spells]], [[Divination Spells]]
+tags: barbarian (totem warrior), [[Druid]], [[Paladin Ancients Spells]], ranger, [[5th level]], [[Ritual Spells]], [[Divination Spells]]
 
 **5th-level divination (ritual)**
 

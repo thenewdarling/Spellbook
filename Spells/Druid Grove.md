@@ -1,6 +1,6 @@
 # Druid Grove
 sources: [[Xanathar's Guide to Everything]] pg 154
-tags: druid, [[6th level]], [[Abjuration Spells]]
+tags: [[Druid]], [[6th level]], [[Abjuration Spells]]
 
 **6th-level abjuration**
 

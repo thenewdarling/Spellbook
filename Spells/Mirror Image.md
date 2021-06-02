@@ -1,6 +1,6 @@
 # Mirror Image
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 165
-tags: [[Cleric Trickery Spells]], druid (coast), [[Sorcerer]], [[Warlock]], [[Wizard]], [[Artificer Armorer Spells]], [[2nd level]], [[Illusion Spells]]
+tags: [[Cleric Trickery Spells]], [[Druid Coast Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[Artificer Armorer Spells]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

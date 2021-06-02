@@ -1,6 +1,6 @@
 # Earthquake
 sources: [[Player's Handbook]] pg 236, [[SRD]] pg 139
-tags: [[Cleric]], druid, [[Sorcerer]], [[8th level]], [[Evocation Spells]]
+tags: [[Cleric]], [[Druid]], [[Sorcerer]], [[8th level]], [[Evocation Spells]]
 
 **8th-level evocation**
 

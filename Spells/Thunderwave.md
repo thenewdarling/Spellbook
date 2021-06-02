@@ -1,6 +1,6 @@
 # Thunderwave
 sources: [[Player's Handbook]] pg 282, [[SRD]] pg 187
-tags: [[Artificer Artillerist Spells]], [[Bard]], [[Cleric Tempest Spells]], druid, [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Artificer Armorer Spells]], [[1st level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Bard]], [[Cleric Tempest Spells]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Artificer Armorer Spells]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

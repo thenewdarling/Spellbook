@@ -1,6 +1,6 @@
 # Mold Earth
 sources: [[Elemental Evil Player's Companion]] pg 21, [[Xanathar's Guide to Everything]] pg 162
-tags: druid, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

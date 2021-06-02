@@ -1,6 +1,6 @@
 # Create Food and Water
 sources: [[Player's Handbook]] pg 229, [[SRD]] pg 131
-tags: [[Artificer]], [[Cleric]], druid (desert), [[Paladin]], [[3rd level]], [[Conjuration Spells]]
+tags: [[Artificer]], [[Cleric]], [[Druid Desert Spells]], [[Paladin]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

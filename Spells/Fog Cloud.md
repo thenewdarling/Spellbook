@@ -1,6 +1,6 @@
 # Fog Cloud
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 146
-tags: [[Cleric Tempest Spells]], druid, ranger, [[Sorcerer]], [[Wizard]], [[1st level]], [[Conjuration Spells]]
+tags: [[Cleric Tempest Spells]], [[Druid]], ranger, [[Sorcerer]], [[Wizard]], [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

@@ -1,6 +1,6 @@
 # Wall of Water
 sources: [[Elemental Evil Player's Companion]] pg 23, [[Xanathar's Guide to Everything]] pg 170
-tags: druid, [[Sorcerer]], [[Wizard]], [[3rd level]], [[Evocation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

@@ -1,6 +1,6 @@
 # Warding Wind
 sources: [[Elemental Evil Player's Companion]] pg 23, [[Xanathar's Guide to Everything]] pg 170
-tags: [[Bard]], druid, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
+tags: [[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

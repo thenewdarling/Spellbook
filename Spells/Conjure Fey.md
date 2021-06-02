@@ -1,6 +1,6 @@
 # Conjure Fey
 sources: [[Player's Handbook]] pg 226, [[SRD]] pg 128
-tags: druid, [[Warlock]], [[6th level]], [[Conjuration Spells]]
+tags: [[Druid]], [[Warlock]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

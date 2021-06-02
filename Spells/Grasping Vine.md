@@ -1,6 +1,6 @@
 # Grasping Vine
 sources: [[Player's Handbook]] pg 246
-tags: [[Cleric Nature Spells]], druid, ranger, [[4th level]], [[Conjuration Spells]]
+tags: [[Cleric Nature Spells]], [[Druid]], ranger, [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 

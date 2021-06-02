@@ -1,6 +1,6 @@
 # Control Flames
 sources: [[Elemental Evil Player's Companion]] pg 16, [[Xanathar's Guide to Everything]] pg 152
-tags: druid, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

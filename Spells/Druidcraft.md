@@ -1,6 +1,6 @@
 # Druidcraft
 sources: [[Player's Handbook]] pg 236, [[SRD]] pg 138
-tags: druid, [[cantrip]], [[Transmutation Spells]]
+tags: [[Druid]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

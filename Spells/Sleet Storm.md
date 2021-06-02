@@ -1,6 +1,6 @@
 # Sleet Storm
 sources: [[Player's Handbook]] pg 276, [[SRD]] pg 180
-tags: [[Cleric Tempest Spells]], druid, [[Sorcerer]], [[Wizard]], [[3rd level]], [[Conjuration Spells]]
+tags: [[Cleric Tempest Spells]], [[Druid]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

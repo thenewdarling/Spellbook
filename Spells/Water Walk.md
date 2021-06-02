@@ -1,6 +1,6 @@
 # Water Walk
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 191
-tags: [[Artificer]], [[Cleric]], druid, ranger, [[Sorcerer]], [[3rd level]], [[Ritual Spells]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Cleric]], [[Druid]], ranger, [[Sorcerer]], [[3rd level]], [[Ritual Spells]], [[Transmutation Spells]]
 
 **3rd-level transmutation (ritual)**
 

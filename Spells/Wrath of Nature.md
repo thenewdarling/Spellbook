@@ -1,6 +1,6 @@
 # Wrath of Nature
 sources: [[Xanathar's Guide to Everything]] pg 171
-tags: druid, ranger, [[5th level]], [[Evocation Spells]]
+tags: [[Druid]], ranger, [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

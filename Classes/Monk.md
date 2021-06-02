@@ -13,7 +13,7 @@ Links to Features
 10th - [[Purity of Body]]
 13th - [[Tongue of the Sun and Moon]]
 14th - [[Diamond Soul]]
-15th - [[Timeless Body]]
+15th - [[Timeless Body#Monk]]
 18th - [[Empty Body]]
 20th - [[Perfect Self]]
 

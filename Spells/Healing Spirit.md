@@ -1,6 +1,6 @@
 # Healing Spirit
 sources: [[Xanathar's Guide to Everything]] pg 157
-tags: druid, ranger, [[2nd level]], [[Conjuration Spells]]
+tags: [[Druid]], ranger, [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

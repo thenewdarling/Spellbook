@@ -1,6 +1,6 @@
 # Flame Arrows
 sources: [[Elemental Evil Player's Companion]] pg 18, [[Xanathar's Guide to Everything]] pg 156
-tags: [[Artificer]], druid, ranger, [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid]], ranger, [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

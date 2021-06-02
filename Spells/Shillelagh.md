@@ -1,6 +1,6 @@
 # Shillelagh
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 179
-tags: druid, [[cantrip]], [[Transmutation Spells]]
+tags: [[Druid]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

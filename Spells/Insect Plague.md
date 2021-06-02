@@ -1,6 +1,6 @@
 # Insect Plague
 sources: [[Player's Handbook]] pg 254, [[SRD]] pg 157
-tags: [[Cleric]], druid, [[Sorcerer]], [[5th level]], [[Conjuration Spells]]
+tags: [[Cleric]], [[Druid]], [[Sorcerer]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

@@ -1,6 +1,6 @@
 # Moonbeam
 sources: [[Player's Handbook]] pg 261, [[SRD]] pg 166
-tags: druid, [[Paladin Ancients Spells]], [[2nd level]], [[Evocation Spells]]
+tags: [[Druid]], [[Paladin Ancients Spells]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

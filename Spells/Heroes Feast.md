@@ -1,6 +1,6 @@
 # Heroes’ Feast
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 154
-tags: [[Cleric]], druid, [[6th level]], [[Conjuration Spells]]
+tags: [[Cleric]], [[Druid]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

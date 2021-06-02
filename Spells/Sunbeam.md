@@ -1,6 +1,6 @@
 # Sunbeam
 sources: [[Player's Handbook]] pg 279, [[SRD]] pg 184
-tags: druid, [[Sorcerer]], [[Wizard]], [[6th level]], [[Evocation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[6th level]], [[Evocation Spells]]
 
 **6th-level evocation**
 

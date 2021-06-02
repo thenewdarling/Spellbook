@@ -1,6 +1,6 @@
 # Animal Shapes
 sources: [[Player's Handbook]] pg 212, [[SRD]] pg 115
-tags: druid, [[8th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[8th level]], [[Transmutation Spells]]
 
 **8th-level transmutation**
 

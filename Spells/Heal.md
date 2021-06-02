@@ -1,6 +1,6 @@
 # Heal
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 153
-tags: [[Cleric]], druid, [[6th level]], [[Evocation Spells]]
+tags: [[Cleric]], [[Druid]], [[6th level]], [[Evocation Spells]]
 
 **6th-level evocation**
 

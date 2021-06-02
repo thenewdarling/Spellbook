@@ -1,6 +1,6 @@
 # Animal Messenger
 sources: [[Player's Handbook]] pg 212, [[SRD]] pg 115
-tags: [[Bard]], druid, ranger, [[2nd level]], [[Ritual Spells]], [[Enchantment Spells]]
+tags: [[Bard]], [[Druid]], ranger, [[2nd level]], [[Ritual Spells]], [[Enchantment Spells]]
 
 **2nd-level enchantment (ritual)**
 

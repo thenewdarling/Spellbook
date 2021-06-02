@@ -1,6 +1,6 @@
 # Greater Restoration
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: [[Artificer]], [[Bard]], [[Cleric]], druid, [[Sorcerer Clockwork Soul Spells]], [[Warlock Celestial Spells]], [[5th level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer Clockwork Soul Spells]], [[Warlock Celestial Spells]], [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 

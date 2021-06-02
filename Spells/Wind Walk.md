@@ -1,6 +1,6 @@
 # Wind Walk
 sources: [[Player's Handbook]] pg 288, [[SRD]] pg 192
-tags: druid, [[6th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

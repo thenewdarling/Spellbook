@@ -1,6 +1,6 @@
 # Antipathy/Sympathy
 sources: [[Player's Handbook]] pg 214, [[SRD]] pg 117
-tags: druid, [[Wizard]], [[8th level]], [[Enchantment Spells]]
+tags: [[Druid]], [[Wizard]], [[8th level]], [[Enchantment Spells]]
 
 **8th-level enchantment**
 

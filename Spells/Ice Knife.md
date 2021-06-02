@@ -1,6 +1,6 @@
 # Ice Knife
 sources: [[Elemental Evil Player's Companion]] pg 19, [[Xanathar's Guide to Everything]] pg 157
-tags: druid, [[Sorcerer]], [[Wizard]], [[1st level]], [[Conjuration Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

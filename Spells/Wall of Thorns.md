@@ -1,6 +1,6 @@
 # Wall of Thorns
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 191
-tags: druid, [[6th level]], [[Conjuration Spells]]
+tags: [[Druid]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 

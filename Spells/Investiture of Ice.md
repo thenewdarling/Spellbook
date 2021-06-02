@@ -1,6 +1,6 @@
 # Investiture of Ice
 sources: [[Elemental Evil Player's Companion]] pg 19, [[Xanathar's Guide to Everything]] pg 159
-tags: druid, [[Sorcerer]], [[Warlock]], [[Wizard]], [[6th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 

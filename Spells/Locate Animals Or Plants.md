@@ -1,6 +1,6 @@
 # Locate Animals or Plants
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 159
-tags: [[Bard]], druid, ranger, [[2nd level]], [[Ritual Spells]], [[Divination Spells]]
+tags: [[Bard]], [[Druid]], ranger, [[2nd level]], [[Ritual Spells]], [[Divination Spells]]
 
 **2nd-level divination (ritual)**
 

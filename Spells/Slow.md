@@ -1,6 +1,6 @@
 # Slow
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 180
-tags: druid (arctic), [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Druid Arctic Spells]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

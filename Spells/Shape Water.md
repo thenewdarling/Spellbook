@@ -1,6 +1,6 @@
 # Shape Water
 sources: [[Elemental Evil Player's Companion]] pg 21, [[Xanathar's Guide to Everything]] pg 164
-tags: genasi (water), druid, [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
+tags: genasi (water), [[Druid]], [[Sorcerer]], [[Wizard]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

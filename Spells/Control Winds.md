@@ -1,6 +1,6 @@
 # Control Winds
 sources: [[Elemental Evil Player's Companion]] pg 16, [[Xanathar's Guide to Everything]] pg 152
-tags: druid, [[Sorcerer]], [[Wizard]], [[5th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

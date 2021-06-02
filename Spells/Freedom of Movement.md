@@ -1,6 +1,6 @@
 # Freedom of Movement
 sources: [[Player's Handbook]] pg 244, [[SRD]] pg 147
-tags: [[Artificer]], [[Bard]], [[Cleric]], druid, [[Paladin Devotion Spells]], ranger, [[Sorcerer Clockwork Soul Spells]], [[4th level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin Devotion Spells]], ranger, [[Sorcerer Clockwork Soul Spells]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

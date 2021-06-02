@@ -1,6 +1,6 @@
 # Regenerate
 sources: [[Player's Handbook]] pg 271, [[SRD]] pg 174
-tags: [[Bard]], [[Cleric]], druid, [[7th level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Cleric]], [[Druid]], [[7th level]], [[Transmutation Spells]]
 
 **7th-level transmutation**
 

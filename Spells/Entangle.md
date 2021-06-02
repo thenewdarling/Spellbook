@@ -1,6 +1,6 @@
 # Entangle
 sources: [[Player's Handbook]] pg 238, [[SRD]] pg 140
-tags: druid, [[1st level]], [[Conjuration Spells]]
+tags: [[Druid]], [[1st level]], [[Conjuration Spells]]
 
 **1st-level conjuration**
 

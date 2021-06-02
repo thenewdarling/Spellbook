@@ -1,6 +1,6 @@
 # Scrying
 sources: [[Player's Handbook]] pg 273, [[SRD]] pg 176
-tags: [[Bard]], [[Cleric]], druid, [[Paladin Devotion Spells]], [[Paladin Vengeance Spells]], [[Warlock]], [[Wizard]], [[5th level]], [[Divination Spells]]
+tags: [[Bard]], [[Cleric]], [[Druid]], [[Paladin Devotion Spells]], [[Paladin Vengeance Spells]], [[Warlock]], [[Wizard]], [[5th level]], [[Divination Spells]]
 
 **5th-level divination**
 

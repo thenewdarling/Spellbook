@@ -1,6 +1,6 @@
 # Call Lightning
 sources: [[Player's Handbook]] pg 220, [[SRD]] pg 123
-tags: [[Cleric Tempest Spells]], druid, [[3rd level]], [[Conjuration Spells]]
+tags: [[Cleric Tempest Spells]], [[Druid]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

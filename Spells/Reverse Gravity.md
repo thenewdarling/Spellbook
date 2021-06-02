@@ -1,6 +1,6 @@
 # Reverse Gravity
 sources: [[Player's Handbook]] pg 272, [[SRD]] pg 175
-tags: druid, [[Sorcerer]], [[Wizard]], [[7th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[7th level]], [[Transmutation Spells]]
 
 **7th-level transmutation**
 

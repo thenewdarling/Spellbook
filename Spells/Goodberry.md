@@ -1,6 +1,6 @@
 # Goodberry
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: druid, ranger, [[1st level]], [[Transmutation Spells]]
+tags: [[Druid]], ranger, [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

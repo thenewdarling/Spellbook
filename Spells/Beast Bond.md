@@ -1,6 +1,6 @@
 # Beast Bond
 sources: [[Elemental Evil Player's Companion]] pg 15, [[Xanathar's Guide to Everything]] pg 150
-tags: druid, ranger, [[1st level]], [[Divination Spells]]
+tags: [[Druid]], ranger, [[1st level]], [[Divination Spells]]
 
 **1st-level divination**
 

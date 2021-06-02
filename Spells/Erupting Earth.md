@@ -1,6 +1,6 @@
 # Erupting Earth
 sources: [[Elemental Evil Player's Companion]] pg 17, [[Xanathar's Guide to Everything]] pg 155
-tags: druid, [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

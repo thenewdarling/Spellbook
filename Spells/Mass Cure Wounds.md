@@ -1,6 +1,6 @@
 # Mass Cure Wounds
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 162
-tags: [[Artificer Battle Smith Spells]], [[Bard]], [[Cleric]], druid, [[5th level]], [[Evocation Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Bard]], [[Cleric]], [[Druid]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 

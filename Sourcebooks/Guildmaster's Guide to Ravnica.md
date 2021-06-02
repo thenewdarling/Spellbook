@@ -1,0 +1,5 @@
+Explore a worldwide cityscape filled to the brim with adventure and intrigue in this campaign setting for the world’s greatest roleplaying game.
+
+A perpetual haze of dreary rain hangs over the spires of Ravnica. Bundled against the weather, the cosmopolitan citizens in all their fantastic diversity go about their daily business in bustling markets and shadowy back alleys. Through it all, ten guilds—crime syndicates, scientific institutions, church hierarchies, military forces, judicial courts, buzzing swarms, and rampaging gangs—vie for power, wealth, and influence.
+
+These guilds are the foundation of power on Ravnica. They have existed for millennia, and each one has its own identity and civic function, its own diverse collection of races and creatures, and its own distinct subculture. Their history is a web of wars, intrigue, and political machinations as they have vied for control of the plane.

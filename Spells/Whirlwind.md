@@ -1,6 +1,6 @@
 # Whirlwind
 sources: [[Elemental Evil Player's Companion]] pg 23, [[Xanathar's Guide to Everything]] pg 171
-tags: druid, [[Sorcerer]], [[Wizard]], [[7th level]], [[Evocation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[7th level]], [[Evocation Spells]]
 
 **7th-level evocation**
 

@@ -1,6 +1,6 @@
 # Thorn Whip
 sources: [[Player's Handbook]] pg 282
-tags: [[Artificer]], druid, [[cantrip]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

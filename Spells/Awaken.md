@@ -1,6 +1,6 @@
 # Awaken
 sources: [[Player's Handbook]] pg 216, [[SRD]] pg 120
-tags: [[Bard]], druid, [[5th level]], [[Transmutation Spells]]
+tags: [[Bard]], [[Druid]], [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 

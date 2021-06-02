@@ -1,6 +1,6 @@
 # Magic Stone
 sources: [[Elemental Evil Player's Companion]] pg 20, [[Xanathar's Guide to Everything]] pg 160
-tags: [[Artificer]], druid, [[Warlock]], [[cantrip]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid]], [[Warlock]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 

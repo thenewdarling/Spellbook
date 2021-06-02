@@ -1,6 +1,6 @@
 # Healing Word
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 153
-tags: [[Artificer Alchemist Spells]], [[Bard]], [[Cleric]], druid, [[1st level]], [[Evocation Spells]]
+tags: [[Artificer Alchemist Spells]], [[Bard]], [[Cleric]], [[Druid]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

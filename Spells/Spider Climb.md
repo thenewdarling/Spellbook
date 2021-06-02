@@ -1,6 +1,6 @@
 # Spider Climb
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 182
-tags: [[Artificer]], druid (forest), druid (mountain), druid (underdark), [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid Forest Spells]], [[Druid Mountain Spells]], [[Druid Underdark Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

@@ -1,6 +1,6 @@
 # Dream
 sources: [[Player's Handbook]] pg 236, [[SRD]] pg 138
-tags: [[Bard]], druid (grassland), [[Warlock]], [[Wizard]], [[5th level]], [[Illusion Spells]]
+tags: [[Bard]], [[Druid Grassland Spells]], [[Warlock]], [[Wizard]], [[5th level]], [[Illusion Spells]]
 
 **5th-level illusion**
 

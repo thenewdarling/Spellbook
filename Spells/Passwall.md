@@ -1,6 +1,6 @@
 # Passwall
 sources: [[Player's Handbook]] pg 264, [[SRD]] pg 167
-tags: druid (mountain), [[Wizard]], [[Artificer Armorer Spells]], [[5th level]], [[Transmutation Spells]]
+tags: [[Druid Mountain Spells]], [[Wizard]], [[Artificer Armorer Spells]], [[5th level]], [[Transmutation Spells]]
 
 **5th-level transmutation**
 
