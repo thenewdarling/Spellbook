@@ -2,6 +2,6 @@ At 10th level, when you cast a spell using a spell slot of 4th level or lower, y
 
 A creature holding the bead can use its action to release the spell within, whereupon the bead disappears. The spell uses your spell attack bonus and save DC, and the spell treats the creature who released it as the cast for all other purposes.
 
-Once you create a bead with this feature, you can't do so again until you finish a short or long rest.
+Once you create a bead with this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]].
 
 tags: [[Wizard#Chronurgy]]

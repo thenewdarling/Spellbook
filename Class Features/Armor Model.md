@@ -2,13 +2,13 @@ Beginning at 3rd level, you can customize your [[Arcane Armor]]. When you do so,
 
 Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls.
 
-You can change the armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.
+You can change the armor's model whenever you finish a [[Short Rest]] or [[Long Rest]], provided you have smith's tools in hand.
 
 **Guardian.** You design your armor to be in the front line of conflict. It has the following features:
 
 -   **Thunder Gauntlets.** Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.
 
--   **Defensive Field.** As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+-   **Defensive Field.** As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
 
 **Infiltrator.** You customize your armor for subtle undertakings. It has the following features:
 

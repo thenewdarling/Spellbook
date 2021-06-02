@@ -1,4 +1,4 @@
-Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can't use the feature again until you finish a short or long rest.
+Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a [[Short Rest]] or [[Long Rest]]. You can't use the feature again until you finish a [[Short Rest]] or [[Long Rest]].
 
 **Darkvision** You gain darkvision out to a range of 60 feet.
 

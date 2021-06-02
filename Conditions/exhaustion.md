@@ -15,4 +15,4 @@ A creature suffers the Effect of its current level of exhaustion as well as all 
 
 An Effect that removes exhaustion reduces its level as specified in the effect’s description, with all exhaustion Effects Ending if a creature’s exhaustion level is reduced below 1.
 
-Finishing a Long Rest reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.
+Finishing a [[Long Rest]] reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.

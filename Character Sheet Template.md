@@ -8,7 +8,7 @@ AC: 18
 #### [[Weapons]]:
 Mace, 1d6 + STR
 
-#### [[Channel Divinity]]: (once per short rest)
+#### [[Channel Divinity]]: (once per [[Short Rest]])
 [[Preserve Life]]
 [[Turn Undead]]
 

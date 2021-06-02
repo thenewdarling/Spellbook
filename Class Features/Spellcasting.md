@@ -6,13 +6,13 @@ By 2nd level, you have learned to draw on divine magic through meditation and pr
 
 ##### Preparing and Casting Spells
 
-The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[Cure Wounds]]), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a [[Long Rest]]. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ##### Spellcasting Ability
 
@@ -42,13 +42,13 @@ At 1st level, you have a Spellbook containing six 1st-level Wizard Spells of you
 
 #### Preparing and Casting Spells
 
-The Wizard table shows how many Spell Slots you have to cast your Spells of 1st level and higher. To cast one of these Spells, you must expend a slot of the spell's level or higher. You regain all expended Spell Slots when you finish a Long Rest.
+The Wizard table shows how many Spell Slots you have to cast your Spells of 1st level and higher. To cast one of these Spells, you must expend a slot of the spell's level or higher. You regain all expended Spell Slots when you finish a [[Long Rest]].
 
 You prepare the list of Wizard Spells that are available for you to cast. To do so, choose a number of Wizard Spells from your Spellbook equal to your Intelligence modifier + your Wizard level (minimum of one spell). The Spells must be of a level for which you have Spell Slots.
 
 For example, if you're a 3rd-level Wizard, you have four 1st-level and two 2nd-level Spell Slots. With an Intelligence of 16, your list of prepared Spells can include six Spells of 1st or 2nd Level, in any combination, chosen from your Spellbook. If you prepare the 1st-level spell Magic Missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared Spells.
 
-You can change your list of prepared Spells when you finish a Long Rest. Preparing a new list of Wizard Spells requires time spent studying your Spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per Spell Level for each spell on your list.
+You can change your list of prepared Spells when you finish a [[Long Rest]]. Preparing a new list of Wizard Spells requires time spent studying your Spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per Spell Level for each spell on your list.
 
 #### Spellcasting Ability
 
@@ -77,13 +77,13 @@ As a conduit for divine power, you can cast cleric spells. See Spells Rules for 
 At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
 #### Preparing and Casting Spells
-The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[Cure Wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a [[Long Rest]]. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
@@ -114,7 +114,7 @@ You know two cantrips of your choice from the [[Bard]] spell list). You learn ad
 
 ##### Spell Slots
 
-The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell [[Cure Wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Cure Wounds]] using either slot.
+The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]]. For example, if you know the 1st-level spell [[Cure Wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Cure Wounds]] using either slot.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -152,7 +152,7 @@ At 1st level, you know four cantrips of your choice from the [[Sorcerer]] spell 
 
 ##### Spell Slots
 
-The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 For example, if you know the 1st-level spell [[Burning Hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Burning Hands]] using either slot.
 
@@ -186,7 +186,7 @@ You learn three cantrips: [[Mage Hand]] and two other cantrips of your choice fr
 
 ###### Spell Slots
 
-The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 For example, if you know the 1st-level spell [[Charm Person]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Charm Person]] using either slot.
 
@@ -229,13 +229,13 @@ When you gain a level in this class, you can replace one of the artificer cantri
 
 ##### Preparing and Casting Spells
 
-The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 You prepare the list of artificer spells that are available for you to cast, choosing from the [[Artificer]] spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[Cure Wounds]], you can cast it using a lst-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a [[Long Rest]]. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
 
 ##### Spellcasting Ability
 

@@ -2,6 +2,6 @@ Starting at 2nd level when you choose this school, your soft words and enchantin
 
 On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.
 
-Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a long rest.
+Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a [[Long Rest]].
 
 tags: [[Wizard#Enchantment]]

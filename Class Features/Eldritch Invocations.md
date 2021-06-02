@@ -30,7 +30,7 @@ You can cast [[Levitate]] on yourself at will, without expending a spell slot or
 ## Aspect of the Moon
 
 **_Prerequisite: Pact of the Tome feature_**  
-You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a [[Long Rest]], you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
 
 ## Beast Speech
 
@@ -43,12 +43,12 @@ You gain proficiency in the Deception and Persuasion skills.
 ## Bewitching Whispers
 
 **_Prerequisite: 7th level_**  
-You can cast [[Compulsion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Compulsion]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Bond of the Talisman
 
 **_Prerequisite: 12th level, Pact of the Talisman feature_**  
-While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a [[Long Rest]].
 
 ## Book of Ancient Secrets
 
@@ -60,7 +60,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 ## Chains of Carceri
 
 **_Prerequisite: 15th level, Pact of the Chain feature_**  
-You can cast [[Hold Monster]] at will – targeting a celestial, fiend, or elemental – without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast [[Hold Monster]] at will – targeting a celestial, fiend, or elemental – without expending a spell slot or material components. You must finish a [[Long Rest]] before you can use this invocation on the same creature again.
 
 ## Cloak of Flies
 
@@ -69,7 +69,7 @@ As a bonus action, you can surround yourself with a magical aura that looks like
 
 The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
+Once you use this invocation, you can’t use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Devil's Sight
 
@@ -78,7 +78,7 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 ## Dreadful Word
 
 **_Prerequisite: 7th level_**  
-You can cast [[Confusion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Confusion]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Eldritch Armor (UA)
 
@@ -129,14 +129,14 @@ You can use your action to touch a willing humanoid and perceive through its sen
 **_Prerequisite: 7th level_**  
 As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don’t already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
+Once you use this invocation, you can’t use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Gift of the Depths
 
 **_Prerequisite: 5th level_**  
 You can breathe underwater, and you gain a swimming speed equal to your walking speed.
 
-You can also cast [[Water Breathing]] without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can also cast [[Water Breathing]] without expending a spell slot. You regain the ability to do so when you finish a [[Long Rest]].
 
 ## Gift of the Ever-Living Ones
 
@@ -148,7 +148,7 @@ Whenever you regain hit points while your familiar is within 100 feet of you, tr
 **_Prerequisite: 9th level, Pact of the Tome feature_**  
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 
-When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
+When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
 
 As an action, you can magically erase a name on the page by touching it.
 
@@ -208,12 +208,12 @@ You can cast [[Alter Self]] at will, without expending a spell slot.
 ## Minions of Chaos
 
 **_Prerequisite: 9th level_**  
-You can cast [[Conjure Elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Conjure Elemental]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Mire the Mind
 
 **_Prerequisite: 5th level_**  
-You can cast [[Slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Slow]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Misty Visions
 
@@ -232,7 +232,7 @@ You can cast [[Jump]] at will, without expending a spell slot.
 ## Protection of the Talisman
 
 **_Prerequisite: 7th level, Pact of the Talisman feature_**  
-When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a [[Long Rest]].
 
 ## Rebuke of the Talisman
 
@@ -252,7 +252,7 @@ When you hit a creature with [[Eldritch Blast]], you can push the creature up to
 ## Sculptor of Flesh
 
 **_Prerequisite: 7th level_**  
-You can cast [[Polymorph]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Polymorph]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Shroud of Shadow
 
@@ -262,11 +262,11 @@ You can cast [[Invisibility]] at will, without expending a spell slot.
 ## Sign of Ill Omen
 
 **_Prerequisite: 5th level_**  
-You can cast [[Bestow Curse]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Bestow Curse]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Thief of Five Fates
 
-You can cast [[Bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[Bane]] once using a warlock spell slot. You can't do so again until you finish a [[Long Rest]].
 
 ## Thirsting Blade
 
@@ -278,17 +278,17 @@ You can attack with your pact weapon twice, instead of once, whenever you take t
 **_Prerequisite: 5th level_**  
 As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
+Once you use this invocation, you can’t use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
 ## Trickster's Escape
 
 **_Prerequisite: 7th level_**  
-You can cast [[Freedom of Movement]] once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can cast [[Freedom of Movement]] once on yourself without expending a spell slot. You regain the ability to do so when you finish a [[Long Rest]].
 
 ## Undying Servitude
 
 **_Prerequisite: 5th-level warlock_**  
-You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
+You can cast [[Animate Dead]] without using a spell slot. Once you do so, you can't cast it in this way again until you finish a [[Long Rest]].
 
 ## Visions of Distant Realms
 

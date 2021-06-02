@@ -2,6 +2,6 @@ Starting at 14th level, you can plunge a creature into an illusory realm. As an 
 
 Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
 
-You must finish a short or long rest before you can use this feature again.
+You must finish a [[Short Rest]] or [[Long Rest]] before you can use this feature again.
 
 tags: [[Warlock#Archfey]]

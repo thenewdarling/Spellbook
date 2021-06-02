@@ -6,7 +6,7 @@ You know two cantrips of your choice from the [[Warlock]] spell list. You learn 
 
 ##### Spell Slots
 
-The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a [[Short Rest]] or [[Long Rest]].
 
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[Witch Bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
