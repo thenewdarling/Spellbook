@@ -8,6 +8,6 @@ At 1st level, you learn the [[Light]] and [[Sacred Flame]] cantrips. They count 
 
 #### Druid Circle of the Land
 
-When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.
+When you choose this circle at 2nd level, you learn one additional [[Druid]] cantrip of your choice.
 
 tags: [[Cleric#Light]], [[Warlock#Celestial]], [[Druid#Circle of the Land]]

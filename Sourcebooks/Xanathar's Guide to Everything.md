@@ -6,7 +6,7 @@ The beholder Xanathar—Waterdeep’s most infamous crime lord—is known to hoa
 
 Xanathar's Guide to Everything is the first major expansion for fifth edition Dungeons & Dragons, offering new rules and story options:
 
-Over twenty-five new subclasses for the character classes in the Player’s Handbook, including the Cavalier for the fighter, the Circle of Dreams for the druid, the Horizon Walker for the ranger, the Inquisitive for the rogue, and many more.
+Over twenty-five new subclasses for the character classes in the Player’s Handbook, including the Cavalier for the fighter, the Circle of Dreams for the [[Druid]], the Horizon Walker for the ranger, the Inquisitive for the rogue, and many more.
  
 Dozens of new spells, a collection of racial feats, and a system to give your character a randomized backstory.
  

@@ -1,6 +1,6 @@
 # Conjure Woodland Beings
 sources: [[Player's Handbook]] pg 226, [[SRD]] pg 129
-tags: druid , ranger, [[4th level]], [[Conjuration Spells]]
+tags: [[Druid]] , ranger, [[4th level]], [[Conjuration Spells]]
 
 **4th-level conjuration**
 
