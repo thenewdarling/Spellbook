@@ -1,6 +1,6 @@
 # Druidcraft
 sources: [[Player's Handbook]] pg 236, [[SRD]] pg 138
-tags: [[Druid]], [[cantrip]], [[Transmutation Spells]]
+tags: [[Druid]], [[Fighter#Arcane Archer]], [[cantrip]], [[Transmutation Spells]]
 
 **Transmutation cantrip**
 
