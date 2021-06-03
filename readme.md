@@ -18,6 +18,13 @@ The contents have been checked to be up to date with:
 
 - Sword Coast Adventurer's Guide, v2.1 (2020)
 - Tasha's Cauldron of Everything (2020)
+- Xanathar's Guide to Everything v1.0 (2020)
+	- Barb and Fighter features to be confirmed after adding:
+
+
+Path of the Ancestral Guardian (p. 9). In the Path of the An- cestral Guardian Features table, all three instances of “d8” are now “d6”.
+
+Arcane Shot (p. 28). In the first sentence of the second paragraph, “Once per turn when you fire a magic arrow ...” has changed to “Once per turn when you fire an arrow ...”
 
 # Credits
 
