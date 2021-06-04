@@ -9,6 +9,7 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 	- Fighter
 	- Ranger
 - Add racial traits.
+- The spell list from Grimoire doesn't have the additional spells brought over from Tasha's, ie. Cleric now has access to Aura of Vitality from the Player's Handbook.
 - To confirm updated to most recent errata.
 - Fill in stubs on Magic Items list from the ones added via [[Artificer Infusions]]
 - Update remaining class tags (and any others I am missing)
@@ -20,7 +21,6 @@ The contents have been checked to be up to date with:
 - Tasha's Cauldron of Everything (2020)
 - Xanathar's Guide to Everything v1.0 (2020)
 	- Barb features to be confirmed after adding:
-
 
 Path of the Ancestral Guardian (p. 9). In the Path of the An- cestral Guardian Features table, all three instances of “d8” are now “d6”.
 
