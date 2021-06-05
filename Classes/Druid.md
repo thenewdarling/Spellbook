@@ -5,7 +5,7 @@
 Links to Features
 1st - [[Druidic]], [[Spellcasting#Druid]]
 2nd - [[Wild Shape]], [[Druid#Druid Circle]], [[Wild Companion]] (Optional)
-4th - [[Cantrip Versatility]] (Optional)
+4th - [[Cantrip Versatility#Druid]] (Optional)
 18th - [[Timeless Body#Druid]], [[Beast Spells]]
 20th - [[Archdruid]]
 
