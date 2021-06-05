@@ -7,6 +7,7 @@
 Links to Features
 1st -- [[Spellcasting#Wizard]], [[Arcane Recovery]]
 2nd	 -- [[Wizard#Arcane Tradition]]
+3rd -- [[Cantrip Formulas]] (Optional)
 18th --[[Spell Mastery]]
 20th --[[Signature Spell]]
 

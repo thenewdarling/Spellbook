@@ -4,4 +4,8 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 -   If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
 
-tags: [[Fighter]]
+## Paladin
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
+
+tags: [[Fighter]], [[Paladin]]

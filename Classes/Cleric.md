@@ -3,7 +3,7 @@
 
 Links to Features
 1st	 -- [[Spellcasting#Cleric]], [[Cleric#Divine Domain]]	
-2nd	 -- [[Channel Divinity#Cleric]], [[Harness Divine Power]] (Optional)
+2nd	 -- [[Channel Divinity#Cleric]], [[Harness Divine Power#Cleric]] (Optional)
 4th -- [[Cantrip Versatility#Cleric]] (Optional)
 5th	 -- [[Destroy Undead]]
 8th	-- [[Destroy Undead]], [[Blessed Strikes]] (Optional)

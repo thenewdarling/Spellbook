@@ -5,7 +5,8 @@
 Links to Features
 1st -- [[Divine Sense]], [[Lay on Hands]]
 2nd -- [[Fighting Style#Paladin]], [[Spellcasting#Paladin]], [[Divine Smite]]
-3rd -- [[Divine Health]], [[Paladin#Sacred Oath]]
+3rd -- [[Divine Health]], [[Paladin#Sacred Oath]], [[Harness Divine Power#Paladin]] (Optional)
+4th -- [[Martial Versatility#Paladin]] (Optional)
 5th -- [[Extra Attack#Paladin]]
 6th -- [[Aura of Protection]]	
 10th -- [[Aura of Courage]]	
