@@ -1,6 +1,6 @@
 # Symbol
 sources: [[Player's Handbook]] pg 280, [[SRD]] pg 184
-tags: [[Bard]], [[Wizard]], [[Cleric]], [[7th level]], [[Abjuration Spells]]
+tags: [[Bard]], [[Wizard]], [[Cleric]], [[Druid]], [[7th level]], [[Abjuration Spells]]
 
 **7th-level abjuration**
 
@@ -37,3 +37,5 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 **Sleep.** Each target must make a Wisdom saving throw and falls [[unconscious]] for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
 **Stunning.** Each target must make a Wisdom saving throw and becomes [[stunned]] for 1 minute on a failed save.
+
+*Note: This was added to the [[Druid]] spell list by [[Tasha's Cauldron of Everything]]*

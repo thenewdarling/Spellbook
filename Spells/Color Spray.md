@@ -1,6 +1,6 @@
 # Color Spray
 sources: [[Player's Handbook]] pg 222, [[SRD]] pg 125
-tags: [[Sorcerer]], [[Wizard]], [[1st level]], [[Illusion Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[Bard]], [[1st level]], [[Illusion Spells]]
 
 **1st-level illusion**
 
@@ -17,3 +17,5 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10; t
 Starting with the creature that has the lowest current hit points, each creature affected by this spell is [[blinded]] until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
+
+*Note: This was added to the [[Bard]] spell list by [[Tasha's Cauldron of Everything]]*

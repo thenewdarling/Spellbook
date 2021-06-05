@@ -1,6 +1,6 @@
 # Fire Shield
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: [[Artificer Battle Smith Spells]], [[Warlock Fiend Spells]], [[Artificer Armorer Spells]], [[Wizard]], [[4th level]], [[Evocation Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Druid]], [[Warlock Fiend Spells]], [[Artificer Armorer Spells]], [[Sorcerer]], [[Wizard]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 
@@ -17,3 +17,6 @@ Thin and wispy flames wreathe your body for the duration, shedding bright light 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.
+
+*Note: This was added to the [[Druid]] spell list by [[Tasha's Cauldron of Everything]]*
+*Note: This was added to the [[Sorcerer]] spell list by [[Tasha's Cauldron of Everything]]*

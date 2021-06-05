@@ -1,6 +1,6 @@
 # Heroes’ Feast
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 154
-tags: [[Cleric]], [[Druid]], [[6th level]], [[Conjuration Spells]]
+tags: [[Cleric]], [[Druid]], [[Bard]], [[6th level]], [[Conjuration Spells]]
 
 **6th-level conjuration**
 
@@ -15,3 +15,5 @@ tags: [[Cleric]], [[Druid]], [[6th level]], [[Conjuration Spells]]
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve creatures can partake of the feast.
 
 A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [[frightened]], and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
+
+*Note: This was added to the [[Bard]] spell list by [[Tasha's Cauldron of Everything]]*

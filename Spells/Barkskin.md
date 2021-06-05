@@ -1,6 +1,6 @@
 # Barkskin
 sources: [[Player's Handbook]] pg 217, [[SRD]] pg 121
-tags: [[Cleric Nature Spells]], [[Druid]], ranger, [[2nd level]], [[Transmutation Spells]]
+tags: [[Cleric Nature Spells]], [[Druid]], [[Ranger]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

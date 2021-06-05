@@ -1,6 +1,6 @@
 # Cone of Cold
 sources: [[Player's Handbook]] pg 224, [[SRD]] pg 127
-tags: [[Artificer Artillerist Spells]], [[Druid Arctic Spells]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[5th level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Druid]], [[Druid Arctic Spells]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 
@@ -17,3 +17,5 @@ A blast of cold air erupts from your hands. Each creature in a 60-foot cone must
 A creature killed by this spell becomes a frozen statue until it thaws.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+
+*Note: This was added to the [[Druid]] spell list by [[Tasha's Cauldron of Everything]]*

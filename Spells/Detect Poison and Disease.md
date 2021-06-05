@@ -1,6 +1,6 @@
 # Detect Poison and Disease
 sources: [[Player's Handbook]] pg 231, [[SRD]] pg 134
-tags: [[Cleric]], [[Druid]], [[Paladin]], ranger, [[1st level]], [[Ritual Spells]], [[Divination Spells]]
+tags: [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[1st level]], [[Ritual Spells]], [[Divination Spells]]
 
 **1st-level divination (ritual)**
 

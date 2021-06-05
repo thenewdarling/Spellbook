@@ -1,6 +1,6 @@
 # Mirror Image
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 165
-tags: [[Cleric Trickery Spells]], [[Druid Coast Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[Artificer Armorer Spells]], [[2nd level]], [[Illusion Spells]]
+tags: [[Cleric Trickery Spells]], [[Druid Coast Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[Bard]], [[Artificer Armorer Spells]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 
@@ -21,3 +21,5 @@ If you have three duplicates, you must roll a 6 or higher to change the attack�
 A duplicate’s AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.
 
 A creature is unaffected by this spell if it can’t see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
+
+*Note: This was added to the [[Bard]] spell list by [[Tasha's Cauldron of Everything]]*

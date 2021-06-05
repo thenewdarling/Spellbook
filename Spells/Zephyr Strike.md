@@ -1,6 +1,6 @@
 # Zephyr Strike
 sources: [[Xanathar's Guide to Everything]] pg 171
-tags: ranger, [[1st level]], [[Transmutation Spells]]
+tags: [[Ranger]], [[1st level]], [[Transmutation Spells]]
 
 **1st-level transmutation**
 

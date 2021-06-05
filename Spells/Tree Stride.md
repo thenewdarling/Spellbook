@@ -1,6 +1,6 @@
 # Tree Stride
 sources: [[Player's Handbook]] pg 283, [[SRD]] pg 188
-tags: [[Cleric Nature Spells]], [[Druid]], [[Paladin Ancients Spells]], ranger, [[5th level]], [[Conjuration Spells]]
+tags: [[Cleric Nature Spells]], [[Druid]], [[Paladin Ancients Spells]], [[Ranger]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

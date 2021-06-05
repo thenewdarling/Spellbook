@@ -1,6 +1,6 @@
 # Dominate Beast
 sources: [[Player's Handbook]] pg 234, [[SRD]] pg 137
-tags: [[Cleric Nature Spells]], [[Druid]], [[Paladin Conquest Spells]], [[Warlock Archfey Spells]], [[Warlock Great Old One Spells]], [[Sorcerer]], [[4th level]], [[Enchantment Spells]]
+tags: [[Cleric Nature Spells]], [[Druid]], [[Paladin Conquest Spells]], [[Warlock Archfey Spells]], [[Warlock Great Old One Spells]], [[Sorcerer]], [[Ranger]], [[4th level]], [[Enchantment Spells]]
 
 **4th-level enchantment**
 
@@ -19,3 +19,5 @@ While the beast is [[charmed]], you have a telepathic link with it as long as th
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well. Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
 **At Higher Levels.** When you cast this spell with a 5th-level spell slot, the duration is [[Requires concentration]], up to 10 minutes. When you use a 6th-level spell slot, the duration is [[Requires concentration]], up to 1 hour. When you use a spell slot of 7th level or higher, the duration is [[Requires concentration]], up to 8 hours.
+
+*Note: This was added to the [[Ranger]] spell list by [[Tasha's Cauldron of Everything]]*

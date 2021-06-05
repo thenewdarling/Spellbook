@@ -1,6 +1,6 @@
 # Water Breathing
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 191
-tags: [[Artificer]], [[Druid]], ranger, [[Sorcerer]], [[Wizard]], [[3rd level]], [[Ritual Spells]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Ritual Spells]], [[Transmutation Spells]]
 
 **3rd-level transmutation (ritual)**
 

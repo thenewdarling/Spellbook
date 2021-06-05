@@ -6,7 +6,6 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 # To-do
 - Classes
 	- Barbarian
-	- Fighter
 	- Ranger
 - Add racial traits.
 - The spell list from Grimoire doesn't have the additional spells brought over from Tasha's, ie. Cleric now has access to Aura of Vitality from the Player's Handbook.

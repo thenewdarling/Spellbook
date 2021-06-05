@@ -1,6 +1,6 @@
 # Greater Restoration
 sources: [[Player's Handbook]] pg 246, [[SRD]] pg 150
-tags: [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer Clockwork Soul Spells]], [[Warlock Celestial Spells]], [[5th level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Ranger]], [[Sorcerer Clockwork Soul Spells]], [[Warlock Celestial Spells]], [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 
@@ -18,3 +18,5 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 * One curse, including the target’s [[Attunement]] to a cursed magic item
 * Any reduction to one of the target’s ability scores
 * One effect reducing the target’s hit point maximum
+
+*Note: This was added to the [[Ranger]] spell list by [[Tasha's Cauldron of Everything]]*

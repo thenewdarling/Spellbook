@@ -1,6 +1,6 @@
 # Hunter’s Mark
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 155
-tags: [[Paladin Vengeance Spells]], ranger, [[1st level]], [[Divination Spells]]
+tags: [[Paladin Vengeance Spells]], [[Ranger]], [[1st level]], [[Divination Spells]]
 
 **1st-level divination**
 

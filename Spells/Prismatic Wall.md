@@ -1,6 +1,6 @@
 # Prismatic Wall
 sources: [[Player's Handbook]] pg 267, [[SRD]] pg 171
-tags: [[Wizard]], [[9th level]], [[Abjuration Spells]]
+tags: [[Wizard]], [[Bard]], [[9th level]], [[Abjuration Spells]]
 
 **9th-level abjuration**
 
@@ -33,3 +33,5 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 6. **Indigo.** On a failed save, the creature is [[restrained]]. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [[petrified]] condition. The success and failures don’t need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can’t be cast through the wall. The layer is destroyed by bright light shed by a *[[Daylight]]* spell or a similar spell of equal or higher level.
 
 7. **Violet.** On a failed save, the creature is [[blinded]]. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM’s choosing and is no longer [[blinded]]. (Typically, a creature that is on a plane that isn’t its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *[[Dispel Magic]]* spell or a similar spell of equal or higher level that can end spells and magical effects.
+
+*Note: This was added to the [[Bard]] spell list by [[Tasha's Cauldron of Everything]]*

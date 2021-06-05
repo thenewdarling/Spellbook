@@ -1,6 +1,6 @@
 # Guardian of Nature
 sources: [[Xanathar's Guide to Everything]] pg 157
-tags: [[Druid]], ranger, [[4th level]], [[Transmutation Spells]]
+tags: [[Druid]], [[Ranger]], [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

@@ -1,6 +1,6 @@
 # Enhance Ability
 sources: [[Player's Handbook]] pg 237, [[SRD]] pg 139
-tags: [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Ranger]], [[Wizard]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 
@@ -27,3 +27,6 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 **Owl’s Wisdom.** The target has advantage on Wisdom checks.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+*Note: This was added to the [[Ranger]] spell list by [[Tasha's Cauldron of Everything]]*
+*Note: This was added to the [[Wizard]] spell list by [[Tasha's Cauldron of Everything]]*

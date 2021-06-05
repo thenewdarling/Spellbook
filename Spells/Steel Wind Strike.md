@@ -1,6 +1,6 @@
 # Steel Wind Strike
 sources: [[Xanathar's Guide to Everything]] pg 166
-tags: ranger, [[Wizard]], [[5th level]], [[Conjuration Spells]]
+tags: [[Ranger]], [[Wizard]], [[5th level]], [[Conjuration Spells]]
 
 **5th-level conjuration**
 

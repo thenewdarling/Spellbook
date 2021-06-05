@@ -1,6 +1,6 @@
 # Conjure Barrage
 sources: [[Player's Handbook]] pg 225
-tags: [[Artificer Battle Smith Spells]], ranger, [[3rd level]], [[Conjuration Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Ranger]], [[3rd level]], [[Conjuration Spells]]
 
 **3rd-level conjuration**
 

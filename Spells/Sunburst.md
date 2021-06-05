@@ -1,6 +1,6 @@
 # Sunburst
 sources: [[Player's Handbook]] pg 279, [[SRD]] pg 184
-tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[8th level]], [[Evocation Spells]]
+tags: [[Druid]], [[Cleric]], [[Sorcerer]], [[Wizard]], [[8th level]], [[Evocation Spells]]
 
 **8th-level evocation**
 
@@ -17,3 +17,5 @@ Brilliant sunlight flashes in a 60-foot radius centered on a point you choose wi
 A creature [[blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[blinded]].
 
 This spell dispels any darkness in its area that was created by a spell.
+
+*Note: This was added to the [[Cleric]] spell list by [[Tasha's Cauldron of Everything]]*

@@ -1,6 +1,6 @@
 # Protection from Energy
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: [[Artificer]], [[Cleric]], [[Druid]], [[Paladin Ancients Spells]], [[Paladin Vengeance Spells]], ranger, [[Sorcerer]], [[Sorcerer Clockwork Soul Spells]], [[Wizard]], [[3rd level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Cleric]], [[Druid]], [[Paladin Ancients Spells]], [[Paladin Vengeance Spells]], [[Ranger]], [[Sorcerer]], [[Sorcerer Clockwork Soul Spells]], [[Wizard]], [[3rd level]], [[Abjuration Spells]]
 
 **3rd-level abjuration**
 

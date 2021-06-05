@@ -1,6 +1,6 @@
 # Summon Beast
 sources: [[Tasha's Cauldron of Everything]] pg 109
-tags: [[Druid]], ranger, [[2nd level]], [[Conjuration Spells]]
+tags: [[Druid]], [[Ranger]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

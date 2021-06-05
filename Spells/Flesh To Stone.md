@@ -1,6 +1,6 @@
 # Flesh to Stone
 sources: [[Player's Handbook]] pg 243, [[SRD]] pg 145
-tags: [[Warlock]], [[Wizard]], [[6th level]], [[Transmutation Spells]]
+tags: [[Sorcerer]], [[Warlock]], [[Wizard]], [[Druid]], [[6th level]], [[Transmutation Spells]]
 
 **6th-level transmutation**
 
@@ -19,3 +19,6 @@ A creature [[restrained]] by this spell must make another Constitution saving th
 If the creature is physically broken while [[petrified]], it suffers from similar deformities if it reverts to its original state.
 
 If you maintain your [[Concentration]] on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
+
+*Note: This was added to the [[Druid]] spell list by [[Tasha's Cauldron of Everything]]*
+*Note: This was added to the [[Sorcerer]] spell list by [[Tasha's Cauldron of Everything]]*

@@ -1,6 +1,6 @@
 # Slow
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 180
-tags: [[Druid Arctic Spells]], [[Sorcerer]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Druid Arctic Spells]], [[Sorcerer]], [[Bard]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 
@@ -19,3 +19,5 @@ An affected target’s speed is halved, it takes a -2 penalty to AC and Dexterit
 If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted.
 
 A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
+
+*Note: This was added to the [[Bard]] spell list by [[Tasha's Cauldron of Everything]]*

@@ -1,6 +1,6 @@
 # Incendiary Cloud
 sources: [[Player's Handbook]] pg 253, [[SRD]] pg 157
-tags: [[Sorcerer]], [[Wizard]], [[8th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[Druid]], [[8th level]], [[Conjuration Spells]]
 
 **8th-level conjuration**
 
@@ -17,3 +17,5 @@ A swirling cloud of smoke shot through with white-hot embers appears in a 20-foo
 When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
+
+*Note: This was added to the [[Druid]] spell list by [[Tasha's Cauldron of Everything]]*

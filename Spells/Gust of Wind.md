@@ -1,6 +1,6 @@
 # Gust of Wind
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 152
-tags: [[Cleric Tempest Spells]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Evocation Spells]]
+tags: [[Cleric Tempest Spells]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Ranger]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 
@@ -19,3 +19,5 @@ Any creature in the line must spend 2 feet of movement for every 1 foot it moves
 The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
+
+*Note: This was added to the [[Ranger]] spell list by [[Tasha's Cauldron of Everything]]*

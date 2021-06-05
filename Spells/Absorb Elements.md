@@ -1,6 +1,6 @@
 # Absorb Elements
 sources: [[Elemental Evil Player's Companion]] pg 15, [[Xanathar's Guide to Everything]] pg 150
-tags: [[Artificer]], [[Druid]], ranger, [[Sorcerer]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

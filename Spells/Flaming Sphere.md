@@ -1,6 +1,6 @@
 # Flaming Sphere
 sources: [[Player's Handbook]] pg 242, [[SRD]] pg 145
-tags: [[Artificer Alchemist Spells]], [[Warlock Celestial Spells]], [[Cleric Light Spells]], [[Druid]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: [[Artificer Alchemist Spells]], [[Warlock Celestial Spells]], [[Cleric Light Spells]], [[Druid]], [[Wizard]], [[Sorcerer]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 
@@ -19,3 +19,5 @@ As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+
+*Note: This was added to the [[Sorcerer]] spell list by [[Tasha's Cauldron of Everything]]*

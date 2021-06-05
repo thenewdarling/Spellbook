@@ -1,6 +1,6 @@
 # Find Traps
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: [[Cleric]], [[Druid]], ranger, [[2nd level]], [[Divination Spells]]
+tags: [[Cleric]], [[Druid]], [[Ranger]], [[2nd level]], [[Divination Spells]]
 
 **2nd-level divination**
 

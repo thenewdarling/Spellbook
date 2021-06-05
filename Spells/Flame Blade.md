@@ -1,6 +1,6 @@
 # Flame Blade
 sources: [[Player's Handbook]] pg 242, [[SRD]] pg 145
-tags: [[Druid]], [[2nd level]], [[Evocation Spells]]
+tags: [[Druid]], [[Sorcerer]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 
@@ -19,3 +19,5 @@ You can use your action to make a melee spell attack with the fiery blade. On a 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
+
+*Note: This was added to the [[Sorcerer]] spell list by [[Tasha's Cauldron of Everything]]*

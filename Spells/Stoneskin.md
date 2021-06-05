@@ -1,6 +1,6 @@
 # Stoneskin
 sources: [[Player's Handbook]] pg 278, [[SRD]] pg 183
-tags: [[Artificer]], [[Cleric War Spells]], [[Druid]], [[Elemental Discipline]], [[Paladin Ancients Spells]], [[Paladin Conquest Spells]], [[Paladin Redemption Spells]], [[Sorcerer]], ranger, [[Wizard]], [[4th level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Cleric War Spells]], [[Druid]], [[Elemental Discipline]], [[Paladin Ancients Spells]], [[Paladin Conquest Spells]], [[Paladin Redemption Spells]], [[Sorcerer]], [[Ranger]], [[Wizard]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

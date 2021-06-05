@@ -1,6 +1,6 @@
 # Snare
 sources: [[Xanathar's Guide to Everything]] pg 165
-tags: [[Artificer]], [[Druid]], ranger, [[Wizard]], [[1st level]], [[Abjuration Spells]]
+tags: [[Artificer]], [[Druid]], [[Ranger]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 
