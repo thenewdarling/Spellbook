@@ -1,6 +1,6 @@
 # Blink
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 122
-tags: [[Artificer]], [[Cleric Trickery Spells]], [[Sorcerer]], [[Warlock Archfey Spells]], [[Wizard]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Cleric Trickery Spells]], [[Sorcerer]], [[Warlock Archfey Spells]], [[Wizard]], [[Warlock Hexblade Spells]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

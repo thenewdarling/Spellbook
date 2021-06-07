@@ -1,6 +1,6 @@
 # Staggering Smite
 sources: [[Player's Handbook]] pg 278
-tags: [[Paladin]], [[4th level]], [[Evocation Spells]]
+tags: [[Paladin]], [[Warlock Hexblade Spells]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

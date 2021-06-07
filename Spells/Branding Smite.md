@@ -1,6 +1,6 @@
 # Branding Smite
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 123
-tags: [[Artificer Battle Smith Spells]], [[Paladin]], [[2nd level]], [[Evocation Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Paladin]], [[Warlock Hexblade Spells]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

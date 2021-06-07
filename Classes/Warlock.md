@@ -36,47 +36,65 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 10th level - [[Celestial Resistance]]
 14th level -[[Searing Vengeance]]
 
-## Fathomless
+## The Fathomless
+*You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?*
+
+*Perhaps you were born into a generational cult that venerates the Fathomless and its spawn. Or you might have been shipwrecked and on the brink of drowning when your patron's grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.*
+
+*Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.*
 *source: [[Tasha's Cauldron of Everything]]*
 
-1st level - 
-6th level - 
-10th level - 
-14th level -
+*(See [[Warlock Fathomless Spells]])*
+1st level - [[Tentacle of the Deep]], [[Gift of the Sea]]
+6th level - [[Oceanic Soul]], [[Guardian Coil]]
+10th level - [[Grasping Tentacles]]
+14th level - [[Fathomless Plunge]]
 
-## Fiend
+## The Fiend
+*You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.*
 *source: [[Player's Handbook]]*
 
 *(see [[Warlock Fiend Spells]])*
-1st level - 
-6th level - 
-10th level - 
-14th level -
+1st level - [[Dark One's Blessing]]
+6th level - [[Dark One's Own Luck]]
+10th level - [[Fiendish Resilience]]
+14th level - [[Hurl Through Hell]]
+
 
 ## The Genie
+*You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.*
+
+*You choose your patron's kind or determine it randomly, using the Genie Kind table.*
 *source: [[Tasha's Cauldron of Everything]]*
 
-1st level - 
-6th level - 
-10th level - 
-14th level -
+*see [[Warlock Genie Spells]]*
+1st level - [[Genie’s Vessel]]
+6th level - [[Elemental Gift]]
+10th level - [[Sanctuary Vessel]]
+14th level - [[Limited Wish]]
 
-## Great Old One
+## The Great Old One
+*Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it.*
+
+*Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.*
 *source: [[Player's Handbook]]*
 
 *(see [[Warlock Great Old One Spells]])*
-1st level - 
-6th level - 
-10th level - 
-14th level -
+1st level - [[Awakened Mind]]
+6th level - [[Entropic Ward]]
+10th level - [[Thought Shield]]
+14th level - [[Create Thrall]]
 
 ## Hexblade
+*You have made your pact with a mysterious entity from the Shadowfell – a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.*
+
+*Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.*
 *source: [[Xanathar's Guide to Everything]]*
 
-1st level - 
-6th level - 
-10th level - 
-14th level -
+1st level - [[Hexblade's Curse]], [[Hex Warrior]]
+6th level - [[Accursed Specter]]
+10th level - [[Armor of Hexes]]
+14th level - [[Master of Hexes]]
 
 ## Undead
 *source: [[Van Richten's Guide to Ravenloft]]*
@@ -86,7 +104,6 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 6th level - 
 10th level - 
 14th level -
-
 
 ## Undying
 *source: [[Sword Coast Adventurer's Guide]]*

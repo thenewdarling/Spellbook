@@ -1,6 +1,6 @@
 # Lightning Bolt
 sources: [[Player's Handbook]] pg 255, [[SRD]] pg 159
-tags: [[Druid Mountain Spells]], [[Sorcerer]], [[Wizard]], [[Artificer Armorer Spells]], [[3rd level]], [[Evocation Spells]]
+tags: [[Druid Mountain Spells]], [[Sorcerer]], [[Wizard]], [[Artificer Armorer Spells]], [[Warlock Fathomless Spells]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

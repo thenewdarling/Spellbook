@@ -1,6 +1,6 @@
 # Shield
 sources: [[Player's Handbook]] pg 275, [[SRD]] pg 179
-tags: [[Artificer Artillerist Spells]], [[Artificer Battle Smith Spells]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
+tags: [[Artificer Artillerist Spells]], [[Artificer Battle Smith Spells]], [[Sorcerer]], [[Wizard]], [[Warlock Hexblade Spells]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

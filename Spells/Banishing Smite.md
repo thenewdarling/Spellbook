@@ -1,6 +1,6 @@
 # Banishing Smite
 sources: [[Player's Handbook]] pg 216
-tags: [[Artificer Battle Smith Spells]], [[Paladin]], [[5th level]], [[Abjuration Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Paladin]], [[Warlock Hexblade Spells]], [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 

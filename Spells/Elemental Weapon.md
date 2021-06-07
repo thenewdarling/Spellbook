@@ -1,6 +1,6 @@
 # Elemental Weapon
 sources: [[Player's Handbook]] pg 237
-tags: [[Artificer]], [[Druid]], [[Cleric Forge Spells]], [[Paladin]], [[Ranger]], [[3rd level]], [[Transmutation Spells]]
+tags: [[Artificer]], [[Druid]], [[Cleric Forge Spells]], [[Paladin]], [[Ranger]], [[Warlock Hexblade Spells]], [[3rd level]], [[Transmutation Spells]]
 
 **3rd-level transmutation**
 

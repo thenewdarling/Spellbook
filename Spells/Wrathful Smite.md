@@ -1,6 +1,6 @@
 # Wrathful Smite
 sources: [[Player's Handbook]] pg 289
-tags: [[Paladin]], [[1st level]], [[Evocation Spells]]
+tags: [[Paladin]], [[Warlock Hexblade Spells]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 
