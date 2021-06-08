@@ -1,3 +1,3 @@
 Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you’re raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage of the target’s attacks.
 
-tags: [[Barbarian#Ancestral Guardian]]
+tags: [[Barbarian#Path of the Ancestral Guardian]]

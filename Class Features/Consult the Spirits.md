@@ -2,4 +2,4 @@ At 10th level, you gain the ability to consult with your ancestral spirits. When
 
 After you cast either spell in this way, you can’t use this feature again until you finish a short or long rest.
 
-tags: [[Barbarian#Ancestral Guardian]]
+tags: [[Barbarian#Path of the Ancestral Guardian]]

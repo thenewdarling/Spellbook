@@ -2,6 +2,6 @@ Beginning at 6th level, the guardian spirits that aid you can provide supernatur
 
 When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.
 
-tags: [[Barbarian#Ancestral Guardian]]
+tags: [[Barbarian#Path of the Ancestral Guardian]]
 
 *Note: errata [[Xanathar's Guide to Everything]] has been confirmed, v1.0*
