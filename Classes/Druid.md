@@ -28,7 +28,7 @@ At 2nd level, you choose to identify with a circle of druids. Your choice grants
 *source: [[Player's Handbook]]*
 
 2nd level -- [[Bonus Cantrip#Druid Circle of the Land]], [[Natural Recovery]], [[Circle Spells#Druid Circle of the Land]]
-6th level -- [[Land's Stride]]
+6th level -- [[Land's Stride#Druid Circle of the Land]]
 10th level -- [[Nature's Ward]]
 14th level -- [[Nature's Sanctuary]]
 
