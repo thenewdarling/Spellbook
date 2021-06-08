@@ -39,4 +39,8 @@ When you choose this tradition at 3rd level, you gain proficiency in the Perform
 
 When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
 
-tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]]
+## Fighter Cavalier
+
+When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+
+tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]], [[Fighter#Cavalier]]

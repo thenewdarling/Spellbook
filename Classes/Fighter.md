@@ -21,40 +21,47 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 15th level -- [[Ever-Ready Shot]]
 
 # Banneret
+*A banneret is a knight who inspires greatness in others by committing brave deeds in battle. The mere presence of one in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone banneret is a skilled warrior, but a banneret leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.*
+
+*A banneret prefers to lead through deeds, not words. As a banneret spearheads an attack, their actions can awaken reserves of courage and conviction in allies that they never suspected they had.*
+
+*Banneret serves as the generic name for the Purple Dragon Knight archetype if you use it in campaign settings other than the Forgotten Realms or to model warlords other than Purple Dragon Knights.*
 *source: [[Sword Coast Adventurer's Guide]]*
 
-3rd level -- 
-7th level -- 
-10th level -- 
-15th level -- 
-18th level -- 
+3rd level -- [[Rallying Cry]]
+7th level -- [[Royal Envoy]]
+10th level -- [[Inspiring Surge]]
+15th level -- [[ Bulwark]]
+18th level -- Improved [[Inspiring Surge]]
 
 # Battle Master
+*Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.*
 *source: [[Player's Handbook]]*
 
-3rd level -- 
-7th level -- 
-10th level -- 
-15th level -- 
-18th level -- 
+3rd level -- [[Combat Superiority]], [[Student of War]]
+7th level -- [[Know Your Enemy]]
+10th level -- [[Improved Combat Superiority]]
+15th level -- [[Relentless]]
 
 # Cavalier
+*The archetypal cavalier excels at mounted combat. Usually born among the nobility and raised at court, a cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.*
 *source: [[Xanathar's Guide to Everything]]*
 
-3rd level -- 
-7th level -- 
-10th level -- 
-15th level -- 
-18th level -- 
+3rd level -- [[Bonus Proficiency#Fighter Cavalier]], [[Born to the Saddle]], [[Unwavering Mark]]
+7th level -- [[Warding Maneuver]]
+10th level -- [[Hold the Line]]
+15th level -- [[Ferocious Charger]]
+18th level -- [[Vigilant Defender]]
 
 # Champion
+*The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.*
 *source: [[Player's Handbook]]*
 
-3rd level -- 
-7th level -- 
-10th level -- 
-15th level -- 
-18th level -- 
+3rd level -- [[Improved Critical]]
+7th level -- [[Remarkable Athlete]]
+10th level -- [[Additional Fighting Style]]
+15th level -- [[Superior Critical]]
+18th level -- [[Survivor]]
 
 # Echo Knight
 *source: [[Explorer's Guide to Wildemount]]*
