@@ -1,4 +1,5 @@
 # Levelling Table
+
 ![[Cleric table.jpg]]
 
 Links to Features

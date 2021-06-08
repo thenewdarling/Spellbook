@@ -1,5 +1,7 @@
 # Levelling Table
 
+![[Fighter table.png]]
+
 Links to Features
 1st - [[Fighting Style#Fighter]], [[Second Wind]]
 2nd - [[Action Surge]]
