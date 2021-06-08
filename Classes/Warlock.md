@@ -96,23 +96,28 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 10th level - [[Armor of Hexes]]
 14th level - [[Master of Hexes]]
 
-## Undead
+## The Undead
 *source: [[Van Richten's Guide to Ravenloft]]*
+*You've made a pact with a deathless being, a creature that defies the cycle and life and death, forsaking its mortal shell so it might eternally pursue its unfathomable ambitions. For such beings, time and morality are fleeting things, the concerns of those for whom grains of sand still rush through life's hourglass. Having once been mortal themselves, these ancient undead know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.*
+
+*Beings of this type include the demilich Acererak, the vampire tyrant Kas the Bloody-Handed, the githyanki lich-queen Vlaakith, the dracolich Dragotha, the undead pharaoh Ankhtepot, and the elusive Darklord, Azalin Rex.*
+
+*(see [[Warlock Undead Spells]])*
+1st level - [[Form of Dread]]
+6th level - [[Grave Touched]]
+10th level - [[Necrotic Husk]]
+14th level - [[Spirit Projection]]
 
 
-1st level - 
-6th level - 
-10th level - 
-14th level -
-
-## Undying
+## The Undying
 *source: [[Sword Coast Adventurer's Guide]]*
 
 *(see [[Warlock Undying Spells]])*
-1st level - 
-6th level - 
-10th level - 
-14th level -
+1st level - [[Among the Dead]]
+6th level - [[Defy Death]]
+10th level - [[Undying Nature]]
+14th level - [[Indestructible Life]]
+
 
 # Pact Boon
 

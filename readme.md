@@ -5,8 +5,7 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 
 # To-do
 - Classes
-	- [[Fighter]] and [[Warlock]] subclasses
-		- [[Warlock Genie Spells]]
+	- [[Fighter]] subclasses
 	- [[Barbarian]]
 	- [[Ranger]]
 - Add racial traits.

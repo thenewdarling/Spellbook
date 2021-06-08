@@ -1,6 +1,6 @@
 # Death Ward
 sources: [[Player's Handbook]] pg 230, [[SRD]] pg 133
-tags: [[Artificer Alchemist Spells]], [[Cleric]], [[Paladin]], [[Warlock Undying Spells]], [[4th level]], [[Abjuration Spells]]
+tags: [[Artificer Alchemist Spells]], [[Cleric]], [[Paladin]], [[Warlock Undying Spells]], [[Warlock Undead Spells]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

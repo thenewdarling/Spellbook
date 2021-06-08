@@ -1,6 +1,6 @@
 # Gust of Wind
 sources: [[Player's Handbook]] pg 248, [[SRD]] pg 152
-tags: [[Cleric Tempest Spells]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Ranger]], [[Warlock Fathomless Spells]], [[2nd level]], [[Evocation Spells]]
+tags: [[Cleric Tempest Spells]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[Ranger]], [[Warlock Fathomless Spells]], [[Warlock Genie Spells#Djinni Spells]], [[2nd level]], [[Evocation Spells]]
 
 **2nd-level evocation**
 

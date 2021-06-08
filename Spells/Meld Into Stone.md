@@ -1,6 +1,6 @@
 # Meld Into Stone
 sources: [[Player's Handbook]] pg 259, [[SRD]] pg 163
-tags: [[Cleric]], [[Druid]], [[Ranger]], [[3rd level]], [[Ritual Spells]], [[Transmutation Spells]]
+tags: [[Cleric]], [[Druid]], [[Ranger]], [[Warlock Genie Spells#Dao Spells]], [[3rd level]], [[Ritual Spells]], [[Transmutation Spells]]
 
 **3rd-level transmutation (ritual)**
 

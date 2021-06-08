@@ -1,6 +1,6 @@
 # Wind Wall
 sources: [[Player's Handbook]] pg 288, [[SRD]] pg 192
-tags: [[Artificer Artillerist Spells]], [[Cleric Nature Spells]], [[Druid]], [[Ranger]], [[3rd level]], [[Evocation Spells]]
+tags: [[Artificer Artillerist Spells]], [[Cleric Nature Spells]], [[Warlock Genie Spells#Djinni Spells]], [[Druid]], [[Ranger]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

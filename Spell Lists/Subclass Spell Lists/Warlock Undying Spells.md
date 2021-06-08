@@ -1,3 +1,3 @@
-*A list of spells only available to Warlocks who take [[Warlock#Undying]]*
+*A list of spells only available to Warlocks who take [[Warlock#The Undying]]*
 
 ![[Warlock Undying spells.jpg]]

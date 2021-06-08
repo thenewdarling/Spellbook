@@ -1,6 +1,6 @@
 # Speak with Dead
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 181
-tags: [[Bard]], [[Cleric]], [[Wizard]], [[Warlock Undying Spells]], [[3rd level]], [[Necromancy Spells]]
+tags: [[Bard]], [[Cleric]], [[Wizard]], [[Warlock Undying Spells]], [[Warlock Undead Spells]], [[3rd level]], [[Necromancy Spells]]
 
 **3rd-level necromancy**
 

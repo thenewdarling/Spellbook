@@ -1,6 +1,6 @@
 # Aura of Life
 sources: [[Player's Handbook]] pg 216
-tags: [[Paladin]], [[Cleric]], [[Warlock Undying Spells]], [[4th level]], [[Abjuration Spells]]
+tags: [[Paladin]], [[Cleric]], [[Warlock Undying Spells]], [[Warlock Undead Spells]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

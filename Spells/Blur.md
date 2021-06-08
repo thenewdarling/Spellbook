@@ -1,6 +1,6 @@
 # Blur
 sources: [[Player's Handbook]] pg 219, [[SRD]] pg 123
-tags: [[Artificer]], [[Druid Desert Spells]], [[Sorcerer]], [[Wizard]], [[Warlock Hexblade Spells]], [[2nd level]], [[Illusion Spells]]
+tags: [[Artificer]], [[Druid Desert Spells]], [[Sorcerer]], [[Wizard]], [[Warlock Hexblade Spells]], [[Warlock Genie Spells#Marid Spells]], [[2nd level]], [[Illusion Spells]]
 
 **2nd-level illusion**
 

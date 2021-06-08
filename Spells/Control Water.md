@@ -1,6 +1,6 @@
 # Control Water
 sources: [[Player's Handbook]] pg 227, [[SRD]] pg 130
-tags: [[Cleric]], [[Druid]], [[Wizard]], [[Warlock Fathomless Spells]], [[4th level]], [[Transmutation Spells]]
+tags: [[Cleric]], [[Druid]], [[Wizard]], [[Warlock Fathomless Spells]], [[Warlock Genie Spells#Marid Spells]], [[4th level]], [[Transmutation Spells]]
 
 **4th-level transmutation**
 

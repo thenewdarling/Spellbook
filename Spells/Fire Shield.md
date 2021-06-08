@@ -1,6 +1,6 @@
 # Fire Shield
 sources: [[Player's Handbook]] pg 241, [[SRD]] pg 144
-tags: [[Artificer Battle Smith Spells]], [[Druid]], [[Warlock Fiend Spells]], [[Artificer Armorer Spells]], [[Sorcerer]], [[Wizard]], [[4th level]], [[Evocation Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Druid]], [[Warlock Fiend Spells]], [[Artificer Armorer Spells]], [[Sorcerer]], [[Wizard]], [[Warlock Genie Spells#Efreeti Spells]], [[4th level]], [[Evocation Spells]]
 
 **4th-level evocation**
 

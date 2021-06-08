@@ -1,6 +1,6 @@
 # Wish
 sources: [[Player's Handbook]] pg 288, [[SRD]] pg 193
-tags: [[Sorcerer]], [[Wizard]], [[9th level]], [[Conjuration Spells]]
+tags: [[Sorcerer]], [[Wizard]], [[Warlock Genie Spells#Genie Spells]], [[9th level]], [[Conjuration Spells]]
 
 **9th-level conjuration**
 

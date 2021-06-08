@@ -1,6 +1,6 @@
 # Spike Growth
 sources: [[Player's Handbook]] pg 277, [[SRD]] pg 182
-tags: [[Cleric Nature Spells]], [[Druid]], [[Ranger]], [[2nd level]], [[Transmutation Spells]]
+tags: [[Cleric Nature Spells]], [[Druid]], [[Ranger]], [[Warlock Genie Spells#Dao Spells]], [[2nd level]], [[Transmutation Spells]]
 
 **2nd-level transmutation**
 

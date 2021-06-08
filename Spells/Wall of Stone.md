@@ -1,6 +1,6 @@
 # Wall of Stone
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 190
-tags: [[Artificer]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Wizard]], [[5th level]], [[Evocation Spells]]
+tags: [[Artificer]], [[Druid]], [[Elemental Discipline]], [[Sorcerer]], [[Warlock Genie Spells#Dao Spells]], [[Wizard]], [[5th level]], [[Evocation Spells]]
 
 **5th-level evocation**
 
