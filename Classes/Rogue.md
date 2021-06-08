@@ -85,7 +85,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 *As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their full potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psychic adepts and spent years learning how to manifest your power.*
 *source: [[Tasha's Cauldron of Everything]]*
 
-3rd level -- [[Psionic Power]], [[Psychic Blades#Rogue Soulknife]]
+3rd level -- [[Psionic Power#Rogue Soulknife]], [[Psychic Blades#Rogue Soulknife]]
 9th level -- [[Soul Blades]]
 13th level -- [[Psychic Veil]]
 17th level -- [[Rend Mind]]

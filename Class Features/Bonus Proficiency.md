@@ -43,4 +43,12 @@ When you choose this archetype at 3rd level, you gain proficiency with the disgu
 
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
 
-tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]], [[Fighter#Cavalier]]
+# Fighter Rune Knight
+
+When you choose this archetype at 3rd level, you gain proficiency with smith’s tools, and you learn to speak, read, and write Giant.
+
+# Fighter Samurai
+
+When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+
+tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]], [[Fighter#Cavalier]], [[Fighter#Rune Knight]], [[Fighter#Samurai]]
