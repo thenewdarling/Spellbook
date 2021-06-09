@@ -1,0 +1,1 @@
+**Locathah Rising** is a 5th-edition Dungeons & Dragons adventure released to support Extra Life. It further develops plot elements from Princes of the Apocalypse and details the **locathah** race. **Locathah Rising** is a story about what happens when a normally peaceful species is pushed to the point of open conflict.
