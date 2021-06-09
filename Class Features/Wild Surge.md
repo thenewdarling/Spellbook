@@ -34,6 +34,6 @@ Flowers and vines temporarily grow around you; until your rage ends, the ground 
 
 8
 
-A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you rust succeed on a Constitution Saving throw or take 1d6 radiant damage and be blinded until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action.
+A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you rust succeed on a Constitution Saving throw or take 1d6 radiant damage and be [[blinded]] until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action.
 
 tags: [[Barbarian#Path of Wild Magic]]

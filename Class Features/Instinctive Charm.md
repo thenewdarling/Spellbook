@@ -2,6 +2,6 @@ Beginning at 6th level, when a creature you can see within 30 feet of you makes 
 
 On a successful save, you can't use this feature on the attacker again until you finish a [[Long Rest]].
 
-You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be [[charmed]] are immune to this effect.
 
 tags: [[Wizard#Enchantment]]

@@ -27,7 +27,7 @@ This armor has 6 charges. The wearer can expend the armor's charges in the follo
 
 -   When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
 
--   If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.
+-   If the creature would be knocked [[prone]], it can use its reaction to expend 1 charge to avoid being knocked [[prone]].
 
 The armor regains 1d6 expended charges daily at dawn.
 
@@ -73,7 +73,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 **_Prerequisite: 10th-level artificer_**  
 **_Item: A helmet (requires attunement)_**
 
-While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t incapacitated.
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t [[incapacitated]].
 
 ### Homunculus Servant
 
@@ -85,7 +85,7 @@ You determine the homunculus's appearance. Some artificers prefer mechanical-loo
 
 The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
 
-In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
+In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[incapacitated]], the homunculus can take any action of its choice, not just Dodge.
 
 The homunculus regains 2d6 hit points if the mending spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
@@ -129,7 +129,7 @@ CHA
 
 **Damage Immunities:** poison
 
-**Condition Immunities:** exhaustion, poisoned
+**Condition Immunities:** [[exhaustion]], [[poisoned]]
 
 **Senses:** darkvision 60 ft., passive Perception 10 + (PB x 2)
 
@@ -139,7 +139,7 @@ CHA
 
 **Proficiency Bonus (PB):** equals your bonus
 
-**_Evasion._** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
+**_Evasion._** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's [[incapacitated]].
 
 Actions
 
@@ -162,7 +162,7 @@ The infused item can send a jolt to the wearer to refocus their mind. The item h
 
 This magic weapon grants a + 1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 
-The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains ld4 expended charges daily at dawn.
+The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be [[blinded]] until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains ld4 expended charges daily at dawn.
 
 ### Repeating Shot
 

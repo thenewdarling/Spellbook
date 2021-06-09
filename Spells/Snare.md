@@ -14,7 +14,7 @@ tags: [[Artificer]], [[Druid]], [[Ranger]], [[Wizard]], [[1st level]], [[Abjurat
 
 As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magical trap.
 
-The trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned.
+The trap is nearly [[invisible]], requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned.
 
 The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is [[restrained]] there until the spell ends.
 

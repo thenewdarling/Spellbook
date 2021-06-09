@@ -28,7 +28,7 @@ Spell
 
 [[Commune with Nature]]
 
-You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
+You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a [[Long Rest]].
 
 *Note: this is an optional feature from [[Tasha's Cauldron of Everything]]*
 *It replaces the [[Primeval Awareness]] feature.*

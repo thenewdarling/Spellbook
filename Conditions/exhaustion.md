@@ -1,4 +1,4 @@
-Some Special Abilities and Environmental Hazards, such as starvation and the long-­term Effects of freezing or scorching temperatures, can lead to a Special condition called exhaustion. Exhaustion is measured in six levels. An Effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
+Some Special Abilities and Environmental Hazards, such as starvation and the long-term Effects of freezing or scorching temperatures, can lead to a Special condition called exhaustion. Exhaustion is measured in six levels. An Effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
 
 Exhaustion Effects
 Level	Effect

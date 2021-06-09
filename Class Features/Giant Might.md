@@ -6,6 +6,6 @@ At 3rd level, you have learned how to imbue yourself with the might of giants. A
 
 -   Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a [[Long Rest]].
 
 tags: [[Fighter#Rune Knight]]

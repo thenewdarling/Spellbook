@@ -4,6 +4,6 @@ At 10th level, when you hit a creature with your natural weapons while you are r
 
 -   Target takes 2d12 psychic damage.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
 
 tags: [[Barbarian#Path of the Beast]]

@@ -259,12 +259,12 @@ At 1st level, you know two cantrips of your choice from the [[Druid]] spell list
 
 ##### Preparing and Casting Spells
 
-The [[Druid]] table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these [[Druid]] spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The [[Druid]] table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these [[Druid]] spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 You prepare the list of [[Druid]] spells that are available for you to cast, choosing from the [[Druid]] spell list. When you do so, choose a number of [[Druid]] spells equal to your Wisdom modifier + your [[Druid]] level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level [[Druid]], you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[Cure Wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.  
-You can also change your list of prepared spells when you finish a long rest. Preparing a new list of [[Druid]] spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can also change your list of prepared spells when you finish a [[Long Rest]]. Preparing a new list of [[Druid]] spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ##### Spellcasting Ability
 
@@ -294,7 +294,7 @@ You learn two cantrips of your choice from the[[Wizard]] spell list. You learn a
 
 ###### Spell Slots
 
-The ![[Fighter Eldritch Knight Spellcasting table.png]] shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The ![[Fighter Eldritch Knight Spellcasting table.png]] shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 For example, if you know the 1st-level spell [[Shield]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Shield]] using either slot.
 
@@ -321,7 +321,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 ###### Spell Slots
 
-The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
 For example, if you know the 1st-level spell [[Animal Friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Animal Friendship]] using either slot.
 

@@ -8,7 +8,7 @@ tags: elf (mul daya), [[Warlock]], [[1st level]], [[Enchantment Spells]]
 
 *Range*: 90 feet
 
-*Components*: V, S, M (the petrified eye of a newt)
+*Components*: V, S, M (the [[petrified]] eye of a newt)
 
 *Duration*: [[Requires concentration]], up to 1 hour
 

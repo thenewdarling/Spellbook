@@ -2,6 +2,6 @@ At 6th level, your spores gain the ability to infest a corpse and animate it. If
 
 In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a [[Long Rest]].
 
 tags: [[Druid#Circle of Spores]]

@@ -7,7 +7,6 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 - Add racial traits.
 - To confirm updated to most recent errata.
 - Fill in stubs on Magic Items list from the ones added via [[Artificer Infusions]]
-- Update remaining class tags (and any others I am missing)
 
 # Errata
 The contents have been checked to be up to date with:

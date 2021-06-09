@@ -32,7 +32,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 -   **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
--   **Blind Fighting.** You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+-   **Blind Fighting.** You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
 
 -   **Defense.** While you are wearing armor, you gain a +1 bonus to AC.
 
@@ -45,7 +45,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 -   **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 -   **Superior Technique.** You learn one [[Maneuvers]] of your choice from among those available to the [[Fighter#Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice.)
-    -   You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your [[Maneuvers]]. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+    -   You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your [[Maneuvers]]. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a [[Short Rest]] or [[Long Rest]].
 
 -   **Thrown Weapon Fighting.** You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
     -   In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
@@ -53,7 +53,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 -   **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 -   **Unarmed Fighting.** Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
-    -   At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
+    -   At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature [[grappled]] by you.
 
 ## Ranger
 
@@ -61,7 +61,7 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 
 -   **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
--   **Blind Fighting.** You have blind sight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+-   **Blind Fighting.** You have blind sight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [[blinded]] or in darkness. Moreover, you can see an [[invisible]] creature within that range, unless the creature successfully hides from you.
 
 -   **Defense.** While you are wearing armor, you gain a +1 bonus to AC.
 

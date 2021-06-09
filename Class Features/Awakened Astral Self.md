@@ -1,4 +1,4 @@
-Starting at 17th level, your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 [[Ki]] points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are incapacitated or die.
+Starting at 17th level, your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 [[Ki]] points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [[incapacitated]] or die.
 
 While your astral self is awakened, you gain the following benefits.
 

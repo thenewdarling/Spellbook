@@ -14,9 +14,9 @@ Your walking speed increases by 5, and you gain a climbing speed and a swimming 
 
 ###### Tireless (10th Level)
 
-As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
 
-In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.
+In addition, whenever you finish a [[Short Rest]], your [[exhaustion]] level, if any, is decreased by 1.
 
 *Note: this is an optional feature from [[Tasha's Cauldron of Everything]]*
 *It replaces the [[Natural Explorer]] feature.*

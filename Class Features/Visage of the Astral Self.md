@@ -1,4 +1,4 @@
-When you reach 6th level, you can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 [[Ki]] point to summon this visage for 10 minutes. It vanishes early if you are incapacitated or die.
+When you reach 6th level, you can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 [[Ki]] point to summon this visage for 10 minutes. It vanishes early if you are [[incapacitated]] or die.
 
 The spectral visage covers your face like a helmet or mask. You determine its appearance.
 

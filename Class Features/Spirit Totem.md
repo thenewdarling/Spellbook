@@ -2,7 +2,7 @@ Starting at 2nd level, you gain the ability to call forth nature spirits and use
 
 As a bonus action, you can magically summon an incorporeal spirit to a point you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around that point. It counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents. As a bonus action, you can move the spirit up to 60 feet to a point you can see.
 
-The spirit persists for 1 minute. Once you use this feature, you can’t use it again until you finish a short or long rest.
+The spirit persists for 1 minute. Once you use this feature, you can’t use it again until you finish a [[Short Rest]] or [[Long Rest]].
 
 The effect of the spirit’s aura depends on the type of spirit you summon from the options below.
 

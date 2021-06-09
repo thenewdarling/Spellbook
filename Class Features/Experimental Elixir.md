@@ -1,4 +1,4 @@
-Beginning at 3rd level, whenever you finish a [[Long Rest]], you can magically produce an _experimental elixir_ in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.
+Beginning at 3rd level, whenever you finish a [[Long Rest]], you can magically produce an _experimental elixir_ in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an [[incapacitated]] creature.
 
 You can create additional _experimental elixirs_ by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir's effect from the Experimental Elixir table.
 
