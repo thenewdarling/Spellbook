@@ -1,6 +1,6 @@
 # Mislead
 sources: [[Player's Handbook]] pg 260, [[SRD]] pg 165
-tags: [[Bard]], [[Wizard]], [[5th level]], [[Illusion Spells]]
+tags: [[Bard]], [[Wizard]], [[Ranger Fey Wanderer Spells]], [[5th level]], [[Illusion Spells]]
 
 **5th-level illusion**
 

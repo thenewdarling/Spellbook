@@ -1,6 +1,6 @@
 # Web
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 192
-tags: [[Artificer]], [[Druid Underdark Spells]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
+tags: [[Artificer]], [[Druid Underdark Spells]], [[Ranger Swarmkeeper Spells]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 

@@ -1,6 +1,6 @@
 # Hold Monster
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 154
-tags: [[Bard]], [[Cleric War Spells]], [[Paladin Redemption Spells]], [[Paladin Vengeance Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[5th level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric War Spells]], [[Paladin Redemption Spells]], [[Paladin Vengeance Spells]], [[Ranger Monster Slayer Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[5th level]], [[Enchantment Spells]]
 
 **5th-level enchantment**
 

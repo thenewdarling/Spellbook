@@ -1,6 +1,6 @@
 # Magic Circle
 sources: [[Player's Handbook]] pg 256, [[SRD]] pg 160
-tags: [[Cleric]], [[Paladin]], [[Warlock]], [[Wizard]], [[3rd level]], [[Abjuration Spells]]
+tags: [[Cleric]], [[Paladin]], [[Warlock]], [[Wizard]], [[Ranger Monster Slayer Spells]], [[3rd level]], [[Abjuration Spells]]
 
 **3rd-level abjuration**
 

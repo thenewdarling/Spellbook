@@ -1,6 +1,6 @@
 # Protection from Evil and Good
 sources: [[Player's Handbook]] pg 270, [[SRD]] pg 173
-tags: [[Cleric]], [[Druid]] [[Sorcerer Clockwork Soul Spells]], [[Paladin]], [[Warlock]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
+tags: [[Cleric]], [[Druid]] [[Sorcerer Clockwork Soul Spells]], [[Ranger Horizon Walker Spells]], [[Ranger Monster Slayer Spells]], [[Paladin]], [[Warlock]], [[Wizard]], [[1st level]], [[Abjuration Spells]]
 
 **1st-level abjuration**
 

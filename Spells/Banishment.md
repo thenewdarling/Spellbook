@@ -1,6 +1,6 @@
 # Banishment
 sources: [[Player's Handbook]] pg 217, [[SRD]] pg 120
-tags: [[Cleric]], [[Paladin]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[4th level]], [[Abjuration Spells]]
+tags: [[Cleric]], [[Paladin]], [[Sorcerer]], [[Ranger Horizon Walker Spells]], [[Ranger Monster Slayer Spells]], [[Warlock]], [[Wizard]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

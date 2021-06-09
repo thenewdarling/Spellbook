@@ -1,6 +1,6 @@
 # Faerie Fire
 sources: [[Player's Handbook]] pg 239, [[SRD]] pg 141
-tags: elf (drow), [[Artificer]], [[Bard]], [[Cleric Light Spells]], [[Druid]], [[Warlock Archfey Spells]], [[1st level]], [[Evocation Spells]]
+tags: elf (drow), [[Artificer]], [[Bard]], [[Cleric Light Spells]], [[Druid]], [[Warlock Archfey Spells]], [[Ranger Swarmkeeper Spells]], [[1st level]], [[Evocation Spells]]
 
 **1st-level evocation**
 

@@ -34,7 +34,7 @@ At 3rd level, you choose a path that shapes the nature of your rage. Your choice
 *Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.*
 *source: [[Sword Coast Adventurer's Guide]]*
 
-### Restriction: Dwarves Only
+_**Restriction: Dwarves Only**_
 
 Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.
 
