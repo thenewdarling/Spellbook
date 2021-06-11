@@ -1,0 +1,1 @@
+**Plane Shift: Innistrad**, released in 2016, was the second release in the _Plane Shift_ series of digital supplements, presenting the _Magic: The Gathering_ setting of Innistrad for DnD 5e.

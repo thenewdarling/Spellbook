@@ -4,7 +4,7 @@ This is designed as a searchable database of DnD 5e knowledge. Using Obsidian's 
 If you are syncing with GitHub, note the database has been told to ignore the contents of the folder "Z", so store any of your personal notes such as character sheets and session notes in that folder. A basic character sheet template has also been supplied alongside this readme.
 
 # To-do
-- Add racial traits.
+- Add Monstrous racial traits and everything below
 - To confirm updated to most recent errata.
 - Fill in stubs on Magic Items list from the ones added via [[Artificer Infusions]]
 

@@ -1,6 +1,7 @@
 # Character Name
 ## 3rd Level [[Cleric]]
 ### [[Cleric#Life]]
+### [[Human]] [[Human#Variant Human]]
 
 HP: 27 / 27
 AC: 18
@@ -24,7 +25,6 @@ Mace, 1d6 + STR
 [[Cure Wounds]] +
 [[Healing Word]]
 [[Guiding Bolt]]
-[[Charm Person]] (v)
 
 **2nd Level**
 [[Lesser Restoration]] +
@@ -32,4 +32,3 @@ Mace, 1d6 + STR
 [[Prayer of Healing]]
 [[Hold Person]]
 [[Locate Object]]
-[[Spider Climb]] (v)

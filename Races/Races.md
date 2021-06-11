@@ -1,32 +1,36 @@
-*PHB*
-[[Dragonborn]] -
-[[Dwarf]] - 
-[[Elf]] - 
-[[Gnome]] - 
-[[Half-Elf]] -
+# Standard Races from [[Player's Handbook]]
+[[Dragonborn]]
+[[Dwarf]]
+[[Elf]]
+[[Gnome]]
+[[Half-Elf]]
 [[Half-Orc]]
 [[Halfling]]
 [[Human]]
 [[Tiefling]]
 
-"Exotic races"
-[[Aarakocra]] - ee
-[[Genasi]] - ee
-[[Goliath]] - ee
+# Exotic Races
+*[[Elemental Evil Player's Companion]]*
+[[Aarakocra]] 
+[[Genasi]] 
+[[Goliath]]
 
-[[Gith]] - mor
+*[[Mordenkainen's Tome of Foes]]*
+[[Gith]]
 
-[[Locathah]] - other thing
-[[Tortle]] - tortle
+*Standalone*
+[[Locathah]]
+[[Tortle]]
 
-[[Aasimar]] - volo
-[[Firbolg]] - volo
-[[Kenku]] - volo
-[[Tabaxi]] - volo
-[[Triton]] - volo
+*[[Volo's Guide to Monsters]]*
+[[Aasimar]]
+[[Firbolg]]
+[[Kenku]]
+[[Tabaxi]]
+[[Triton]]
 
 
-"Monstrous Races"
+# Monstrous Races
 [[Bugbear]]
 [[Centaur]]
 [[Goblin]]
