@@ -8,6 +8,6 @@ Dungeon Masters and players will get some much-needed guidance as you plan your 
 
 -   **Chapter 1: Monster Lore** takes several iconic D&D monsters and provides additional information about their origins, their dispositions and behaviors, and their lairs—above and beyond what is written in the _Monster Manual._ Dive deep into the story behind D&D’s most popular and iconic monsters, including beholders, mind flayers, and the yuan-ti, as well as classics like orcs, gnolls, and kobolds.  
      
--   **Chapter 2: Character Races** presents character races that are some of the more distinctive race options in the D&D multiverse, including the goblin, the orc, and the firbolg.  
+-   **Chapter 2: Character [[Races]]** presents character [[Races]] that are some of the more distinctive race options in the D&D multiverse, including the goblin, the orc, and the firbolg.  
      
 -   **Chapter 3: Bestiary** provides game statistics and lore for nearly one hundred monsters suitable for any D&D campaign. Gain access to rules and story for dozens of monsters new to fifth edition Dungeons & Dragons, such as the froghemoth, the neogi, and the vargouille.

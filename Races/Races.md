@@ -31,20 +31,26 @@
 
 
 # Monstrous Races
+*[[Volo's Guide to Monsters]]*
 [[Bugbear]]
-[[Centaur]]
-[[Goblin]]
-[[Grung]]
+[[Goblin]] (and others)
 [[Hobgoblin]]
 [[Kobold]]
 [[Lizardfolk]]
-[[Minotaur]]
 [[Yuan-ti]]
-[[Orc]]
+[[Orc]] (and other books)
 
+*Other*
+[[Centaur]]
+[[Grung]]
+[[Minotaur]]
 
-*Tasha's*
+# Other
+
+*Tasha's Design a Custom Race*
 [[Custom Origin]]
+
+# Setting Specific
 
 *Eberron*
 [[Changeling]]
@@ -59,7 +65,6 @@
 [[Kor]]
 [[Merfolk]]
 [[Naga]]
-[[Vampire]]
 
 *Ravnica*
 [[Loxodon]]
