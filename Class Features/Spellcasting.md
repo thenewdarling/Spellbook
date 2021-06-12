@@ -268,7 +268,7 @@ You can also change your list of prepared spells when you finish a [[Long Rest]]
 
 ##### Spellcasting Ability
 
-Wisdom is your spellcasting ability for your [[Druid]] spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a [[Druid]] spell you cast and when making an attack roll with one.
+Wisdom is your spellcasting ability for your [[Druid]] spells, since your magic draws upon your devotion and [[Attunement]] to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a [[Druid]] spell you cast and when making an attack roll with one.
 
 **Spell save DC** \= 8 + your proficiency bonus + your Wisdom modifier
 
@@ -335,7 +335,7 @@ Additionally, when you gain a level in this class, you can choose one of the ran
 
 ###### Spellcasting Ability
 
-Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your [[Attunement]] to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
 **Spell save DC** \= 8 + your proficiency bonus + your Wisdom modifier
 

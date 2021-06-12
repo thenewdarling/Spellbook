@@ -6,7 +6,7 @@ This prosthetic appendage was developed by artificers of House Cannith. To attun
 While attached, the prosthetic provides these benefits:
 
 -   The prosthetic is a fully capable part of your body.
--   You can take an action to remove the prosthetic, and it removes itself if your attunement to it ends. It can't be removed against your will.
+-   You can take an action to remove the prosthetic, and it removes itself if your [[Attunement]] to it ends. It can't be removed against your will.
 -   The prosthetic is a magic melee weapon with which you're proficient. It deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the prosthetic detaches and flies at the target of the attack, then immediately returns to you and reattaches.
 
 Thrown. 

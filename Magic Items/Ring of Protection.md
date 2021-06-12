@@ -1,4 +1,4 @@
-Requires Attunement
+Requires [[Attunement]]
 
 You gain a +1 bonus to AC and Saving Throws while wearing this ring.
 

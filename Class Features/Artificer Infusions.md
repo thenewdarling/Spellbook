@@ -1,4 +1,4 @@
-Artificer infusions are extraordinary processes that rapidly turn a nonmagical object into a magic item. The description of each of the following infusions details the type of object that can receive it, along with whether the resulting magic item requires attunement.
+Artificer infusions are extraordinary processes that rapidly turn a nonmagical object into a magic item. The description of each of the following infusions details the type of object that can receive it, along with whether the resulting magic item requires [[Attunement]].
 
 Some infusions specify a minimum artificer level. You can't learn such an infusion until you are at least that level.
 
@@ -7,7 +7,7 @@ Unless an infusion's description says otherwise, you can't learn an infusion mor
 ### Arcane Propulsion Armor
 
 **_Prerequisite: 14th-level artificer_**  
-**_Item: A suit of armor (requires attunement)_**
+**_Item: A suit of armor (requires [[Attunement]])_**
 
 The wearer of this armor gains these benefits:
 
@@ -21,7 +21,7 @@ The wearer of this armor gains these benefits:
 
 ### Armor of Magical Strength
 
-**_Item: A suit of armor (requires attunement)_**
+**_Item: A suit of armor (requires [[Attunement]])_**
 
 This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
 
@@ -40,13 +40,13 @@ As an action, a creature wearing this infused armor can integrate into it artisa
 ### Boots of the Winding Path
 
 **_Prerequisite: 6th-level artificer_**  
-**_Item: A pair of boots (requires attunement)_**
+**_Item: A pair of boots (requires [[Attunement]])_**
 
 While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
 
 ### Enhanced Arcane Focus
 
-**_Item: A rod, staff or wand (requires attunement)_**
+**_Item: A rod, staff or wand (requires [[Attunement]])_**
 
 While holding this item, a creature gains +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
 
@@ -71,7 +71,7 @@ The bonus increases to +2 when you reach 10th level in this class.
 ### Helm of Awareness
 
 **_Prerequisite: 10th-level artificer_**  
-**_Item: A helmet (requires attunement)_**
+**_Item: A helmet (requires [[Attunement]])_**
 
 While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t [[incapacitated]].
 
@@ -158,7 +158,7 @@ The infused item can send a jolt to the wearer to refocus their mind. The item h
 ### Radiant Weapon
 
 **_Prerequisite: 6th-level artificer_**  
-**_Item: A simple or martial weapon (requires attunement)_**
+**_Item: A simple or martial weapon (requires [[Attunement]])_**
 
 This magic weapon grants a + 1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 
@@ -166,7 +166,7 @@ The weapon has 4 charges. As a reaction immediately after being hit by an attack
 
 ### Repeating Shot
 
-**_Item: A simple or martial weapon with the ammunition property (requires attunement)_**
+**_Item: A simple or martial weapon with the ammunition property (requires [[Attunement]])_**
 
 This magic weapon grants a + 1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
 
@@ -176,11 +176,11 @@ If you load no ammunition in the weapon, it produces its own, automatically crea
 
 Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
 
-In the tables, an item's entry tells you whether the item requires attunement. See the item's description in the _Dungeon Master's Guide_ for more information about it, including the type of object required for its making.
+In the tables, an item's entry tells you whether the item requires [[Attunement]]. See the item's description in the _Dungeon Master's Guide_ for more information about it, including the type of object required for its making.
 
 If you have _Xanathar's Guide to Everything_, you can choose from among the common magic items in that book when you pick a magic item you can replicate with this infusion.
 
-*Note: The following items are listed alongside Attunement Required Y/N*
+*Note: The following items are listed alongside [[Attunement]] Required Y/N*
 
 Replicable Magic Items (2nd-Level Artificer)
 
@@ -295,7 +295,7 @@ Replicable Magic Items (14th-level artificer)
 ### Repulsion Shield
 
 **_Prerequisite: 6th-level artificer_**  
-**_Item: A shield (requires attunement)_**
+**_Item: A shield (requires [[Attunement]])_**
 
 A creature gains a +1 bonus to Armor Class while wielding this shield.
 
@@ -304,7 +304,7 @@ The shield has 4 charges. While holding it, the wielder can use a reaction immed
 ### Resistant Armor
 
 **_Prerequisite: 6th-level artificer_**  
-**_Item: A suit of armor (requires attunement)_**
+**_Item: A suit of armor (requires [[Attunement]])_**
 
 While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
 
@@ -317,7 +317,7 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 ### Spell-Refueling Ring
 
 **_Prerequisite: 6th-level artificer_**  
-**_Item: A ring (requires attunement)_**
+**_Item: A ring (requires [[Attunement]])_**
 
 While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
 
