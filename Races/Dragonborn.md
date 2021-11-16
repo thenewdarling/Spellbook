@@ -14,7 +14,7 @@
 
 ![[Dragonborn breath weapon table.jpg]]
 
--   **Breath Weapon.** You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest. _HBInstead, you may use your breath weapon a number of times equal to your Constitution modifier. You regain expended uses on a short or long rest._
+-   **Breath Weapon.** You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a [[short rest]] or [[long rest]]. _HBInstead, you may use your breath weapon a number of times equal to your Constitution modifier. You regain expended uses on a [[short rest]] or [[long rest]]._
 
 -   **Languages.** You can read, speak, and write Common and Draconic.
 
@@ -34,7 +34,7 @@ Source: Explorer's Guide to Wildemount
 
 -   **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
--   **Forceful Presence.** When you make a Intimidation or Persuasion check, you can do so with advantage once per long rest.
+-   **Forceful Presence.** When you make a Intimidation or Persuasion check, you can do so with advantage once per [[long rest]].
 
 ### Ravenite
 
@@ -44,6 +44,6 @@ Source: Explorer's Guide to Wildemount
 
 -   **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
--   **Vengeful Assault.** When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack against that creature. You can do this once per short or long rest.
+-   **Vengeful Assault.** When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack against that creature. You can do this once per [[short rest]] or [[long rest]].
 
 tags: [[Races]]

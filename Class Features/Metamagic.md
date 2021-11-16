@@ -16,7 +16,7 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 
 -   **Quickened Spell.** When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
--   **Seeking Spell.** If you make an attack roll for a spell and miss, you can spend 2 sorcerer points to reroll the d20, and you must use the new roll.
+-   **Seeking Spell.** If you make an attack roll for a spell and miss, you can spend 2 [[Sorcerer]] points to reroll the d20, and you must use the new roll.
     -   You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 -   **Subtle Spell.** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.

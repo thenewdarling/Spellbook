@@ -32,8 +32,8 @@ Source: [[Mordenkainen's Tome of Foes]]
 
 -   **Martial Prodigy.** You are proficient with light and medium armor and with shortswords, longswords, and greatswords.
 
--   **Githyanki Psionics.** You know the [[Mage Hand]] cantrip, and the hand is invisible when you cast the cantrip with this trait.
-    -   When you reach 3rd level, you can cast the [[Jump]] spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Misty Step]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
+-   **Githyanki Psionics.** You know the [[Mage Hand]] cantrip, and the hand is [[invisible]] when you cast the cantrip with this trait.
+    -   When you reach 3rd level, you can cast the [[Jump]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Misty Step]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]].
     -   Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 
 ### Githzerai
@@ -44,10 +44,10 @@ In their fortresses within Limbo, the githzerai hone their minds to a razor's ed
 
 -   **Alignment.** Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.
 
--   **Mental Discipline.** You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
+-   **Mental Discipline.** You have advantage on saving throws against the [[charmed]] and [[frightened]] conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
 
--   **Githzerai Psionics.** You know the [[Mage Hand]] cantrip, and the hand is invisible when you cast the cantrip with this trait.
-    -   When you reach 3rd level, you can cast the [[Shield]] spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Detect Thoughts]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
+-   **Githzerai Psionics.** You know the [[Mage Hand]] cantrip, and the hand is [[invisible]] when you cast the cantrip with this trait.
+    -   When you reach 3rd level, you can cast the [[Shield]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Detect Thoughts]] spell once with this trait, and you regain the ability to do so when you finish a [[long rest]].
     -   Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 
 tags: [[Races]]

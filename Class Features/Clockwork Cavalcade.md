@@ -6,6 +6,6 @@ At 18th level, you summon spirits of order to expunge disorder around you. As an
 
 -   Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.
 
-Once you use this action, you can’t use it again until you finish a [[Long Rest]], unless you spend 7 sorcery points to use it again.
+Once you use this action, you can’t use it again until you finish a [[long rest]], unless you spend 7 sorcery points to use it again.
 
 tags: [[Sorcerer#Clockwork Soul]]

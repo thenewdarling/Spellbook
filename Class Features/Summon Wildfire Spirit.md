@@ -14,7 +14,7 @@ _Small elemental_
 
 **Armor Class:** 13 (natural armor)
 
-**Hit Points:** 5 + five times your druid level
+**Hit Points:** 5 + five times your [[Druid]] level
 
 **Speed:** 30 ft., fly 30 ft. (hover)
 

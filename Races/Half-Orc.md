@@ -18,7 +18,7 @@ Source: Player's Handbook
 
 -   **Menacing.** You gain proficiency in the Intimidation skill.
 
--   **Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+-   **Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a [[long rest]].
 
 -   **Savage Attacks.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 
@@ -36,7 +36,7 @@ If your Half-Orc has the Mark of Finding, replace all Racial Traits found in the
 
 -   **Hunter's Intuition.** Whenever you make a Wisdom (Perception) or a Wisdom (Survival) check, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Finder's Magic.** You can cast the [[Hunter's Mark]] spell with this trait. Starting at 3rd level, you can also cast the [[Locate Object]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.
+-   **Finder's Magic.** You can cast the [[Hunter's Mark]] spell with this trait. Starting at 3rd level, you can also cast the [[Locate Object]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Wisdom is your Spellcasting Ability for these spells.
 
 -   **Languages.** You can speak, read, and write Common and Goblin.
 

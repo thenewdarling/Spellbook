@@ -4,7 +4,7 @@ You gain the following benefits while wearing this armor:
 
 -   If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.
 
--   You can use the arcane armor as a spellcasting focus for your artificer spells.
+-   You can use the arcane armor as a spellcasting focus for your [[Artificer]] spells.
 
 -   The armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a body part it is replacing.
 

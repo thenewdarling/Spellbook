@@ -24,7 +24,7 @@ _**Shifters are sometimes called the weretouched, as many believe that they are 
 
 -   **Keen Senses.** You have proficiency in the Perception skill.
 
--   **Shifting.** As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain benefits that depend on your shifter subrace, described below. Once you shift, you can’t do so again until you finish a short or long rest.
+-   **Shifting.** As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point). You also gain benefits that depend on your shifter subrace, described below. Once you shift, you can’t do so again until you finish a [[short rest]] or [[long rest]].
 
 -   **Languages.** You can read and write Common, Quori, and one other language of your choice.
 
@@ -76,7 +76,7 @@ Wildhunt shifters are sharp and insightful. Some are constantly alert, ever wary
 
 -   **Natural Tracker.** You have proficiency in the Survival skill.
 
--   **Mark the Scent.** As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next long rest, your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can’t use this trait again until you finish a short or long rest.
+-   **Mark the Scent.** As a bonus action, you can mark one creature you can see within 10 feet of you. Until the end of your next [[long rest]], your proficiency bonus is doubled for any ability check you make to find the marked creature, and you always know the location of that creature if it is within 60 feet of you. You can’t use this trait again until you finish a [[short rest]] or [[long rest]].
 
 -   **Shifting Feature.** While shifted, you have advantage on Wisdom checks.
 

@@ -40,7 +40,7 @@ If your Human has the Mark of Finding, replace all Racial Traits found in the Pl
 
 -   **Hunter's Intuition.** Whenever you make a Wisdom (Perception) or a Wisdom (Survival) check, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Finder's Magic.** You can cast the [[Hunter's Mark]] spell with this trait. Starting at 3rd level, you can also cast the [[Locate Object]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.
+-   **Finder's Magic.** You can cast the [[Hunter's Mark]] spell with this trait. Starting at 3rd level, you can also cast the [[Locate Object]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Wisdom is your Spellcasting Ability for these spells.
 
 -   **Languages.** You can speak, read, and write Common and Goblin.
 
@@ -72,7 +72,7 @@ If your Human has the Mark of Handling, replace all Racial Traits found in the P
 
 -   **Wild Intuition.** Whenever you make a Wisdom (Animal Handling) or a Intelligence (Nature) check, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Primal Connection.** You can cast the [[Animal Friendship]] spell and the [[Speak with Animals]] with this trait, requiring no material components. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.
+-   **Primal Connection.** You can cast the [[Animal Friendship]] spell and the [[Speak with Animals]] with this trait, requiring no material components. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Wisdom is your Spellcasting Ability for these spells.
 
 -   **The Bigger They Are.** Starting at 3rd level, you can target a Beast or a Monstrosity when you cast [[Animal Friendship]] or [[Speak with Animals]], provided that the creature's intelligence is 3 or lower.
 
@@ -106,7 +106,7 @@ If your Human has the Mark of Making, replace all Racial Traits found in the Pla
 
 -   **Artisan's Gift.** You gain proficiency in one type of Artisan's Tools of your choice.
 
--   **Spellsmith.** You learn the [[Mending]] cantrip. You can also cast the [[Magic Weapon]] spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require concentration. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells.
+-   **Spellsmith.** You learn the [[Mending]] cantrip. You can also cast the [[Magic Weapon]] spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require concentration. Once you cast this spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Intelligence is your Spellcasting Ability for these spells.
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Making Spells table are added to the spell list of your Spellcasting class.
 
@@ -138,7 +138,7 @@ If your Human has the Mark of Passage, replace all Racial Traits found in the Pl
 
 -   **Intuitive Motion.** Whenever you make an Dexterity (Acrobatics) or an Ability Check involving operating or maintaining a Land Vehicle, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Magical Passage.** You can cast the [[Misty Step]] spell with this trait. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Dexterity is your Spellcasting Ability for these spells.
+-   **Magical Passage.** You can cast the [[Misty Step]] spell with this trait. Once you cast this spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Dexterity is your Spellcasting Ability for these spells.
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Passage Spells table are added to the spell list of your Spellcasting class.
 
@@ -168,9 +168,9 @@ If your Human has the Mark of Sentinel, replace all Racial Traits found in the P
 
 -   **Sentinel's Intuition.** Whenever you make an Wisdom (Insight) or a Wisdom (Perception) check, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Guardian's Shield.** You can cast the [[Shield]] spell with this trait. Once you cast this spell with this trait, you can't cast that spell again until you finish a Long Rest. Wisdom is your Spellcasting Ability for these spells.
+-   **Guardian's Shield.** You can cast the [[Shield]] spell with this trait. Once you cast this spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Wisdom is your Spellcasting Ability for these spells.
 
--   **Vigilant Guardian.** Once a creature that you can see within 5ft of you is hit with an attack roll, you can use your reaction to swap places with the creature, and you are hit by the attack instead. Once you use this trait, you can't do so again until you finish a long rest.
+-   **Vigilant Guardian.** Once a creature that you can see within 5ft of you is hit with an attack roll, you can use your reaction to swap places with the creature, and you are hit by the attack instead. Once you use this trait, you can't do so again until you finish a [[long rest]].
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Sentinel Spells table are added to the spell list of your Spellcasting class.
 

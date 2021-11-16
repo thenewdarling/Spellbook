@@ -4,8 +4,8 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 
 -   Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the d20.
 
--   If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
+-   If the cursed target dies, you regain hit points equal to your [[Warlock]] level + your Charisma modifier (minimum of 1 hit point).
 
-You can’t use this feature again until you finish a [[Short Rest]] or [[Long Rest]].
+You can’t use this feature again until you finish a [[short rest]] or [[long rest]].
 
 tags: [[Warlock#Hexblade]]

@@ -18,7 +18,7 @@ Source: [[Guildmaster's Guide to Ravnica]]
 
 -   **Tireless Precision.** You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand. You are also proficient with one tool of your choice. Whenever you make an ability check with the chosen s kill or tool, roll a d4 and add the number rolled to the check's total.
 
--   **Partially Amphibious.** By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you've reached that limit, you can't use this trait again until you finish a long rest.
+-   **Partially Amphibious.** By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you've reached that limit, you can't use this trait again until you finish a [[long rest]].
 
 -   **Languages.** You can speak, read, and write Common, Vedalken, and one language of your choice.
 

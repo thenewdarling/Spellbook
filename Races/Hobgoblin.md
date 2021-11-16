@@ -18,7 +18,7 @@ Source: [[Volo's Guide to Monsters]]
 
 -   **Martial Training.** You are proficient with two martial weapons of your choice and with light armor.
 
--   **Saving Face.** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
+-   **Saving Face.** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a [[short rest]] or [[long rest]].
 
 -   **Languages.** You can speak, read, and write Common and Goblin.
 

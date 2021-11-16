@@ -16,7 +16,7 @@ Source: [[Guildmaster's Guide to Ravnica]]
 
 -   **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
--   **Loxodon Serenity.** You have advantage against being charmed or frightened.
+-   **Loxodon Serenity.** You have advantage against being [[charmed]] or [[frightened]].
 
 -   **Natural Armour.** You have thick, leathery skin. When you aren't wearing armor, your AC is 12 + your Constitution modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
 

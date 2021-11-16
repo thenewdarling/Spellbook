@@ -18,7 +18,7 @@ Source: [[Plane Shift - Amonkhet]]
 
 -   **Khenra Weapon Training.** You have proficiency with the khopesh, spear, and javelin.
 
--   **Khenra Twins.** If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened.
+-   **Khenra Twins.** If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be [[frightened]].
 
 -   **Languages.** You can speak, read, and write Common and Khenra.
 

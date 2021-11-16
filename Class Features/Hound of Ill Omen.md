@@ -2,7 +2,7 @@ At 6th level, you gain the ability to call forth a howling creature of darkness 
 
 -   The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.
 
--   It appears with a number of temporary hit points equal to half your sorcerer level.
+-   It appears with a number of temporary hit points equal to half your [[Sorcerer]] level.
 
 -   It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.
 

@@ -2,6 +2,6 @@ At 10th level, when another creature that you can see within 60 feet of you hits
 
 Alternatively, if a creature within 60 feet of you takes damage from a fall, you can use your reaction to increase the fall's damage by 2d10.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a [[Long Rest]].
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a [[long rest]].
 
 tags: [[Wizard#Graviturgy]]

@@ -4,7 +4,7 @@ WHAT WONDERFUL WITCHERY IS THIS?
 
 _**A magical mixture of rules options for the world's greatest roleplaying game.**_
 
-The wizard Tasha, whose great works include the spell _Tasha’s hideous laughter_, has gathered bits and bobs of precious lore during her illustrious career as an adventurer. Her enemies wouldn’t want these treasured secrets scattered across the multiverse, so in defiance, she has collected and codified these tidbits for the enrichment of all.
+The [[Wizard]] Tasha, whose great works include the spell _Tasha’s hideous laughter_, has gathered bits and bobs of precious lore during her illustrious career as an adventurer. Her enemies wouldn’t want these treasured secrets scattered across the multiverse, so in defiance, she has collected and codified these tidbits for the enrichment of all.
 
 -   EXPANDED SUBCLASSES. Try out subclass options for every Dungeons & Dragons class, including the artificer, which appears in the book.  
      

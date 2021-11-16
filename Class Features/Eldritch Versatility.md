@@ -4,7 +4,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 -   Replace the option you chose for the [[Warlock#Pact Boon]] feature with one of that feature's other options.
 
--   If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another warlock spell of the same level.
+-   If you're 12th level or higher, replace one spell from your Mystic Arcanum feature with another [[Warlock]] spell of the same level.
 
 If this change makes you ineligible for any of your [[Eldritch Invocations]], you must also replace them now, choosing invocations for which you qualify.
 

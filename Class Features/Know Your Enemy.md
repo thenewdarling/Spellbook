@@ -12,6 +12,6 @@ Starting at 7th level, if you spend at least 1 minute observing or interacting w
 
 -   Total class levels, if any
 
--   Fighter class levels, if any
+-   [[Fighter]] class levels, if any
 
 tags: [[Fighter#Battle Master]]

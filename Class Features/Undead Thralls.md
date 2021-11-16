@@ -2,7 +2,7 @@ At 6th level, you add the [[Animate Dead]] spell to your spellbook if it is not 
 
 Whenever you create an undead using a [[School of Necromancy]] spell, it has additional benefits:
 
--   The creature's hit point maximum is increased by an amount equal to your wizard level.
+-   The creature's hit point maximum is increased by an amount equal to your [[Wizard]] level.
 
 -   The creature adds your proficiency bonus to its weapon damage rolls.
 

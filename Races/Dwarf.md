@@ -48,9 +48,9 @@ Source: [[Sword Coast Adventurer's Guide]]
 
 -   **Superior Darkvision.** You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
--   **Duergar Resilience.** You have advantage on saving throws against illusions and against being charmed or paralyzed.
+-   **Duergar Resilience.** You have advantage on saving throws against illusions and against being [[charmed]] or [[paralyzed]].
 
--   **Duergar Magic.** When you reach 3rd level, you can cast the [[Enlarge Reduce]] spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [[Invisibility]] spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+-   **Duergar Magic.** When you reach 3rd level, you can cast the [[Enlarge Reduce]] spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [[Invisibility]] spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a [[long rest]]. Intelligence is your spellcasting ability for these spells.
 
 -   **Sunlight Sensitivity.** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
@@ -62,7 +62,7 @@ Source: [[Eberron - Rising From The Last War]]
 
 -   **Warder's Intuition.** Whenever you make an Intelligence (Investigation) check or an Ability Check involving Thieve's Tools, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Wards and Seals.** You can cast the [Alarm](http://dnd5e.wikidot.com/spell:alarm) and [Mage Armor](http://dnd5e.wikidot.com/spell:mage-armor) spells with this trait. Starting at 3rd level, you can also cast the [Arcane Lock](http://dnd5e.wikidot.com/spell:arcane-lock) spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells, and you don't require material components when you cast them with this trait.
+-   **Wards and Seals.** You can cast the [[Alarm]] and [[Mage Armor]] spells with this trait. Starting at 3rd level, you can also cast the [[Arcane Lock]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Intelligence is your Spellcasting Ability for these spells, and you don't require material components when you cast them with this trait.
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Warding Spells table are added to the spell list of your Spellcasting class.
 

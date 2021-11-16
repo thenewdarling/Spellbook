@@ -16,7 +16,7 @@ Source: [[Elemental Evil Player's Companion]]
 
 -   **Natural Athlete.** You have proficiency in the Athletics skill.
 
--   **Stone's Endurance.** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
+-   **Stone's Endurance.** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a [[short rest]] or [[long rest]].
 
 -   **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 

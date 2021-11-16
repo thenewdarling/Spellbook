@@ -4,7 +4,7 @@ In combat, the item shares your initiative count, but it takes its turn immediat
 
 When you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.
 
-Once you animate an item with this feature, you can't do so again until you finish a [[Long Rest]], unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
+Once you animate an item with this feature, you can't do so again until you finish a [[long rest]], unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
 
 ![[animating performance item stat block.png]]
 

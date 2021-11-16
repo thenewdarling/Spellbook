@@ -20,7 +20,7 @@ Source: [[Mythic Odysseys of Theros]]
 
 -   **Hunter's Instincts.** You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.
 
--   **Daunting Roar.** As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can’t use it again until you finish a short or long rest.
+-   **Daunting Roar.** As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become [[frightened]] of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can’t use it again until you finish a [[short rest]] or [[long rest]].
 
 -   **Languages.** You can speak, read, and write Common and Leonin.
 

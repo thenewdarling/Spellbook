@@ -4,6 +4,6 @@ When you create the tentacle, you can make a melee spell attack against one crea
 
 As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack .
 
-You can summon the tentacle a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
+You can summon the tentacle a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[long rest]].
 
 tags: [[Warlock#The Fathomless]]

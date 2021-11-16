@@ -1,6 +1,6 @@
 Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [[Concentration]] during that time, as if you were casting a spell.
 
-Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].
+Once you use this feature, you can't use it again until you finish a [[short rest]] or [[long rest]].
 
 **_Object Reading._** Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.
 

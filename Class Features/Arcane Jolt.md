@@ -4,6 +4,6 @@ At 9th level, you've learn new ways to channel arcane energy to harm or heal. Wh
 
 -   Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.
 
-You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a [[Long Rest]].
+You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a [[long rest]].
 
 tags: [[Artificer#Battle Smith]]

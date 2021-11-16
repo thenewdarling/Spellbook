@@ -12,7 +12,7 @@ While your Bladesong is active, you gain the following benefits:
 
 -   You gain a bonus to any Constitution saving throw you make to maintain your concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a [[Long Rest]].
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a [[long rest]].
 
 tags: [[Wizard#Bladesinger]]
 

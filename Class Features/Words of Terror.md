@@ -4,6 +4,6 @@ If you speak to a humanoid alone for at least 1 minute, you can attempt to seed 
 
 If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.
 
-Once you use this feature, you can’t use it again until you finish a [[Short Rest]] or [[Long Rest]].
+Once you use this feature, you can’t use it again until you finish a [[short rest]] or [[long rest]].
 
 tags: [[Bard#Whispers]]

@@ -14,7 +14,7 @@ _**The comforts of home are the goals of most halflings' lives: a place to settl
 
 -   **Lucky.** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 
--   **Brave.** You have advantage on saving throws against being frightened.
+-   **Brave.** You have advantage on saving throws against being [[frightened]].
 
 -   **Nimble.** You can move through the space of any creature that is of a size larger than yours.
 
@@ -50,7 +50,7 @@ Source: [[Explorer's Guide to Wildemount]]
 
 -   **Ability Score Increase.** Your Wisdom score increases by 1.
 
--   **Children of the Woods.** You know the [[Druidcraft]] Cantrip. At 3rd level, you can cast the [[Entangle]] spell once per long rest. At 5th level, you can cast [[Spike Growth]] spell once per long rest. These spells don't require the material components normally required. Wisdom is your spellcasting ability for these spells.
+-   **Children of the Woods.** You know the [[Druidcraft]] Cantrip. At 3rd level, you can cast the [[Entangle]] spell once per [[long rest]]. At 5th level, you can cast [[Spike Growth]] spell once per [[long rest]]. These spells don't require the material components normally required. Wisdom is your spellcasting ability for these spells.
 
 -   **Timberwalk.** Ability checks made to track you are at disadvantage and you can move through difficult terrain made of non-magical plants and overgrowth without expending extra movement.
 
@@ -62,7 +62,7 @@ Source: [[Eberron - Rising from the Last War]]
 
 -   **Ever Hospitable.** Whenever you roll a Charisma (Persuasion) check or an ability check involving Brewer's Tools or Cook's Utensils, roll a d4 and add the number rolled to the total ability check.
 
--   **Innkeeper's Magic.** You know the [[Prestidigitation]] cantrip. You can also cast [[Purify Food and Drink]] and [[Unseen Servant]] with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a long rest. Charisma is your Spellcasting Ability for these spells.
+-   **Innkeeper's Magic.** You know the [[Prestidigitation]] cantrip. You can also cast [[Purify Food and Drink]] and [[Unseen Servant]] with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Charisma is your Spellcasting Ability for these spells.
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class features, the spells on the Mark of Hospitality Spells table are added to the spell list of your spellcasting class.
 
@@ -90,7 +90,7 @@ Source: [[Eberron - Rising from the Last War]]
 
 -   **Medical Intuition.** Whenever you roll a Wisdom (Medicine) check or an ability check involving an Herbalism Kit, roll a d4 and add the number rolled to the total ability check.
 
--   **Healing Touch.** You can cast the [[Cure Wounds]] spell with this trait. Beginning at 3rd level, you can also cast the [[Lesser Restoration]] spell with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a long rest. Wisdom is your Spellcasting Ability for these spells.
+-   **Healing Touch.** You can cast the [[Cure Wounds]] spell with this trait. Beginning at 3rd level, you can also cast the [[Lesser Restoration]] spell with this trait. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Wisdom is your Spellcasting Ability for these spells.
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class features, the spells on the Mark of Healing Spells table are added to the spell list of your spellcasting class.
 

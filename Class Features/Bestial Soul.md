@@ -1,6 +1,6 @@
 Beginning at 6th level, the feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-You can also alter your form to help you adapt to your surroundings. When you finish a [[Short Rest]] or [[Long Rest]], choose one of the following benefits, which lasts until you finish a [[Short Rest]] or [[Long Rest]]:
+You can also alter your form to help you adapt to your surroundings. When you finish a [[short rest]] or [[long rest]], choose one of the following benefits, which lasts until you finish a [[short rest]] or [[long rest]]:
 
 -   You gain a swimming speed equal to your walking speed, and you can breathe underwater.
 

@@ -6,6 +6,6 @@ You can also spend one luck point when an attack roll is made against you. Roll 
 
 If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
 
-You regain your expended luck points when you finish a long rest.
+You regain your expended luck points when you finish a [[long rest]].
 
 Source: [[Player's Handbook]]

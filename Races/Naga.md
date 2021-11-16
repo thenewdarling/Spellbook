@@ -17,9 +17,9 @@ Source: [[Plane Shift - Amonkhet]]
 -   **Speed Burst.** By lowering your body to the ground and propelling yourself with your arms, you can move more quickly for a time. As a bonus action on your turn, if you have both hands free, you can increase your walking speed by 5 feet until the end of your turn.
 
 -   **Natural Weapons.** Your fanged maw and constricting serpentine body are natural weapons, which you can use to make unarmed strikes. If you hit with your bite, you deal piercing damage equal to 1d4 + your Strength modifier, and your target must make a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier). On a failed save, the target takes 1d4 poison damage.
-    -   If you hit with your constrict attack, you deal bludgeoning damage equal to 1d6 + your Strength modifier, and the target is grappled (escape DC 8 + your proficiency bonus + your Strength modifier). Until this grapple ends, the target is restrained, and you can’t constrict another target.
+    -   If you hit with your constrict attack, you deal bludgeoning damage equal to 1d6 + your Strength modifier, and the target is [[grappled]] (escape DC 8 + your proficiency bonus + your Strength modifier). Until this grapple ends, the target is [[restrained]], and you can’t constrict another target.
 
--   **Poison Immunity.** You are immune to poison damage and can’t be poisoned.
+-   **Poison Immunity.** You are immune to poison damage and can’t be [[poisoned]].
 
 -   **Poison Affinity.** You gain proficiency with the poisoner’s kit.
 

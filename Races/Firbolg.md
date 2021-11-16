@@ -14,9 +14,9 @@ Source: [[Volo's Guide to Monsters]]
 
 -   **Speed.** Your base walking speed is 30 feet.
 
--   **Firbolg Magic.** You can cast [Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic) and [Disguise Self](http://dnd5e.wikidot.com/spell:disguise-self) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+-   **Firbolg Magic.** You can cast [[Detect Magic]] and [[Disguise Self]] with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a [[short rest]] or [[long rest]]. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
 
--   **Hidden Step.** As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
+-   **Hidden Step.** As a bonus action, you can magically turn [[invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a [[short rest]] or [[long rest]].
 
 -   **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 

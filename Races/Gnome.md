@@ -60,7 +60,7 @@ Source: [[Eberron - Rising From The Last War]]
 
 -   **Gifted Scribe.** Whenever you make an Intelligence (History) or an Ability Check involving Calligrapher's Supplies, you can roll a d4 and add the number rolled to the total ability check.
 
--   **Scribe's Insight.** You know the [[Message]] cantrip. You can also cast the [[Comprehend Languages]] spell with this trait. Starting at 3rd level, you can also cast the [[Magic Mouth]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a Long Rest. Intelligence is your Spellcasting Ability for these spells.
+-   **Scribe's Insight.** You know the [[Message]] cantrip. You can also cast the [[Comprehend Languages]] spell with this trait. Starting at 3rd level, you can also cast the [[Magic Mouth]] spell with it. Once you cast either spell with this trait, you can't cast that spell again until you finish a [[long rest]]. Intelligence is your Spellcasting Ability for these spells.
 
 -   **Spells of the Mark.** If you have the Spellcasting or Pact Magic class feature, the spells on the Mark of Scribing Spells table are added to the spell list of your Spellcasting class.
 

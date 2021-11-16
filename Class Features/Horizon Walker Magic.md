@@ -1,4 +1,4 @@
-Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a [[Ranger]] spell for you, but it doesn’t count against the number of [[Ranger]] spells you know.
 
 *(see [[Ranger Horizon Walker Spells]])*
 

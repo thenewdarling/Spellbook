@@ -24,9 +24,9 @@ Air genasi typically have light blue skin, hair, and eyes. A faint but constant 
 
 -   **Ability Score Increase.** Your Dexterity score increases by 1.
 
--   **Unending Breath.** You can hold your breath indefinitely while you’re not incapacitated.
+-   **Unending Breath.** You can hold your breath indefinitely while you’re not [[incapacitated]].
 
--   **Mingle with the Wind.** You can cast the [[Levitate]] spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.
+-   **Mingle with the Wind.** You can cast the [[Levitate]] spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a [[long rest]]. Constitution is your spellcasting ability for this spell.
 
 ### Earth Genasi
 
@@ -38,7 +38,7 @@ Elemental earth manifests differently from one individual to the next. Some eart
 
 -   **Earth Walk.** You can move across difficult terrain made of earth or stone without expending extra movement.
 
--   **Merge with Stone.** You can cast the [[Pass without Trace]] spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.
+-   **Merge with Stone.** You can cast the [[Pass without Trace]] spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a [[long rest]]. Constitution is your spellcasting ability for this spell.
 
 ### Fire Genasi
 
@@ -52,7 +52,7 @@ Nearly all fire genasi are feverishly hot as if burning inside, an impression re
 
 -   **Fire Resistance.** You have resistance to fire damage.
 
--   **Reach to the Blaze.** You know the [[Produce Flame]] cantrip. Once you reach 3rd level, you can cast the [[Burning Hands]] spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
+-   **Reach to the Blaze.** You know the [[Produce Flame]] cantrip. Once you reach 3rd level, you can cast the [[Burning Hands]] spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a [[long rest]]. Constitution is your spellcasting ability for these spells.
 
 ### Water Genasi
 
@@ -68,6 +68,6 @@ Most water genasi look as if they just finished bathing, with beads of moisture 
 
 -   **Swim.** You have a swimming speed of 30 feet.
 
--   **Call to the Wave.** You know the [[Shape Water]] cantrip. When you reach 3rd level, you can cast the [[Create Or Destroy Water]] spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
+-   **Call to the Wave.** You know the [[Shape Water]] cantrip. When you reach 3rd level, you can cast the [[Create Or Destroy Water]] spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a [[long rest]]. Constitution is your spellcasting ability for these spells.
 
 tags: [[Races]]

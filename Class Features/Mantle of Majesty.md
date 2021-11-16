@@ -2,6 +2,6 @@ At 6th level, you gain the ability to cloak yourself in a fey magic that makes o
 
 Any creature [[charmed]] by you automatically fails its saving throw against the [[Command]] you cast with this feature.
 
-Once you use this feature, you can’t use it again until you finish a [[Long Rest]].
+Once you use this feature, you can’t use it again until you finish a [[long rest]].
 
 tags: [[Bard#Glamour]]

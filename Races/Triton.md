@@ -16,7 +16,7 @@ Source: [[Volo's Guide to Monsters]]
 
 -   **Amphibious.** You can breathe air and water.
 
--   **Control Air and Water.** A child of the sea, you can call on the magic of elemental air and water. You can cast [[Fog Cloud]] with this trait. Starting at 3rd level, you can cast [[Gust of Wind]] with it, and starting at 5th level, you can also cast [[Wall of Water]] with it. Once you cast a spell with this trait, you can’t cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+-   **Control Air and Water.** A child of the sea, you can call on the magic of elemental air and water. You can cast [[Fog Cloud]] with this trait. Starting at 3rd level, you can cast [[Gust of Wind]] with it, and starting at 5th level, you can also cast [[Wall of Water]] with it. Once you cast a spell with this trait, you can’t cast that spell with it again until you finish a [[long rest]]. Charisma is your spellcasting ability for these spells.
 
 -   **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 

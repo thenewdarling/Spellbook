@@ -4,6 +4,6 @@ Moreover, if you take damage while your spellbook's mind is manifested, you can 
 
 Until you finish 1d6 long rests, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. After you finish the required number of rests, the spells reappear in the spell book.
 
-Once you use this reaction, you can't do so again until you finish a [[Long Rest]].
+Once you use this reaction, you can't do so again until you finish a [[long rest]].
 
 tags: [[Wizard#Order of Scribes]]

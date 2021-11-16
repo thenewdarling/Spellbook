@@ -18,7 +18,7 @@ Source: [[Locathah Rising]], [[Extra Life 2019]]
 
 -   **Observant and Athletic.** You have proficiency in the Athletics and Perception skills.
 
--   **Leviathan Will.** You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
+-   **Leviathan Will.** You have advantage on saving throws against being [[charmed]], [[frightened]], [[paralyzed]], [[poisoned]], [[stunned]], or put to sleep.
 
 -   **Limited Amphibiousness.** You can breathe air and water, but you need to be submerged at least once every 4 hours to avoid suffocating.
 

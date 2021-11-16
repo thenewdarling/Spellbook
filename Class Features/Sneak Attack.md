@@ -2,6 +2,6 @@ Beginning at 1st level, you know how to strike subtly and exploit a foe's distra
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[incapacitated]], and you don't have disadvantage on the attack roll.
 
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the [[Rogue]] table.
 
 tags: [[Rogue]]
