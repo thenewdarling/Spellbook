@@ -111,3 +111,12 @@ When you reach 3rd level, you commit yourself to a monastic tradition. Your trad
 6th level -- [[Searing Arc Strike]]
 11th level -- [[Searing Sunburst]]
 17th level -- [[Sun Shield]]
+
+# Way of the Ascendant Dragon
+*The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.*
+*source:[[Fizban's Treasury of Dragons]]*
+
+3rd level -- [[Draconic Disciple]], [[Breath of the Dragon]]
+6th level -- [[Wings Unfurled]]
+11th level -- [[Aspect of the Wyrm]]
+17th level -- [[Ascendant Aspect]]

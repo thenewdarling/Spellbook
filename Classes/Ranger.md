@@ -79,3 +79,12 @@ At 3rd level, you choose to emulate the ideals and training of a ranger conclave
 7th level -- [[Swarmkeeper Magic]], [[Writhing Tide]]
 11th level -- [[Mighty Swarm]]
 15th level -- [[Swarming Dispersal]]
+
+# Drakewarden
+*Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.*
+*source[[Fizban's Treasury of Dragons]]*
+
+3rd level -- [[Drake Companion]]
+7th level -- [[Bond of Fang and Scale]]
+11th level -- [[Drake's Breath]]
+15th level -- [[Perfected Bond]]
