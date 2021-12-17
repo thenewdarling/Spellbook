@@ -32,7 +32,7 @@ Source: [[Player's Handbook]]
 
 -   **Sunlight Sensitivity.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
 
--   **Drow Magic.** You know the [[Dancing Lights]] cantrip. When you reach 3rd level, you can cast the [[Faerie Fire]] spell once with this trait and regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Darkness]] spell onceand regain the ability to do so when you finish a [[long rest]]. Charisma is your spellcasting ability for these spells.
+-   **Drow Magic.** You know the [[Dancing Lights]] cantrip. When you reach 3rd level, you can cast the [[Faerie Fire]] spell once with this trait and regain the ability to do so when you finish a [[long rest]]. When you reach 5th level, you can cast the [[Darkness]] spell once and regain the ability to do so when you finish a [[long rest]]. Charisma is your spellcasting ability for these spells.
 
 -   **Drow Weapon Training.** You have proficiency with rapiers, shortswords, and hand crossbows.
 
