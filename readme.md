@@ -7,6 +7,8 @@ If you are syncing with GitHub, note the database has been told to ignore the co
 # Errata
 The contents have been checked to be up to date with:
 
+- Player's Handbook v3.0 (2021)
+- Dungeon Master's Guide v3.0 (2021)
 - Sword Coast Adventurer's Guide, v2.1 (2020)
 - Xanathar's Guide to Everything v1.0 (2020)
 - Tasha's Cauldron of Everything (2020)
