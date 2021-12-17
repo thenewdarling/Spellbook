@@ -11,6 +11,7 @@ The contents have been checked to be up to date with:
 - Dungeon Master's Guide v3.0 (2021)
 - Sword Coast Adventurer's Guide, v2.1 (2020)
 - Xanathar's Guide to Everything v1.0 (2020)
+- Volo's Guide to Monsters v3.0 (2021)
 - Tasha's Cauldron of Everything v1.0 (2021)
 - Fizban's Treasury of Dragons (2021) (feats and spells)
 
