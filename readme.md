@@ -11,10 +11,16 @@ The contents have been checked to be up to date with:
 - Dungeon Master's Guide v3.0 (2021)
 - Sword Coast Adventurer's Guide, v2.1 (2020)
 - Xanathar's Guide to Everything v1.0 (2020)
-- Tasha's Cauldron of Everything (2020)
+- Tasha's Cauldron of Everything v1.0 (2021)
 - Fizban's Treasury of Dragons (2021) (feats and spells)
 
+# Missing Information
+I put more emphasis on accuracy than availability. Hence, I try to make sure if something is in here, it's updated to the latest available errata. There are entire sections of information missing, most of which is information I simply can't be bothered tracking. Feel free to make a pull request if you add more magic items, the Tasha's Battle Master [[Maneuvers]], etc.
+
 # Credits
+
+All information contained within, of course, belongs to Wizards of the Coast.
+
 
 Spellbook contains open-source components:
 - Main bulk of spell list was taken from the contents of https://github.com/thebombzen/grimoire/. 
