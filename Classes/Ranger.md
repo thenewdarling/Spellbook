@@ -19,7 +19,7 @@ Links to Features
 At 3rd level, you choose to emulate the ideals and training of a ranger conclave. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
 # Beast Master
-*The Beast Master archetype embodies a friendship between the civilized [[Races]] and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.*
+*The Beast Master archetype embodies a friendship between the civilized [[Ancestries]] and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.*
 *source[[Player's Handbook]]*
 
 3rd level -- [[Ranger's Companion]], [[Primal Companion]] (optional)

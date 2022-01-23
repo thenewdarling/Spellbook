@@ -10,7 +10,7 @@ What legends will you challenge—mighty heroes, inevitable prophecies, or titan
 
 -   Receive a supernatural gift from the gods, a set of special traits that mark your character for greatness.  
      
--   Select one of the new [[Races]] for your character—such mythic peoples as the leonin or a satyr.  
+-   Select one of the new [[Ancestries]] for your character—such mythic peoples as the leonin or a satyr.  
      
 -   New subclasses include the Bard’s College of Eloquence ([[Bard#Eloquence]], masters of oratory; and the Paladin’s Oath of Glory ([[Paladin#Glory]]), an affirmation of destiny laid out for you by divine providence.  
      

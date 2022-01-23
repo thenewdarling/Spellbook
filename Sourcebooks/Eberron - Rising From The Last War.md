@@ -7,6 +7,6 @@ This book provides everything players and Dungeon Masters need to play Dungeons 
 -   Dive straight into your pulp adventures with easy-to-use locations, complete with maps of train cars, battle-scarred fortresses, and fallen warforged colossi.
 -   Explore Sharn, a city of skyscrapers, airships, and intrigue and a crossroads for the world’s war-ravaged peoples.
 -   Flesh out your characters with a new D&D game element called a group patron—a background for your whole party.
--   Explore 16 new race/subrace options including dragonmarks, which magically transform certain members of the [[Races]] in the _Player’s Handbook_.
+-   Explore 16 new race/subrace options including dragonmarks, which magically transform certain members of the [[Ancestries]] in the _Player’s Handbook_.
 -   Confront horrific monsters born from the world’s devastating wars.
 -   Prepare to venture into the Mournland, a mist-cloaked, corpse-littered land twisted by magic.

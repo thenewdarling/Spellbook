@@ -13,7 +13,8 @@ The contents have been checked to be up to date with:
 - Xanathar's Guide to Everything v1.0 (2020)
 - Volo's Guide to Monsters v3.0 (2021)
 - Tasha's Cauldron of Everything v1.0 (2021)
-- Fizban's Treasury of Dragons (2021) (feats and spells)
+- Van Richten's Guide to Ravenloft (2021) (subclasses, ancestry options)
+- Fizban's Treasury of Dragons (2021) (subclasses, feats and spells)
 
 # Missing Information
 I put more emphasis on accuracy than availability. Hence, I try to make sure if something is in here, it's updated to the latest available errata. There are entire sections of information missing, most of which is information I simply can't be bothered tracking. Feel free to make a pull request if you add more magic items, the Tasha's Battle Master [[Maneuvers]], etc.
