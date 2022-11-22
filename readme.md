@@ -15,6 +15,8 @@ The contents have been checked to be up to date with:
 - Tasha's Cauldron of Everything v1.0 (2021)
 - Van Richten's Guide to Ravenloft (2021) (subclasses, ancestry options)
 - Fizban's Treasury of Dragons (2021) (subclasses, feats and spells)
+- Explorer's Guide to Wildemount (2020) (subclasses, spells)
+- Strixhaven: A Curriculum of Chaos (2021) (spells only)
 
 # Missing Information
 I put more emphasis on accuracy than availability. Hence, I try to make sure if something is in here, it's updated to the latest available errata. There are entire sections of information missing, most of which is information I simply can't be bothered tracking. Feel free to make a pull request if you add more magic items, the Tasha's Battle Master [[Maneuvers]], etc.

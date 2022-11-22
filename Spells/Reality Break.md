@@ -16,9 +16,7 @@ You shatter the barriers between realities and timelines, thrusting a creature i
 
 At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.
 
-|d10 |Effect |
-
-|-----|:---------:|
+|d10 |Effect
 
 |1-2 |**Vision of the Far Realm.** The target takes 6d12 psychic damage, and it is stunned until the end of the turn.|
 
