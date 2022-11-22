@@ -1,0 +1,1 @@
+A list of dunamancy spells involving the manipulation of time available through the [[Explorer's Guide to Wildemount]].
