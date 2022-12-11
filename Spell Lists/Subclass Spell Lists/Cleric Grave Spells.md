@@ -1,3 +1,3 @@
-*A list of spells only available to Clerics who take [[Cleric#Grave]]*
+*A list of spells available and automatically prepared by Clerics who take [[Cleric#Grave]]*
 
 ![[Cleric Grave spells.png]]

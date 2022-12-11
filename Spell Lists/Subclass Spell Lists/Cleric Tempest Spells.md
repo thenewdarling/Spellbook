@@ -1,3 +1,3 @@
-*A list of spells only available to Clerics who take [[Cleric#Tempest]]*
+*A list of spells available and automatically prepared by Clerics who take [[Cleric#Tempest]]*
 
 ![[Cleric Tempest spells.png]]
