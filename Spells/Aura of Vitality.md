@@ -1,6 +1,6 @@
 # Aura Of Vitality
 sources: [[Player's Handbook]] pg 216
-tags: [[Artificer Battle Smith Spells]], [[Cleric]], [[Paladin]], [[Druid]], [[3rd level]], [[Evocation Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Cleric]], [[Cleric Twilight Spells]], [[Paladin]], [[Druid]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

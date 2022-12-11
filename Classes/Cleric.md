@@ -155,7 +155,7 @@ Channel Divinity: [[Arcane Abjuration]]
 
 *Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.
 
-The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include Azuth and Mystra, as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes Hecate, Math Mathonwy, and Isis; the triple moon gods of Solinari, Lunitari, and Nuitari of Krynn; and Boccob, Vecna, and Wee Jas of Greyhawk.*
+*The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include Azuth and Mystra, as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes Hecate, Math Mathonwy, and Isis; the triple moon gods of Solinari, Lunitari, and Nuitari of Krynn; and Boccob, Vecna, and Wee Jas of Greyhawk.*
 (source: [[Sword Coast Adventurer's Guide]])
 
 Unlocked Class Abilities
@@ -163,3 +163,31 @@ Unlocked Class Abilities
 6th level - [[Spell Breaker]]
 8th level - [[Potent Spellcasting#Cleric Arcana Domain]]
 17th level - [[Arcane Mastery]]
+
+## Peace
+Spell list: [[Cleric Peace Spells]]
+Channel Divinity: [[Balm of Peace]]
+*The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand up against those forces that try to prevent peace from flourishing. See the Peace Deities table for a list of some of the gods associated with this domain.*
+
+*Clerics of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic aids those who are driven to fight for the way of peace.*
+(source: [[Tasha's Cauldron of Everything]])
+
+Unlocked Class Abilities
+1st level - [[Implement of Peace]], [[Emboldening Bond]]
+6th level - [[Protective Bond]]
+8th level - [[Potent Spellcasting#Cleric Peace Domain]]
+17th level - [[Expansive Bond]]
+
+## Twilight
+Spell list: [[Cleric Twilight Spells]]
+Channel Divinity: [[Twilight Sanctuary]]
+*The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.*
+
+*Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.*
+(source: [[Tasha's Cauldron of Everything]])
+
+Unlocked Class Abilities
+1st level - [[Bonus Proficiency#Cleric Twilight Domain]], [[Eyes of Night]], [[Vigilant Blessing]]
+6th level - [[Steps of Night]]
+8th level - [[Divine Strike#Cleric Twilight Domain]]
+17th level - [[Twilight Shroud]]

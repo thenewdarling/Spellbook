@@ -1,6 +1,6 @@
 # Sleep
 sources: [[Player's Handbook]] pg 276, [[SRD]] pg 180
-tags: [[Bard]], [[Paladin Redemption Spells]], [[Sorcerer]], [[Warlock Archfey Spells]], [[Wizard]], [[1st level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Paladin Redemption Spells]], [[Cleric Twilight Spells]], [[Sorcerer]], [[Warlock Archfey Spells]], [[Wizard]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

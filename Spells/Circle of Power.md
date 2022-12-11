@@ -1,6 +1,6 @@
 # Circle of Power
 sources: [[Player's Handbook]] pg 221
-tags: [[Paladin]], [[5th level]], [[Abjuration Spells]]
+tags: [[Paladin]], [[Cleric Twilight Spells]], [[5th level]], [[Abjuration Spells]]
 
 **5th-level abjuration**
 

@@ -1,6 +1,6 @@
 # See Invisibility
 sources: [[Player's Handbook]] pg 274, [[SRD]] pg 177
-tags: [[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Divination Spells]]
+tags: [[Artificer]], [[Bard]], [[Sorcerer]], [[Cleric Twilight Spells]], [[Wizard]], [[2nd level]], [[Divination Spells]]
 
 **2nd-level divination**
 

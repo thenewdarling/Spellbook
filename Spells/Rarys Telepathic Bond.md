@@ -1,6 +1,6 @@
 # Rary’s Telepathic Bond
 sources: [[Player's Handbook]] pg 270
-tags: [[Wizard]], [[Sorcerer Aberrant Mind Spells]], [[Bard]], [[5th level]], [[Ritual Spells]], [[Divination Spells]]
+tags: [[Wizard]], [[Sorcerer Aberrant Mind Spells]], [[Cleric Peace Spells]], [[Bard]], [[5th level]], [[Ritual Spells]], [[Divination Spells]]
 
 **5th-level divination (ritual)**
 

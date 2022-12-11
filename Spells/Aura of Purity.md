@@ -1,6 +1,6 @@
 # Aura of Purity
 sources: [[Player's Handbook]] pg 216
-tags: [[Artificer Battle Smith Spells]], [[Paladin]], [[Cleric]], [[4th level]], [[Abjuration Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Cleric Peace Spells]], [[Paladin]], [[Cleric]], [[4th level]], [[Abjuration Spells]]
 
 **4th-level abjuration**
 

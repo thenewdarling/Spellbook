@@ -1,6 +1,6 @@
 # Sending
 sources: [[Player's Handbook]] pg 274, [[SRD]] pg 177
-tags: [[Bard]], [[Cleric]], [[Sorcerer Aberrant Mind Spells]], [[Warlock Great Old One Spells]], [[Wizard]], [[3rd level]], [[Evocation Spells]]
+tags: [[Bard]], [[Cleric]], [[Sorcerer Aberrant Mind Spells]], [[Warlock Great Old One Spells]], [[Cleric Peace Spells]], [[Wizard]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

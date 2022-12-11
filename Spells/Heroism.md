@@ -1,6 +1,6 @@
 # Heroism
 sources: [[Player's Handbook]] pg 250, [[SRD]] pg 154
-tags: [[Artificer Battle Smith Spells]], [[Bard]], [[Paladin]], [[1st level]], [[Enchantment Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Cleric Peace Spells]], [[Bard]], [[Paladin]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 

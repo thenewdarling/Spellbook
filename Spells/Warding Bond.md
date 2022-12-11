@@ -1,6 +1,6 @@
 # Warding Bond
 sources: [[Player's Handbook]] pg 287, [[SRD]] pg 191
-tags: [[Artificer Battle Smith Spells]], [[Cleric]], [[Paladin]], [[Paladin Crown Spells]], [[2nd level]], [[Abjuration Spells]]
+tags: [[Artificer Battle Smith Spells]], [[Cleric Peace Spells]], [[Cleric]], [[Paladin]], [[Paladin Crown Spells]], [[2nd level]], [[Abjuration Spells]]
 
 **2nd-level abjuration**
 
