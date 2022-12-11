@@ -1,6 +1,6 @@
 # Zone of Truth
 sources: [[Player's Handbook]] pg 289, [[SRD]] pg 193
-tags: [[Bard]], [[Cleric]], [[Paladin]], [[Ranger Monster Slayer Spells]], [[2nd level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric]], [[Paladin]], [[Ranger Monster Slayer Spells]], [[Cleric Order Spells]], [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

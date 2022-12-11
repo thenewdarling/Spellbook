@@ -1,6 +1,6 @@
 # Commune
 sources: [[Player's Handbook]] pg 223, [[SRD]] pg 126
-tags: [[Cleric]], [[5th level]], [[Ritual Spells]], [[Divination Spells]]
+tags: [[Cleric]], [[Cleric Order Spells]], [[5th level]], [[Ritual Spells]], [[Divination Spells]]
 
 **5th-level divination (ritual)**
 

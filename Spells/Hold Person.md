@@ -1,6 +1,6 @@
 # Hold Person
 sources: [[Player's Handbook]] pg 251, [[SRD]] pg 154
-tags: [[Bard]], [[Cleric]], [[Druid]], [[Elemental Discipline]], [[Paladin Conquest Spells]], [[Paladin Redemption Spells]], [[Paladin Vengeance Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Enchantment Spells]]
+tags: [[Bard]], [[Cleric]], [[Druid]], [[Elemental Discipline]], [[Paladin Conquest Spells]], [[Paladin Redemption Spells]], [[Cleric Order Spells]], [[Paladin Vengeance Spells]], [[Sorcerer]], [[Warlock]], [[Wizard]], [[2nd level]], [[Enchantment Spells]]
 
 **2nd-level enchantment**
 

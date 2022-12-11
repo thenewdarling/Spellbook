@@ -1,0 +1,3 @@
+Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
+
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.

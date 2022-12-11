@@ -1,6 +1,6 @@
 # Mass Healing Word
 sources: [[Player's Handbook]] pg 258, [[SRD]] pg 163
-tags: [[Artificer Alchemist Spells]], [[Cleric]], [[Bard]], [[3rd level]], [[Evocation Spells]]
+tags: [[Artificer Alchemist Spells]], [[Cleric]], [[Cleric Order Spells]], [[Bard]], [[3rd level]], [[Evocation Spells]]
 
 **3rd-level evocation**
 

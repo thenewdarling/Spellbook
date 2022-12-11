@@ -191,3 +191,17 @@ Unlocked Class Abilities
 6th level - [[Steps of Night]]
 8th level - [[Divine Strike#Cleric Twilight Domain]]
 17th level - [[Twilight Shroud]]
+
+## Order
+Spell list: [[Cleric Order Spells]]
+Channel Divinity: [[Order's Demand]]
+*The Order Domain represents discipline, as well as devotion to the laws that govern a society, an institution, or a philosophy. Clerics of Order meditate on logic and justice as they serve their gods, examples of which appear in the Order Deities table.*
+
+*Clerics of Order believe that well-crafted laws establish legitimate hierarchies, and those selected by law to lead must be obeyed. Those who obey must do so to the best of their ability, and if those who lead fail to protect the law, they must be replaced. In this manner, law weaves a web of obligations that create order and security in a chaotic multiverse.*
+(source: [[Guildmaster's Guide to Ravnica]], [[Tasha's Cauldron of Everything]])
+
+Unlocked Class Abilities
+1st level - [[Bonus Proficiency#Cleric Order Domain]], [[Voice of Authority]]
+6th level - [[Embodiment of the Law]]
+8th level - [[Divine Strike#Cleric Order Domain]]
+17th level - [[Order's Wrath]]

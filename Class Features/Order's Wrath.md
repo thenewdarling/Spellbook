@@ -1,0 +1,3 @@
+Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your [[Divine Strike#Cleric Order Domain]] damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
+
+tags: [[Cleric#Order]]

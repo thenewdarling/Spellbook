@@ -21,6 +21,10 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor 
 
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
+## Cleric Order Domain
+
+When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the Intimidation or Persuasion skill (your choice).
+
 ## Bard Lore College
 
 When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.
@@ -55,4 +59,4 @@ When you choose this archetype at 3rd level, you gain proficiency with smith’s
 
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
 
-tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Cleric#Twilight]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]], [[Fighter#Cavalier]], [[Fighter#Rune Knight]], [[Fighter#Samurai]]
+tags: [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Cleric#Twilight]], [[Cleric#Order]], [[Bard#Lore]], [[Bard#Swords]], [[Bard#Valor]], [[Monk#Way of the Drunken Master]], [[Rogue#Assassin]], [[Fighter#Cavalier]], [[Fighter#Rune Knight]], [[Fighter#Samurai]]

@@ -46,4 +46,10 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 *Note: this feature can be replaced by [[Blessed Strikes]] as from [[Tasha's Cauldron of Everything]]*
 
-tags: [[Cleric#Life]], [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Trickery]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Cleric#Twilight]]
+## Cleric Order Domain
+
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+*Note: this feature can be replaced by [[Blessed Strikes]] as from [[Tasha's Cauldron of Everything]]*
+
+tags: [[Cleric#Life]], [[Cleric#Death]], [[Cleric#Nature]], [[Cleric#Trickery]], [[Cleric#Tempest]], [[Cleric#War]], [[Cleric#Forge]], [[Cleric#Twilight]], [[Cleric#Order]]
