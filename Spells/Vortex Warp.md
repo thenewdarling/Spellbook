@@ -4,13 +4,13 @@ tags: artificer, [[Sorcerer]], [[Wizard]], [[2nd level]], [[Conjuration Spells]]
 
 **2nd-level conjuration**
 
-**Casting Time**: 1 action
+*Casting Time*: 1 action
 
-**Range**: 90 feet
+*Range*: 90 feet
 
-**Components**: V, S
+*Components*: V, S
 
-**Duration**: Instantaneous
+*Duration*: Instantaneous
 
 You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (it can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze.
 
