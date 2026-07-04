@@ -1,6 +1,6 @@
 # Silvery Barbs
 sources: [[Strixhaven A Curriculum of Chaos]] pg 38
-tags: bard, [[Sorcerer]], [[Wizard]], [[1st level]], [[Enchantment Spells]]
+tags: [[bard]], [[Sorcerer]], [[Wizard]], [[1st level]], [[Enchantment Spells]]
 
 **1st-level enchantment**
 
