@@ -4,13 +4,13 @@ tags: [[Druid]], [[Sorcerer]], [[Wizard]], [[2nd level]], [[Necromancy Spells]]
 
 **2nd-level necromancy**
 
-**Casting Time**: 1 action
+*Casting Time*: 1 action
 
-**Range**: 60 feet
+*Range*: 60 feet
 
-**Components**: V, S, M (a withered vine twisted into a loop)
+*Components*: V, S, M (a withered vine twisted into a loop)
 
-**Duration**: Instantaneous
+*Duration*: Instantaneous
 
 You invoke both death and life upon a 10-foot radius sphere centered on a point within range. Each creature of your choice in that area much make a Constitution saving throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
 
